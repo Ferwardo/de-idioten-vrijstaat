@@ -16,7 +16,7 @@ Tijdens de zegening zullen de andere leden van de Volksvergadering de hele tijd 
 
 <!-- ### Notulen -->
 #### {article}
-De Secretaris zal gedetailleerde notules nemen van elke vergadering en deze verdelen onder de leden
+De Secretaris zal gedetailleerde notules nemen van elke vergadering en deze verdelen onder de leden.
 
 <!-- ### Sluiting -->
 #### {article}
