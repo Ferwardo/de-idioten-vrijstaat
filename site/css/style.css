@@ -12,7 +12,7 @@ h4 {
     --md-text-font: 'Quattrocento';
 }
 
-.md-nav__list .md-nav__list {
+div[data-md-type="toc"] .md-nav__list .md-nav__list {
     display: none;
 }
 
