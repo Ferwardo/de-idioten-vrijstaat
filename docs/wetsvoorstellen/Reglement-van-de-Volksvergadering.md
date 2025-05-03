@@ -19,7 +19,6 @@ Elk lid van de Volksvergadering zal bij een fysieke plenaire vergadering een off
 <!-- ### Opening -->
 #### {article}
 De Pontifex Maximus opent een vergadering door de gezegende notulen van de vorige vergadering, en indien aanwezig offers, ritueel te verbranden en hiermee een offer brengen aan Erecura.
-Deze vlam zal gebruikt worden om wierook in een wierookvat aan te steken dat ten allen tijde moet branden tijdens de vergadering om zo het zegen van Erecura te krijgen.
 
 Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de andere leden van de Volksvergadering "Summus asini" zeggen.
 
