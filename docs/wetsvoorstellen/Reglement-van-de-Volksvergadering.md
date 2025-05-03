@@ -3,6 +3,15 @@
 #### {article}
 Een lid van de Volksvergadering zal vrijwillig optreden als Pontifex Maximus, indien er meerdere vrijwilligers zijn zal de Pontifex Maximus verkozen worden bij gewone 2/3de meerderheid.
 
+#### {article-bis}
+Bij een afwezigheid van een 2/3de meerderheid voor een kandidaat zal elke kandidaat:
+
+* Bij een fysieke vergadering: blad-steen-schaar spelen tegen elke andere kandidaat tot er 1 winnaar overblijft.
+* Bij een online vergadering: De Voorzitter, de Secretaris of Monseigneur le Juge zullen een getal genereren. De kandidaat die er het dichste bijzit wint.
+
+#### {article-ter}
+De Pontifex Maximus blijft aangesteld voor de huidige zitting. Hij/zij kan zichzelf opvolgen voor meerdere opeenvolgende termijnen.
+
 ## De Plenaire vergadering
 #### {article}
 Elk lid van de Volksvergadering zal bij een fysieke plenaire vergadering een offer meebrengen voor de Godin Erecura.
@@ -12,21 +21,16 @@ Elk lid van de Volksvergadering zal bij een fysieke plenaire vergadering een off
 De Pontifex Maximus opent een vergadering door de gezegende notulen van de vorige vergadering, en indien aanwezig offers, ritueel te verbranden en hiermee een offer brengen aan Erecura.
 Deze vlam zal gebruikt worden om wierook in een wierookvat aan te steken dat ten allen tijde moet branden tijdens de vergadering om zo het zegen van Erecura te krijgen.
 
-Tijdens de zegening zullen de andere leden van de Volksvergadering de hele tijd "Wololo" zeggen.
+Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de andere leden van de Volksvergadering "Summus asini" zeggen.
 
 <!-- ### Notulen -->
 #### {article}
 De Secretaris zal gedetailleerde notules nemen van elke vergadering en deze verdelen onder de leden.
 
-<!-- ### Sluiting -->
 #### {article}
-De vergadering wordt gesloten door de Pontifex Maximus en de Secretaris.
-
-De Secretaris zal de notulen van de vergadering afdrukken en doorgeven aan de Pontifex Maximus.
-
 De Pontifex Maximus zal de notulen zegenen en bijhouden tot de volgende vergadering.
 
-Tijdens de zegening zullen de andere leden van de Volksvergadering de hele tijd "Wololo" zeggen.
+Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de andere leden van de Volksvergadering "Summus asini" zeggen.
 
 <!-- ### Klederdracht -->
 
