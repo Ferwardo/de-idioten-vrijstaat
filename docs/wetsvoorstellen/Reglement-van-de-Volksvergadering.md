@@ -35,3 +35,7 @@ Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de a
 
 #### {article}
 Bij elke vergadering zullen alle leden een toga dragen.
+
+#### {article}
+De leden van de Volksvergadering worden persoonlijk aangesproken met "Mijn Heer" of "My Lord" en tesamen met "Mijne Heren" of "My Lords".
+De Voorzitter van de Volksvergadering wordt aangesproken met "Mijn Heer de Voorzitter" of "My Lord Speaker".
