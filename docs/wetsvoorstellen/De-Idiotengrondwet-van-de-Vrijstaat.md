@@ -29,19 +29,19 @@ De wetgevende macht berust bij de Volksvergadering en de Andere Volksvergadering
 De uitvoerende macht berust bij de Eerste Minister en de Minister van Alles. 
 
 #### {article}
-De rechterlijke macht wordt uitgeoefend door Monseigneur le Juge. 
+De rechterlijke macht wordt uitgeoefend door de Linker. 
 
 De arresten en vonnissen worden in naam des Volks uitgevoerd. 
 
 #### {article}
 Men mag in geen van de volgende mandaten een bijkomend mandaat op zich nemen: 
 
-_Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de Minister van Alles, Monseigneur le Juge._
+_Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de Minister van Alles, de Linker._
 
 Het mandaat van Secretaris kan wel gecombineerd worden met andere mandaten. 
 
 #### {article}
-Na een motie van wantrouwen gestemd bij normale 2/3de meerderheid door de Volksvergadering tegen een mandaathouder zal een tribunaal worden opgericht bestaande uit Monseigneur le Juge of de Voorzitter van de Volksvergadering en twee leden van de Kamers. 
+Na een motie van wantrouwen gestemd bij normale 2/3de meerderheid door de Volksvergadering tegen een mandaathouder zal een tribunaal worden opgericht bestaande uit de Linker of de Voorzitter van de Volksvergadering en twee leden van de Kamers. 
 
 Dit tribunaal zal beslissen om wel of niet de betrokken mandaathouder te ontzetten uit zijn mandaat met een unanieme stemming. De mandaathouder heeft hierbij recht op een verdediging door een lid van de Kamers. 
 
@@ -156,22 +156,19 @@ Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering 
 ### IIc. De rechterlijke macht
 
 #### {article}
-Bij iedere zitting verkiest de Volksvergadering Monseigneur le Juge. 
+Bij iedere zitting verkiest de Volksvergadering de Linker. 
 
 #### {article}
-Er is één Hof voorgezeten door Monseigneur le Juge. Zij behandelt alle zaken. 
+Er is één Hof voorgezeten door de Linker. Zij behandelt alle zaken. 
 
 #### {article}
-Voor elke zaak benoemt Monseigneur le Juge een lid van één der Kamers als de Procureur. De Secretaris treedt op als Griffier. 
+Voor elke zaak benoemt de Linker een lid van één der Kamers als de Procureur. De Secretaris treedt op als Griffier. 
 
 #### {article}
 Elk vonnis is met een reden omkleed. Het wordt openbaar bekendgemaakt op wijze bepaald door wet. 
 
 #### {article}
-De voertaal tijdens zaken zal het West-Vlaemsch en Limburgsch zijn. 
-
-#### {article}
-Men kan in beroep gaan tegen een vonnis. De zaak zal dan voor drie leden van de Volksvergadering verschijnen, zei kunnen enkel oordelen over de grondwettelijkheid van het vonnis. 
+Men kan in beroep gaan tegen een vonnis. De zaak zal dan voor drie leden van de Volksvergadering verschijnen, zij kunnen enkel oordelen over de grondwettelijkheid van het vonnis. 
 
 ## III. Basisrechten van Idioten
 
@@ -193,7 +190,7 @@ De vrijheid van de persoon is gewaarborgd.
 
 Niemand kan worden vervolgd dan in de gevallen die de wet bepaalt en in de vorm die zij voorschrijft.  
 
-Behalve bij ontdekking op heterdaad kan niemand worden aangehouden dan krachtens een met redenen omkleed bevel van Monseigneur le Juge dat uiterlijk binnen achtenveertig uren te rekenen van de vrijheidsberoving moet worden betekend en enkel tot voorlopige inhechtenisneming kan strekken. 
+Behalve bij ontdekking op heterdaad kan niemand worden aangehouden dan krachtens een met redenen omkleed bevel van de Linker dat uiterlijk binnen achtenveertig uren te rekenen van de vrijheidsberoving moet worden betekend en enkel tot voorlopige inhechtenisneming kan strekken. 
 
 #### {article}
 Geen straf kan worden ingevoerd of toegepast dan krachtens de wet. 
