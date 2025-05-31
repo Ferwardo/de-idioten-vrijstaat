@@ -26,12 +26,12 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}/review/${{ github.ref }}
+      url: ${{ steps.deployment.outputs.page_url }}/review/${{ github.ref_name }}
     runs-on: ubuntu-latest
     steps:
       - name: Branch
         env:
-          BRANCH: ${{ github.ref }} 
+          BRANCH: ${{ github.ref_name }} 
         run: echo "$BRANCH"
       - name: Checkout
         uses: actions/checkout@v4
