@@ -36,11 +36,11 @@ Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 De veroordeelde mag geen contact meer hebben met andere Idioten voor ten hoogste 5 jaar, zei het mondeling of schriftelijk.
 
 ### {article} Ontzetting uit de rechten
-De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vast gelegde rechten voor ten hoogste 5 jaar.
+De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde rechten voor ten hoogste 5 jaar.
 
 ### {article} Excommunicatie
 De veroordeelde mag, voor de rest van zijn leven, geen contact meer hebben met andere Idioten, zei het mondeling of schriftelijk.
 
 ### {article} Burgerlijke dood
-De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet vast gelegde rechten.
+De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet vastgelegde rechten.
 
