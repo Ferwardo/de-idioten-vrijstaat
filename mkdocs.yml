@@ -35,8 +35,14 @@ theme:
     - navigation.top
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        'index.md': 'Wetboek-der-Idioten/index.md'
 draf_docs: |
   drafts/
   _unpublished.md
 hooks:
   - hooks.py
+extra:
+  version:
+    provider: mike
