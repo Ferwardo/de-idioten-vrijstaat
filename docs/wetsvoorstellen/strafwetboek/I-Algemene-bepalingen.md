@@ -43,3 +43,4 @@ De veroordeelde mag, voor de rest van zijn leven, geen contact meer hebben met a
 
 ### {article} Burgerlijke dood
 De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet vast gelegde rechten.
+
