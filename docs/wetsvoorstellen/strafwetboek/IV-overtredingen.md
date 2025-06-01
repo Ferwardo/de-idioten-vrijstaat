@@ -12,4 +12,3 @@ Men zal worden veroordeeld tot te laat of niet aanwezig zijn, indien een idioot 
 
 Men wordt aanzien als te laat indien de Idioot 5 minuten na het afgesproken uur arriveert.
 De reden voor te laat komen wordt beoordeeld op gegrondheid door de Linker tijdens de hoorzitting.
-
