@@ -1,6 +1,6 @@
 # IV. Overtredingen
 ### {article}
-Een overtreding zal bestraft worden met een geldboete.
+Een overtreding zal bestraft worden met een geldboete
 
 ### {article} Te laat of niet aanwezig zijn
 Men zal worden veroordeeld tot te laat of niet aanwezig zijn, indien een idioot te laat zonder gegronde reden of niet aanwezig is op:
