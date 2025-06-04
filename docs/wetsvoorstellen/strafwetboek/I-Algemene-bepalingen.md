@@ -27,6 +27,9 @@ De strafwet kan worden toegepast op feiten die de wetgever volstrekt onmogelijk 
 Niemand is strafrechtelijk verantwoordelijk dan voor zijn eigen gedragingen.
 
 ## Ib. Straffen
+### {article}
+Indien een Idioot veroordeeld wordt tot meerdere straffen zullen deze, uitgezonderd de geldboete, na elkaar worden uitgezeten. De geldboete wordt geïnt direct bij het uitspreken van het vonnis.
+
 ### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 500 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
@@ -34,6 +37,15 @@ Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
 ### {article} Verbanning
 De veroordeelde mag geen contact meer hebben met andere Idioten voor ten hoogste 5 jaar, zei het mondeling of schriftelijk.
+
+### {article} Werkstraf
+De veroordeelde zal voor ten hoogste 25 uren werken ten goede van het slachtoffer.
+
+### {article} Dwangarbeid
+De Idioot veroordeelt tot dwangarbeid voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeelt worden onder de Idioten die hierom vragen.
+
+### {article} Dwangarbeid
+De Idioot veroordeelt tot zware dwangarbeid voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeelt worden onder de Idioten die hierom vragen.
 
 ### {article} Ontzetting uit de rechten
 De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde rechten voor ten hoogste 5 jaar.
