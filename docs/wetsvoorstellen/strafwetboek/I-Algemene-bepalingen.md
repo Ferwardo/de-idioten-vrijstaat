@@ -44,7 +44,7 @@ De veroordeelde zal voor ten hoogste 25 uren werken ten goede van het slachtoffe
 ### {article} Dwangarbeid
 De Idioot veroordeelt tot dwangarbeid voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeelt worden onder de Idioten die hierom vragen.
 
-### {article} Dwangarbeid
+### {article} Zware dwangarbeid
 De Idioot veroordeelt tot zware dwangarbeid voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeelt worden onder de Idioten die hierom vragen.
 
 ### {article} Ontzetting uit de rechten
