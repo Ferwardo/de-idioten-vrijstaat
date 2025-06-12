@@ -5,7 +5,22 @@ if [ -z "$1" ]; then
     exit -1
 fi
 
-mkdocs build
+
+gitbranch=$(git branch --show-current)
+
 git add .
 git commit -m "$1"
+
+if [[ "$gitbranch" == "main" ]]
+then
+    echo "deploying to published track"
+    mike deploy published
+else
+    echo "deploying to $gitbranch track"
+    mike deploy $gitbranch
+fi
+
 git push
+git checkout gh-pages
+git push
+git checkout $gitbranch
