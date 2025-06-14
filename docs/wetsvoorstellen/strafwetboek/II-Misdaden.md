@@ -1,14 +1,30 @@
 # II. Misdaden
 
-### {article}
+#### {article}
 Om een misdaad te begaan moet de beschuldigde met voorbedachte rade hebben gehandeld. Anders zal het misdrijf als wanbedrijf berecht worden.
 
-### {article}
-Een misdaad kan gestraft worden met een geldboete van meer dan 100 Eurodeals en eenderwelke andere straf met een duur langer dan 5 jaar.
+#### {article}
+Een misdaad kan gestraft worden met een criminele straf.
 
-### {article} Sodomie
-Men zal veroordeeld worden tot sodomie indien aan één der volgende voorwaarden is voldaan.
+#### {article} Hoogverraad
+Men zal veroordeeld worden voor hoogverraad indien aan één der volgende voorwaarden is voldaan.
 
-§1 Het verkiezen van de levenspartner of echtgeno(o)t(e) boven de leden van de Volksvergadering oftewel "Hoes before Bros".
+§1 Het opzettelijk overtreden van de Grondwet.
 
-§2 Seksuele relaties betrekken met de moeder, zuster of (ex)partner van een andere Idioot zonder voorafgaande schriftelijke toestemming van de betrokken Idioot.
+§2 Het verkiezen van de levenspartner boven de leden van de Volksvergadering oftewel "Hoes before Bros".
+
+§3 In tijden van oorlog, het helpen van de vijand op eenderwelke manier.
+
+#### {article} Sodomie
+Men zal veroordeeld worden voor sodomie indien aan één der volgende voorwaarden is voldaan.
+
+§1 Seksuele relaties betrekken met de moeder, zuster of (ex-)partner van een andere Idioot zonder voorafgaande schriftelijke toestemming van de betrokken Idioot.
+
+§2 Seksuele relaties betrekken met een minderjarige. Voor deze infractie dient de burgerlijke dood en de excommunicatie uitgesproken te worden.
+
+§3 Seksuele relaties betrekken waarbij de seksuele partner geen toestemming heeft gegeven.
+
+#### {article} Moord
+Men zal veroordeeld worden voor moord indien de beschuldigde een andere Idioot dood met voorbedachte rade.
+
+Deze misdaad wordt ook aanzien als gepleegd in games die niet het primaire doel hebben om andere Idioten te doden.
