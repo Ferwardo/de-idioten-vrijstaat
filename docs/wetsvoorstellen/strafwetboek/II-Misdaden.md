@@ -20,7 +20,7 @@ Men zal veroordeeld worden voor sodomie indien aan één der volgende voorwaarde
 
 §1 Seksuele relaties betrekken met de moeder, zuster of (ex-)partner van een andere Idioot zonder voorafgaande schriftelijke toestemming van de betrokken Idioot.
 
-§2 Seksuele relaties betrekken met een minderjarige. Voor deze infractie dient de burgerlijke dood en de excommunicatie uitgesproken te worden.
+§2 Seksuele relaties betrekken met een minderjarige. Voor deze misdaad dient de burgerlijke dood en de excommunicatie uitgesproken te worden. Deze straf kan niet met uitstel worden uitgesproken.
 
 §3 Seksuele relaties betrekken waarbij de seksuele partner geen toestemming heeft gegeven.
 
