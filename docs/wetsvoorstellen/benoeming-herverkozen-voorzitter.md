@@ -4,7 +4,7 @@ _De Volkvergadering heeft beslist:_
 
 --------------------------
 
-## {article}
+#### {article}
 Indien een Buriku herverkozen wordt tot Voorzitter van de Volksvergadering zal zijn aanspreektitel Buriku de Gerecycleerde Voorzitter zijn.
 
 --------------------------
