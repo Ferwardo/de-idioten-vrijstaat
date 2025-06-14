@@ -29,8 +29,10 @@ Niemand is strafrechtelijk verantwoordelijk dan voor zijn eigen gedragingen.
 #### {article}
 De Volksvergadering heeft het exclusieve recht om gratie te verlenen aan een veroordeelde en zo de resterende straf kwijt te schelden.
 
+Gratie wordt gegeven met een motie met een gewone 2/3de meerderheid.
+
 #### {article}
-Misdrijven worden opgedeeld in drie graden namelijk de
+Misdrijven worden opgedeeld in drie graden namelijk:
 
 1. Misdaden
 2. Wanbedrijven
@@ -50,13 +52,13 @@ Een criminele of correctionele straf wordt aanzien als hoofdstraf. Indien een ho
 Een Idioot die hetzelfde misdrijf meerdere malen begaat kan op vraag van de Procureur strenger gestraft worden. 
 
 Voor een overtreding wordt het mogelijk een correctionele straf uit te spreken. Voor een wanbedrijf wordt het mogelijk een criminele straf uit te spreken.
-Indien een hoofdstraf wordt uitgesproken zal ook hier het mogelijk zijn om een bijkomende straf op te leggen.
+Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een bijkomende straf op te leggen.
 
 #### {article} Terbeschikkingstelling
 De Linker kan een terbeschikkingsstelling opleggen indien deze dit nodig acht ten goede van de openbare orde.
 
 Na het uitzitten van de hoofdstraf zal de veroordeelde onder toezicht komen te staan van de Minister van Alles.
-De Minister van Alles beslist uiteindelijk of de terbeschikkingstelling dient uitgevoerd te worden en indien nodig in welke vorm.
+De Minister van Alles beslist uiteindelijk of de terbeschikkingstelling dient uitgevoerd te worden en indien nodig in welke vorm. Hij wint hiervoor advies in bij de Volksvergadering.
 
 De terbeschikkingstelling is een bijkomende straf.
 
@@ -70,7 +72,12 @@ Een geldboete boven de 100 Eurodeals wordt aanzien als een criminele straf.
 
 In het geval dat een hoofdstraf wordt opgelegd, kan de geldboete ook als bijkomende straf opgelegd worden.
 
-Voor een geldboete is geen terbeschikkingstelling mogelijk.
+Indien de geldboete wordt uitgesproken als hoofdstraf is geen terbeschikkingstelling mogelijk.
+
+#### {article} Schadevergoeding
+De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
+
+De schadevergoeding is een bijkomende straf.
 
 #### {article} Verbanning
 De veroordeelde mag geen contact meer hebben met andere Idioten voor ten hoogste 5 jaar, zei het mondeling of schriftelijk.
@@ -78,22 +85,22 @@ De veroordeelde mag geen contact meer hebben met andere Idioten voor ten hoogste
 Verbanning wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 1 maand.
 
 #### {article} Werkstraf
-De veroordeelde zal voor ten hoogste 25 uren werken ten goede van het slachtoffer.
+De veroordeelde zal voor ten hoogste 25 uren werken ten goede van de burgerlijke partij.
 
 De werkstraf wordt aanzien als een correctionele straf. Een terbeschikkingstelling zal ten hoogste voor 2 uur extra werk zorgen.
 
 #### {article} Ontzetting uit de rechten
 De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde rechten voor ten hoogste 5 jaar.
 
-De ontzetting wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 5 jaar.
+De ontzetting wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 1 maand.
 
 #### {article} Dwangarbeid
-De Idioot veroordeelt tot dwangarbeid voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
+De Idioot veroordeelt tot dwangarbeid zal voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
 
 Dwangarbeid wordt aanzien als een correctionele straf. Een terbeschikkingstelling zal ten hoogste voor 50 uur extra werk zorgen.
 
 #### {article} Zware dwangarbeid
-De Idioot veroordeelt tot zware dwangarbeid voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
+De Idioot veroordeelt tot zware dwangarbeid zal voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
 
 Zware dwangarbeid wordt aanzien als een criminele straf. Een terbeschikkingstelling zal voor ten hoogste 100 uur extra werk zorgen.
 
@@ -113,9 +120,9 @@ De excommunicatie wordt aanzien als een criminele straf.
 Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld in lid 1 Art.2 III Sw., zal als volgt verlopen:
 
 1. De overdracht van het dossier aan de Linker, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
-2. De voorlezing van de akte van inbeschuldigingstelling door de Griffier. Deze akte wordt geschreven door het Ministerie van Alles indien bij de doorverwijzing naar het Hof.
-3. De ondervraging van de beklaagde door de Linker, de Procureur en de raadsman van de beklaagde in die volgorde.
-4. De ondervraging van de mogelijke getuigen door de Linker, de Procureur en de raadsman van de beklaagde in die volgorde.
+2. De voorlezing van de akte van inbeschuldigingstelling door de Griffier. Deze akte wordt geschreven door het Ministerie van Alles bij de doorverwijzing naar het Hof.
+3. De ondervraging van de beklaagde door de Linker, de Procureur en de verdediging in die volgorde.
+4. De ondervraging van de mogelijke getuigen door de Linker, de Procureur en de verdediging in die volgorde.
 5. Vordering van de burgerlijke partij indien die er is.
 6. Strafvordering van de Procureur.
 7. De verdediging van de beklaagde.
@@ -125,12 +132,12 @@ Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld 
 Een proces voor een overtreding mag volledig schriftelijk worden uitgevoerd. 
 De Procureur, de burgerlijke partij en de beklaagde dienen ten laatste twee weken na het versturen van de dagvaarding hun conclusies door te sturen aan de Linker.
 
-De Linker zal hierna een vonnis vellen na ten hoogste twee weken.
+De Linker zal hierna een vonnis vellen ten hoogste twee weken na het ontvangen van de laatste conclusies.
 
 De Linker kiest of een proces schriftelijk of mondeling wordt uitgevoerd.
 
 #### {article}
-Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
+Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of bedoeld in artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
 
 1. De samenstelling van het tribunaal. De twee bijzitters worden gekozen door de Linker of de Voorzitter van de Volksvergadering afhankelijk van wie het tribunaal voorzit.
 2. De overdracht van het dossier aan het tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
@@ -139,7 +146,7 @@ Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of ar
 5. Het verhoor van de de beklaagde door de voorzitter van het tribunaal.
 6. De voorlezing van de lijst van getuigen van de Procureur, de burgerlijke partij en de verdediging door de Griffier.
 7. De eedaflegging van de getuigen.
-8. Het verhoor van de mogelijke getuigen door de Procureur, de burgerlijke partij en de raadsman van de beklaagde in die volgorde.
+8. Het verhoor van de mogelijke getuigen door de Procureur, de burgerlijke partij en de verdediging in die volgorde.
 9. Strafvordering van de Procureur.
 10. Pleidooien van de burgerlijke partij.
 11. Pleidooien van de verdediging.
@@ -147,3 +154,11 @@ Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of ar
 13. De eventuele repliek van de Procureur, burgerlijke partij en opnieuw het laatste woord van de beklaagde.
 14. De beraadslaging van het tribunaal over de schuldvraag en straftoemeting.
 15. De voorlezing van het arrest door het tribunaal.
+
+#### {article}
+Een beklaagde kan ervoor kiezen om gerechtelijk tweegevecht aan te gaan met de burgerlijke partij of de Linker.
+
+De beklaagde bekent hierbij schuld aan de feiten die hem ten laste worden gelegd. Indien de beklaagde het tweegevecht wint, zal hem geen straf worden opgelegd.
+
+De burgerlijke partij of de Linker kunnen een kampioen kiezen om het tweegevecht te voeren.
+De burgerlijke partij of de Linker kiezen eveneens de omstandigheden van het tweegevecht.
