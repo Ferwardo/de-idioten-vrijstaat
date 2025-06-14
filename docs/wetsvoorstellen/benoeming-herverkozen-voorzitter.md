@@ -9,6 +9,6 @@ Indien een Buriku herverkozen wordt tot Voorzitter van de Volksvergadering zal z
 
 --------------------------
 
-_Buriku Eerste Minister Baklava Feta_
+_Buriku Eerste Minister Cianci Baklava Feta_
 
 _Op den ``<Datum>``_

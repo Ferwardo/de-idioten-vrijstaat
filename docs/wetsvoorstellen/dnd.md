@@ -10,6 +10,6 @@ Bij voorkeur zullen D&D sessies doorgaan op Maandag of Donderdag.
 
 --------------------------
 
-_Buriku Eerste Minister Baklava Feta_
+_Buriku Eerste Minister Cianci Baklava Feta_
 
 _Op den ``<Datum>``_

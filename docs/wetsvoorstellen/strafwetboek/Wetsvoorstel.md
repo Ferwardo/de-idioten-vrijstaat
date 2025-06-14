@@ -19,10 +19,10 @@ Bijgevoegd document genaamd "III. Wanbedrijven" in gebruik te nemen als titel 3 
 Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 van het Strafwetboek.
 
 #### {article}
-De afkorting van het strafwetboek zal "Sw." zijn.
+De afkorting van het Strafwetboek zal "Sw." zijn.
 
 --------------------------
 
-_Buriku Eerste Minister Baklava Feta_
+_Buriku Eerste Minister Cianci Baklava Feta_
 
 _Op den ``<Datum>``_
