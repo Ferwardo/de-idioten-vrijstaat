@@ -112,7 +112,7 @@ De excommunicatie wordt aanzien als een criminele straf.
 #### {article} Burgerlijke dood
 De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet vastgelegde rechten.
 
-De excommunicatie wordt aanzien als een criminele straf.
+De burgerlijke dood wordt aanzien als een criminele straf.
 
 ## Ic. Het Proces
 
