@@ -76,7 +76,7 @@ De excommunicatie wordt aanzien als een criminele straf.
 ## Ic. Het Proces
 
 #### {article}
-Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld in Art.2 II Sw., zal als volgt verlopen:
+Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld in lid 1 Art.2 II Sw., zal als volgt verlopen:
 
 1. De overdracht van het dossier aan de Linker, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
 2. De voorlezing van de akte van inbeschuldigingstelling door de Griffier. Deze akte wordt geschreven door het Ministerie van Alles indien bij de doorverwijzing naar het Hof.
@@ -93,7 +93,7 @@ Een proces voor een overtreding mag volledig schriftelijk worden uitgevoerd. De 
 De Linker kiest of een proces schriftelijk of mondeling wordt uitgevoerd.
 
 #### {article}
-Het proces voor een misdaad, een wanbedrijf bedoeld in Art.2 II Sw. of artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
+Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 II Sw. of artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
 
 1. De samenstelling van het tribunaal. De twee bijzitters worden gekozen door de Linker of de Voorzitter van de Volksvergadering afhankelijk van wie het tribunaal voorzit.
 2. De overdracht van het dossier aan het tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
