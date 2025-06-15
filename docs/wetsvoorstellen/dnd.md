@@ -5,7 +5,7 @@ _De Volkvergadering heeft beslist:_
 
 --------------------------
 
-## {article}
+#### {article}
 Bij voorkeur zullen D&D sessies doorgaan op Maandag of Donderdag.
 
 --------------------------
