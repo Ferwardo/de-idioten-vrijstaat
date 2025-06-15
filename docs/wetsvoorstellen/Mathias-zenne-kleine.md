@@ -4,11 +4,11 @@ _De Volkvergadering heeft beslist:_
 
 --------------------------
 
-## {article}
+#### {article}
 Mathias zenne eerste kleine moet Jericho Gravers heten in intieme kring.
 
 --------------------------
 
-_Buriku Eerste Minister Baklava Feta_
+_Buriku Eerste Minister Cianci Baklava Feta_
 
 _Op den ``<Datum>``_
