@@ -25,10 +25,22 @@ def on_page_markdown(markdown, **kwargs):
             if last_number is None:
                 raise ValueError("{article-quater} appeared before any {article}")
             return f"Art. {last_number}quater"
+        elif token == "{article-quinquies}":
+            if last_number is None:
+                raise ValueError("{article-quinquies} appeared before any {article}")
+            return f"Art. {last_number}quinquies"
+        elif token == "{article-sexies}":
+            if last_number is None:
+                raise ValueError("{article-sexies} appeared before any {article}")
+            return f"Art. {last_number}sexies"
+        elif token == "{article-septies}":
+            if last_number is None:
+                raise ValueError("{article-septies} appeared before any {article}")
+            return f"Art. {last_number}septies"
         else:
             return token  # Should not happen
 
-    # Replace all occurrences of {article}, {article-bis}, and {article-ter}
-    return re.sub(r"\{article(?:-bis|-ter|-quater)?\}", replacer, markdown)
+    # Replace all occurrences of {article} or derivatives
+    return re.sub(r"\{article(?:-bis|-ter|-quater|-quinquies|-sexies|-septies)?\}", replacer, markdown)
 
     
