@@ -15,18 +15,21 @@ De Minister van Alles mag Substituten aanstellen om een departement te leiden bi
 De Minister van Alles en Substituten mogen ambtenaren aanstellen om niet-leidinggevende taken binnen één of meerdere departementen op te nemen. Zij mogen enkel handelen op bevel van de Minister van Alles of hun leidinggevende Substituut.
 
 ### {article}
-Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een, aangestelde, Substituut permanent benoemen op vraag van de Minister van Alles.
+Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een aangestelde Substituut permanent benoemen op vraag van de Minister van Alles.
 
 ### {article}
 Een ambtenaar zal aangesteld worden voor zolang dit wordt nodig geacht door de Minister van Alles of de leidinggevende Substituut.
 
 ### {article}
-De Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het permanent of tijdelijk. Benoemde Substituten kunnen enkel permanent worden ontslagen door de Volksvergadering.
+De Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het permanent of tijdelijk. Enkel de Volksvergadering kan benoemde Substituten permanent ontslaan.
 
 ## II. De Departementen
 
 ### {article}
 Departementen, niet genoemd in deze wet, kunnen maar worden opgericht bij wet.
+
+### {article}
+Departementen kunnen maar worden afgeschaft bij wet.
 
 ### {article}
 Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
@@ -39,11 +42,8 @@ Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
 * Departement Overheidsefficiëntie, verantwoordelijk voor het efficiënter maken van de overheidsprocedures
 * Departement Financiën, Economie en Volksgezondheid, verantwoordelijk voor de algemene gezondheid van het Volk
 
-### {article}
-Departementen kunnen maar worden afgeschaft bij wet.
-
 --------------------------
 
-_Buriku Eerste Minister Baklava Feta_
+_Buriku Eerste Minister Cianci Baklava Feta_
 
 _Op den ``<Datum>``_
