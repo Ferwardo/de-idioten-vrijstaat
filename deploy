@@ -8,6 +8,9 @@ fi
 
 gitbranch=$(git branch --show-current)
 
+git add .
+git commit -m "$1"
+
 if [[ "$gitbranch" == "main" ]]
 then
     echo "deploying to published track"
@@ -17,6 +20,7 @@ else
     mike deploy $gitbranch
 fi
 
-git add .
-git commit -m "$1"
-git push --all
+git push
+git checkout gh-pages
+git push
+git checkout $gitbranch
