@@ -6,9 +6,9 @@ _De Volkvergadering heeft beslist:_
 Volgende artikelen worden toegevoegd aan de grondwet.
 
 #### Art. 10bis
-Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd van 60 jaar. Elk ander recht blijft behouden.
+Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.
 
-Indien een Idioot op zijn 60ste verjaardag mandaathouder is, zal hij automatisch uit zijn mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
+Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
 
 --------------------------
 
