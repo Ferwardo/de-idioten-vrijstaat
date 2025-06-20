@@ -4,6 +4,9 @@
 Om een misdaad te begaan moet de beschuldigde met voorbedachte rade hebben gehandeld. Anders zal het misdrijf als wanbedrijf berecht worden.
 
 #### {article}
+Een poging tot het begaan van een misdaad zal berecht worden als wanbedrijf.
+
+#### {article}
 Een misdaad kan gestraft worden met een criminele straf.
 
 #### {article} Hoogverraad

@@ -8,6 +8,9 @@ Men zal veroordeeld worden voor verraad indien aan één der volgende voorwaarde
 
 §1 Het onopzettelijk overtreden van de Grondwet.
 
+#### {article} Diefstal
+Men zal veroordeeld worden voor diefstal indien men objecten of diensten vervreemd van een andere Idioot zonder diens voorafgaande toestemming.
+
 #### {article} Doodslag
 Men zal veroordeeld worden voor doodslag indien men een andere Idioot dood, zei het opzettelijk of onopzettelijk.
 
