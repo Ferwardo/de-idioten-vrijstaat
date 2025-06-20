@@ -1,3 +1,3 @@
 # Het Wetboek der Idioten
 
-In deze repository vinden jullie alle wetten, reglementen en wetsvoorstellen met betrekking tot de Vrijstaat.
+Hier vinden jullie alle organieke wetten en wetboeken van de Vrijstaat.
