@@ -1,6 +1,6 @@
 # V. Strafvordering
 
-## Ia. Strafonderzoek
+## Va. Strafonderzoek
 
 #### {article}
 Iedere persoon mag aangifte doen van een strafbaar feit bij het Ministerie van Alles.
@@ -35,7 +35,7 @@ Bij ernstig vermoeden van gevaar op recidive kan het Ministerie van Alles een ti
 #### {article}
 Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is strafbaar als wanbedrijf.
 
-## Ib Vervolging
+## Vb Vervolging
 
 #### {article}
 De Procureur is belast met de vervolging van strafbare feiten en vertegenwoordigt de maatschappij bij de Linker.
@@ -50,7 +50,7 @@ De verdachte wordt door de Griffier opgeroepen met vermelding van het feit, plaa
 #### {article}
 Het volledig strafdossier wordt minstens twee weken vóór de zitting ter beschikking gesteld van de Linker, de Procureur, de verdediging en de burgerlijke partij indien die er zijn.
 
-## Ic. Strafproces
+## Vc. Strafproces
 
 #### {article}
 Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld in lid 1 Art.2 III Sw., zal als volgt verlopen:
