@@ -15,7 +15,7 @@ De officiële handtekening van een Idioot is een voetafdruk.
 Het Rijkswapen zal de Opposum met een cowboyhoed zijn. De kenspreuk zal "Be rootin, be tootin, and by god be shooting but most of all be kind" zijn.
 
 #### Art. 54
-Het Volkslied zal [Enamorada in de versie van Sociaal Incapabele Michiel zijn](https://www.youtube.com/watch?v=fbIXwKYvFYc)
+Het Volkslied zal [Hatsune miku ievan polkka](https://www.youtube.com/watch?v=widZEAJc0QM) zijn. Indien een Idioot het Volkslied meezingt zal hij met een prei moeten zwaaien.
 
 --------------------------
 

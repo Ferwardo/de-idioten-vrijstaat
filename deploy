@@ -18,9 +18,9 @@ then
 else
     echo "deploying to $gitbranch track"
     mike deploy $gitbranch
+    git push
 fi
 
-git push
 git checkout gh-pages
 git push
 git checkout $gitbranch
