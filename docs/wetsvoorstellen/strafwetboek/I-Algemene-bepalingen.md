@@ -94,10 +94,26 @@ De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde
 
 De ontzetting wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 1 maand.
 
+#### {article} Gevangenisstraf
+De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in een massieven blok bedrock in de gevangenis van Kamp Fysica. 
+Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.
+
+Een gevangenisstraf zal ten minste 1 maand en ten hoogste 1 jaar duren.
+
+De gevangenisstraf is een correctionele straf. Een terbeschikkingstrelling duurt ten hoogste 1 maand.
+
 #### {article} Dwangarbeid
 De Idioot veroordeelt tot dwangarbeid zal voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
 
 Dwangarbeid wordt aanzien als een correctionele straf. Een terbeschikkingstelling zal ten hoogste voor 50 uur extra werk zorgen.
+
+#### {article} Opsluiting
+De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in een massieven blok bedrock in de gevangenis van Kamp Fysica. 
+Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.
+
+Een opsluiting zal ten minste 1 jaar en in normale omstandigheden ten hoogste 20 jaar duren. De Linker kan bijkomend het weggooien van de sleutel bevelen. De opsluiting wordt dan omgezet in een levenslange straf (voor de Idioot, niet zijn karakter).
+
+De opsluiting is een criminele straf. Een terbeschikkingstrelling duurt ten hoogste 5 jaar.
 
 #### {article} Zware dwangarbeid
 De Idioot veroordeelt tot zware dwangarbeid zal voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
