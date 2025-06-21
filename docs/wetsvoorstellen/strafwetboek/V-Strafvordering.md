@@ -2,8 +2,6 @@
 
 ## Ia. Strafonderzoek
 
-### 1. Aangifte en opsporing
-
 #### {article}
 Iedere persoon mag aangifte doen van een strafbaar feit bij het Ministerie van Alles.
 
@@ -12,8 +10,6 @@ Het Ministerie van Alles is exclusief bevoegd tot het uitvoeren van het strafond
 
 #### {article}
 Een onderzoek wordt opgestart zodra een strafbaar feit vermoed wordt, hetzij op klacht, hetzij ambtshalve.
-
-### 2. Onderzoekshandelingen
 
 #### {article}
 Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moet vooraf worden geïnformeerd over zijn rechten.
@@ -29,8 +25,6 @@ Het Ministerie van Alles mag gebruik maken van observatie, camerabeelden, telefo
 
 #### {article}
 Lichamelijke onderzoeken of afnames (zoals DNA) mogen slechts plaatsvinden met toestemming van de Linker, tenzij de betrokkene schriftelijk instemt.
-
-### 3. Voorlopige maatregelen
 
 #### {article}
 Een verdachte mag niet langer dan 48 uur worden vastgehouden zonder tussenkomst van de Linker.
