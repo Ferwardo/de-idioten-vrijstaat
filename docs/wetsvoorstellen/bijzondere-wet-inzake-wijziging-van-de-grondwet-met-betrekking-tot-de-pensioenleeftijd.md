@@ -1,6 +1,6 @@
 _Aan alle idioten, die zijn of nog zullen komen, TABÉ._
 
-_De Volkvergadering heeft beslist:_
+_De volledige Volkvergadering heeft unaniem en met één stem besloten:_
 
 --------------------------
 Volgende artikelen worden toegevoegd aan de grondwet.
