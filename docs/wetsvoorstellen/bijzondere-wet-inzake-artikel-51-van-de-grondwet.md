@@ -23,14 +23,14 @@ De nationale klederdracht zal het groot en het klein uniform zijn.
 #### Art. 55bis
 Het groot uniform bestaat uit een donker kostuum, groot galatenue of smoking waarbij op de linkerschouder de trapezium wordt gedragen.
 
-De trapezium zal 80 cm hoog zijn, een lange zijde van 260 cm hebben en een korte zijde van 100 cm hebben.
+De trapezium zal 100 cm hoog zijn, een lange zijde van 260 cm hebben en een korte zijde van 120 cm hebben.
 De trapezium wordt met de lange zijde gedragen naar de nek toe.
 
 #### Art. 55ter
 Het klein uniform bestaat uit stadkledij, een kostuum of galatenue waarbij op de linkerschouder de tab wordt gedragen. 
 Indien een galatenue wordt gedragen wordt de tab onder het linker schouderstuk gedragen.
 
-De tab zal een rechthoek van 15 cm bij 30 cm zijn.
+De tab zal een rechthoek van 50 cm bij 100 cm zijn.
 
 #### Art. 55quater
 Het trapezium en de tab zullen uit kwalitatieve wol vervaardigd worden.
@@ -58,8 +58,8 @@ Het klein uniform wordt gedragen door:
 #### Art. 55sexies
 Hiernaast dragen sommige mandaathouders en dignitarissen nog extra regalia bij hun groot en klein uniform.
 
-De Voorzitter van de Volksvergadering en de Voorzitter van de Andere Volksvergadering dragen elk de Stok der Sprekers om het lid aan te duiden die op dat moment het woordt heeft.
-De Stok zal bestaan uit een eikenhouten cilinder van 50cm lang met een diameter 3 cm. De uiteinden zullen verstevigd worden met gouden (of goudkleurige), voor de Voorzitter van de Volksvergadering, of messing, voor de Voorzitter van de Andere Volksvergadering, hulsen.
+De Voorzitter van de Volksvergadering en de Voorzitter van de Andere Volksvergadering dragen elk de Stok der Sprekers om het lid aan te duiden die op dat moment het woord heeft.
+De Stok zal bestaan uit een eikenhouten cilinder van 50cm lang met een diameter 3 cm. De uiteinden zullen verstevigd worden met gouden (of goudkleurige), voor de Voorzitter van de Volksvergadering, of messing, voor de Voorzitter van de Andere Volksvergadering, hulsen. Het hout zelf is vernist.
 
 De Linker draagt het Wetboek der Idioten. 
 Het Wetboek zal een in leer gebonden boek zijn dat alle wetten bevat sinds voor de start van de zitting.
