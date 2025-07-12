@@ -65,8 +65,8 @@ De Linker draagt het Wetboek der Idioten.
 Het Wetboek zal een in leer gebonden boek zijn dat alle wetten bevat sinds voor de start van de zitting.
 
 De Eerste Minister en de Minister van Alles dragen een wandelstok.
-De wandelstok van de Eerste Minister zal [deze](https://www.celticwebmerchant.com/nl/houten-wandelstok-met-knots.html) of een equivalente knots-wandelstok zijn.
-De wandelstok van de Minister van Alles zal een Shillelagh zijn.
+De wandelstok van de Eerste Minister zal [deze](https://www.cavagnini.com/en/bastoni-da-passeggio/74-20296-elegant-cavagnini-artisan-walking-stick-style-and-quality-made-in-italy-2-head-model.html) of een equivalent zijn.
+De wandelstok van de Minister van Alles zal [deze](https://www.cavagnini.com/en/bastoni-da-passeggio/75-20645-elegant-cavagnini-artisan-walking-stick-style-and-quality-made-in-italy-2-head-model.html) of een equivalent zijn.
 
 De Pontifex Maximus zal een eikenhouten kruisstaf dragen. De staf zal ten minste 10 cm langer zijn dan de Pontifex Maximus en een diameter hebben van 3 cm.
 
