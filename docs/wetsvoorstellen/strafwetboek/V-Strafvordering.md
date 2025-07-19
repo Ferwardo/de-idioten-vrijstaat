@@ -8,6 +8,9 @@ Iedere persoon mag aangifte doen van een strafbaar feit bij het Ministerie van A
 #### {article}
 Het Ministerie van Alles is exclusief bevoegd tot het uitvoeren van het strafonderzoek. De Linker houdt toezicht over het wettelijk verlopen van het onderzoek.
 
+Bij een onderzoek naar de Linker kan de Minister van Alles vragen aan de Eerste Minister om het onderzoek onder toezicht van de Voorzitter van de Volksvergadering te plaatsen.
+Bij een onderzoek naar de Minister van Alles kan de Linker vragen aan de Eerste Minister om het onderzoek te laten uitvoeren door de Linker. Het toezicht wordt hierbij gehouden door de Eerste Minister.
+
 #### {article}
 Een onderzoek wordt opgestart zodra een strafbaar feit vermoed wordt, hetzij op klacht, hetzij ambtshalve.
 
@@ -48,7 +51,7 @@ Hierbij wordt rekening gehouden met het maatschappelijk belang, de ernst van het
 De verdachte wordt door de Griffier opgeroepen met vermelding van het feit, plaats, datum van de zitting en zijn rechten.
 
 #### {article}
-Het volledig strafdossier wordt minstens twee weken vóór de zitting ter beschikking gesteld van de Linker, de Procureur, de verdediging en de burgerlijke partij indien die er zijn.
+Het volledig strafdossier wordt minstens twee weken vóór de zitting ter beschikking gesteld van de Linker, de Procureur, de verdediging en de burgerlijke partij indien die er is.
 
 ## Vc. Strafproces
 
