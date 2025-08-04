@@ -81,6 +81,8 @@ De terbeschikkingstelling is een bijkomende straf.
 #### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 500 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
+Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag van de geldboete die gebruikt zal worden voor het functioneren van de Natie. De heffing kan het vastgelegde maximum overstijgen.
+
 Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
 Een geldboete boven de 50 Eurodeals wordt aanzien als een correctionele straf.
@@ -92,6 +94,8 @@ Indien de geldboete wordt uitgesproken als hoofdstraf is geen terbeschikkingstel
 
 #### {article} Schadevergoeding
 De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
+
+Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag van de schadevergoeding die gebruikt zal worden voor het functioneren van de Natie. De heffing kan het vastgelegde maximum overstijgen.
 
 De schadevergoeding is een bijkomende straf.
 
