@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Quattrocento:wght@400;700&display=swap');
+
+/* Elements */
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Cinzel';
+}
+
+:root {
+    --md-text-font: 'Quattrocento';
+}
+
+div[data-md-type="toc"] .md-nav__list .md-nav__list {
+    display: none;
+}
+
+/* Classes */
+.md-header {
+    font-family: 'Cinzel';
+}
+
+.md-tabs {
+    font-family: 'Cinzel';
+}
