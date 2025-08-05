@@ -14,4 +14,4 @@ Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij 
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den ``<Datum>``_
+_Op den 5de Augustus 2025_

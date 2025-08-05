@@ -22,6 +22,11 @@ De Grondwet kan noch geheel, noch ten dele worden geschorst.
 #### {article}
 Alle machten gaan uit van de Vrijstaat. Zij worden uitgeoefend op de bij Grondwet bepaalde wijze. 
 
+#### {article-bis}
+Enkel indien er onoverkomelijke meningsverschillen ontstaan tussen meer dan de helft van de leden onderling zal de Grondwet na unanieme beslissing worden ontbonden. In geen enkel ander geval kan dit gebeuren.
+
+De Vrijstaat der Idioten zal hiermee op houden te bestaan.
+
 #### {article}
 De wetgevende macht berust bij de Volksvergadering en de Andere Volksvergadering. 
 
@@ -39,6 +44,11 @@ Men mag in geen van de volgende mandaten een bijkomend mandaat op zich nemen:
 _Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de Minister van Alles, de Linker._
 
 Het mandaat van Secretaris kan wel gecombineerd worden met andere mandaten. 
+
+#### {article-bis}
+Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.
+
+Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
 
 #### {article}
 Na een motie van wantrouwen gestemd bij normale 2/3de meerderheid door de Volksvergadering tegen een mandaathouder zal een tribunaal worden opgericht bestaande uit de Linker of de Voorzitter van de Volksvergadering en twee leden van de Kamers. 

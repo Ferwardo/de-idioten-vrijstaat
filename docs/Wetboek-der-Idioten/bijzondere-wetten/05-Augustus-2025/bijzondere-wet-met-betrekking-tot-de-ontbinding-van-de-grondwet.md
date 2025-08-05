@@ -14,4 +14,4 @@ De Vrijstaat der Idioten zal hiermee op houden te bestaan.
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den ``<Datum>``_
+_Op den 5de Augustus 2025_
