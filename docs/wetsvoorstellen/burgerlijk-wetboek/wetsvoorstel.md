@@ -19,7 +19,7 @@ Bijgevoegd document genaamd "III. Pensioenen" in gebruik te nemen als titel 3 va
 Bijgevoegd document genaamd "IV. Precedent en tradities" in gebruik te nemen als titel 4 van het Burgerlijk Wetboek.
 
 #### {article}
-De afkorting van het Burgerlijk Wetboek zal "Bw." zijn.
+De afkorting van het Burgerlijk Wetboek zal "BuWe." zijn.
 
 --------------------------
 

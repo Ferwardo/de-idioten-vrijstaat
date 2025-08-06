@@ -15,13 +15,13 @@ De Minister van Alles mag Substituten aanstellen om een departement te leiden bi
 De Minister van Alles en Substituten mogen ambtenaren aanstellen om niet-leidinggevende taken binnen één of meerdere departementen op te nemen. Zij mogen enkel handelen op bevel van de Minister van Alles of hun leidinggevende Substituut.
 
 ### {article}
-Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een aangestelde Substituut permanent benoemen op vraag van de Minister van Alles.
+Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een aangestelde Substituut benoemen tot het einde van de huidige parlementaire zitting op vraag van de Minister van Alles.
 
 ### {article}
-Een ambtenaar zal aangesteld worden voor zolang dit wordt nodig geacht door de Minister van Alles of de leidinggevende Substituut.
+Een ambtenaar zal aangesteld worden door de Minister van Alles of de leidinggevende Substituut voor ten hoogste de resterende periode in de huidige parlementaire zitting.
 
 ### {article}
-De Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het permanent of tijdelijk. Enkel de Volksvergadering kan benoemde Substituten permanent ontslaan.
+De aangestelde Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het permanent of tijdelijk. Enkel de Volksvergadering kan benoemde Substituten permanent ontslaan.
 
 ## II. De Departementen
 
@@ -35,12 +35,13 @@ Departementen kunnen maar worden afgeschaft bij wet.
 Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
 
 * De Kanselarij van de Eerste Minister, verantwoordleijk voor de Eerste Minister
-* Departement Justitie, verantwoordelijk voor de Politie en het opvolgen van de strafuitvoering.
 * Departement Cultuur, Onderwijs en Activiteiten, verantwoordelijk voor het organiseren van (culturele) activiteiten, vakanties en opleidingen
 * Departement Landsverdediging en Interne Veiligheid, verantwoordelijk voor het Staande Leger, de Militie en de KGB
 * Departement Idioten ambeteren met onnodige procedures die te lang duren en te omslachtig zijn, verantwoordelijk voor het inefficiënter maken van de overheidsprocedures
 * Departement Overheidsefficiëntie, verantwoordelijk voor het efficiënter maken van de overheidsprocedures
 * Departement Financiën, Economie en Volksgezondheid, verantwoordelijk voor de algemene gezondheid van het Volk
+* Departement Corruptie, verantwoordelijk voor het bevorderen van corruptie binnen de Vrijstaat.
+* Departement Anti-corruptie, verantwoordelijk voor het bestrijden van corruptie binnen de Vrijstaat.
 
 --------------------------
 
