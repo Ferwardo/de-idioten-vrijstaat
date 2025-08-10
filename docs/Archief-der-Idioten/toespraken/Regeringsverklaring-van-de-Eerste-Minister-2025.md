@@ -1,4 +1,4 @@
-Mijne Eerwaarde en Geëerde Buriku,
+Mijne Eerwaarde en Geëerde Buriku
 
 Met het diepste ontzag en de grootst mogelijke eerbied sta ik heden voor u om, in volle verantwoordelijkheid en gewetensvol plichtsbesef, de wetgevende plannen der regering voor het aanstaande jaar te openbaren.
 

@@ -32,7 +32,7 @@ Iedere persoon wordt geacht onschuldig te zijn tot zijn schuld in rechte bewezen
 #### {article}
 De Volksvergadering heeft het exclusieve recht om gratie te verlenen aan een veroordeelde en zo de resterende straf kwijt te schelden.
 
-Gratie wordt gegeven met een motie met een gewone 2/3de meerderheid.
+Gratie wordt gegeven met een motie met een unanieme meerderheid.
 
 #### {article}
 Poging tot misdrijf is strafbaar indien het misdrijf mislukte wegens omstandigheden buiten de wil van de dader.
