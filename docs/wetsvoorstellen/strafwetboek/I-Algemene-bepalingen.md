@@ -81,7 +81,7 @@ De terbeschikkingstelling is een bijkomende straf.
 #### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 500 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
-Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag van de geldboete die gebruikt zal worden voor het functioneren van de Natie. De heffing kan het vastgelegde maximum overstijgen.
+10 percent van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
 
 Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
