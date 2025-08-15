@@ -32,7 +32,7 @@ Iedere persoon wordt geacht onschuldig te zijn tot zijn schuld in rechte bewezen
 #### {article}
 De Volksvergadering heeft het exclusieve recht om gratie te verlenen aan een veroordeelde en zo de resterende straf kwijt te schelden.
 
-Gratie wordt gegeven met een motie met een gewone 2/3de meerderheid.
+Gratie wordt gegeven met een motie met een unanieme meerderheid.
 
 #### {article}
 Poging tot misdrijf is strafbaar indien het misdrijf mislukte wegens omstandigheden buiten de wil van de dader.
@@ -81,6 +81,8 @@ De terbeschikkingstelling is een bijkomende straf.
 #### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 500 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
+10 percent van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
+
 Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
 Een geldboete boven de 50 Eurodeals wordt aanzien als een correctionele straf.
@@ -92,6 +94,8 @@ Indien de geldboete wordt uitgesproken als hoofdstraf is geen terbeschikkingstel
 
 #### {article} Schadevergoeding
 De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
+
+Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag van de schadevergoeding die gebruikt zal worden voor het functioneren van de Natie. De heffing kan het vastgelegde maximum overstijgen.
 
 De schadevergoeding is een bijkomende straf.
 

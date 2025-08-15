@@ -1,7 +1,7 @@
 # I. Algemene bepalingen
 
 #### {article}
-De wet is enkel van toepassing op het heden en de toekomst.
+De wet is maar van toepassing vanaf ze gepubliceerd is.
 
 ## Ia De Procedure
 
@@ -14,7 +14,7 @@ De burgerlijke procedure zal als volgt verlopen:
 4. Ten hoogste twee weken na het ontvangen van de laatste conclusie velt de Linker een vonnis.
 
 #### {article}
-Indien een partij niet aanwezig is kan de Linker op vraag van de aanwezige partij een vonnis uitspreken ten voordele van de aanwezige partij.
+Indien een partij ongewettigd afwezig is kan de Linker op vraag van de aanwezige partij een vonnis uitspreken ten voordele van de aanwezige partij.
 
 #### {article}
 Indien geen van beide partijen aanwezig is verwijst de Linker de zaak naar de rol en wordt de zaak niet meer behandeld tot een partij hier specifiek om vraagt.
