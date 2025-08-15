@@ -12,14 +12,21 @@ De weerbare leden van de Natie zijn alle mannen en vrouwen die de mogelijkheid e
 
 #### {article}
 Er zal een jaarlijks rappel georganiseerd worden door de Minister van Alles of de Substituut van Landsverdediging en zal bestaan uit ten minste een kruistocht naar Scherpenheuvel.
-Ieder lid van de Militie zal aan dit rappel gehoor geven, gegeven dat de organisator notie heeft genomen van elk lid hun persoonlijke planning. 
+
+Iedere milicien zal aan dit rappel gehoor geven, gegeven dat de organisator rekening heeft gehouden met de persoonlijke beschikbaarheid van elke milicien. 
 
 #### {article}
 De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepingsbevel "Send dudes" kan gebruikt worden.
-Deze lijst zal bij elke wijziging gestemt worden in de Volksvergadering.
+Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering.
 
 Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
-Gegeven de provisies van art. 50 van de Grondwet zal deze wet aanzien worden als de motie ter oproeping van de Militie wanneer het oproepingsbevel gebruikt wordt.
+Gegeven de provisies van art. 50 van de Grondwet zal een oproeping via het oproepingsbevel aanzien worden als goedgekeurde motie om de Militie op te roepen.
+
+#### {article}
+Elke milicien zal zichzelf voorzien van een wapen en indien mogelijk binnen de persoonlijke economische situatie van de milicien een (gedeeltelijk) harnas.
+De milicien kiest zelf de stijl van het wapen, en indien van toepassing harnas, dat hij verkiest. 
+
+Indien de milicien dit praktisch en economische haalbaar acht mag de milicien ook een paard meebrengen bij een oproeping of een rappel.
 
 --------------------------
 
