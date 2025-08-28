@@ -20,19 +20,19 @@ Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moe
 #### {article}
 Een huiszoeking vereist voorafgaande toestemming van de Linker, tenzij er sprake is van flagrante delicten.
 
-#### {article}
+To Delete___#### {article}
 Voorwerpen die in verband kunnen staan met een misdrijf mogen in beslag worden genomen. De betrokkene ontvangt hiervan een proces-verbaal.
 
-#### {article}
+To Delete___#### {article}
 Het Ministerie van Alles mag gebruik maken van observatie, camerabeelden, telefoontap en IT-onderzoek, mits machtiging van de Linker.
 
-#### {article}
+To Delete___#### {article}
 Lichamelijke onderzoeken of afnames (zoals DNA) mogen slechts plaatsvinden met toestemming van de Linker, tenzij de betrokkene schriftelijk instemt.
 
-#### {article}
+To Delete___#### {article}
 Een verdachte mag niet langer dan 48 uur worden vastgehouden zonder tussenkomst van de Linker.
 
-#### {article}
+To Delete___#### {article}
 Bij ernstig vermoeden van gevaar op recidive kan het Ministerie van Alles een tijdelijk contactverbod of locatieverbod opleggen met rechterlijke bekrachtiging binnen 72 uur.
 
 #### {article}
@@ -51,12 +51,15 @@ Hierbij wordt rekening gehouden met het maatschappelijk belang, de ernst van het
 De verdachte wordt door de Griffier opgeroepen met vermelding van het feit, plaats, datum van de zitting en zijn rechten.
 
 #### {article}
-Het volledig strafdossier wordt minstens twee weken vóór de zitting ter beschikking gesteld van de Linker, de Procureur, de verdediging en de burgerlijke partij indien die er is.
+Het volledig strafdossier wordt minstens 1 dag vóór de zitting ter beschikking gesteld van de Linker, de Procureur, de verdediging en de burgerlijke partij indien die er is.
 
 ## Vc. Strafproces
 
 #### {article}
-Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld in lid 1 Art.2 III Sw., zal als volgt verlopen:
+Voor het bestraffen van een Oepsie poepsie is geen hoorzitting of proces nodig. De Linker spreekt eigenhandig een straf uit aan de hand van het bewijs.
+
+#### {article}
+Het proces voor een Da was nie zo goe zal als volgt verlopen:
 
 1. De overdracht van het dossier aan de Linker, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
 2. De voorlezing van de akte van inbeschuldigingstelling door de Griffier.
@@ -68,21 +71,13 @@ Het proces voor een overtreding of een wanbedrijf, uitgezonderd diegene bedoeld 
 8. Uitspraak van het vonnis door de Linker.
 
 #### {article}
-Een proces voor een overtreding mag volledig schriftelijk worden uitgevoerd. 
-De Procureur, de burgerlijke partij en de beklaagde dienen ten laatste twee weken na het versturen van de dagvaarding hun conclusies door te sturen aan de Linker.
+Het proces voor een Fuck it lets ball of de processen bedoeld in artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
 
-De Linker zal hierna een vonnis vellen ten hoogste twee weken na het ontvangen van de laatste conclusies.
-
-De Linker kiest of een proces schriftelijk of mondeling wordt uitgevoerd.
-
-#### {article}
-Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of bedoeld in artikelen 11 en 39 van de Grondwet zal als volgt verlopen:
-
-1. De samenstelling van het tribunaal. De twee bijzitters worden gekozen door de Linker of de Voorzitter van de Volksvergadering afhankelijk van wie het tribunaal voorzit.
-2. De overdracht van het dossier aan het tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
+1. De samenstelling van het Tribunaal. De twee bijzitters worden gekozen door de voorzitter van het Tribunaal. Dit zal in alle gevallen de Linker zijn uitgezonderd diegene waar de Linker de beschuldigde is, dan zal de Voorzitter van de Volksvergadering het Tribunaal voorzitten.
+2. De overdracht van het dossier aan het Tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
 3. De neerlegging van de lijst van getuigen bij de Griffier.
 4. De voorlezing van de akte van inbeschuldigingstelling door de Griffier, indien van toepassing.
-5. Het verhoor van de de beklaagde door de voorzitter van het tribunaal.
+5. Het verhoor van de de beklaagde door de voorzitter van het Tribunaal.
 6. De voorlezing van de lijst van getuigen van de Procureur, de burgerlijke partij en de verdediging door de Griffier.
 7. De eedaflegging van de getuigen.
 8. Het verhoor van de mogelijke getuigen door de Procureur, de burgerlijke partij en de verdediging in die volgorde.
@@ -91,13 +86,17 @@ Het proces voor een misdaad, een wanbedrijf bedoeld in lid 1 Art.2 III Sw. of be
 11. Pleidooien van de verdediging.
 12. Het laatste woord van de beklaagde.
 13. De eventuele repliek van de Procureur, burgerlijke partij en opnieuw het laatste woord van de beklaagde.
-14. De beraadslaging van het tribunaal over de schuldvraag en straftoemeting.
-15. De voorlezing van het arrest door het tribunaal.
+14. De beraadslaging van het Tribunaal over de schuldvraag en straftoemeting.
+15. De voorlezing van het arrest door het Tribunaal.
 
 #### {article}
-Een beklaagde kan ervoor kiezen om gerechtelijk tweegevecht aan te gaan met de burgerlijke partij of de Linker.
+Een beklaagde kan ervoor kiezen om gerechtelijk tweegevecht aan te gaan met ofwel de burgerlijke partij ofwel de Linker.
 
-De beklaagde bekent hierbij schuld aan de feiten die hem ten laste worden gelegd. Indien de beklaagde het tweegevecht wint, zal hem geen straf worden opgelegd.
+Indien de beklaagde het tweegevecth verliest zal hem de dubbele straf worden opgelegd dan die normaal gebruikelijk is.
+Indien de beklaagde het tweegevecht wint, zal hij worden vrijgesproken.
 
-De burgerlijke partij of de Linker kunnen een kampioen kiezen om het tweegevecht te voeren.
-De burgerlijke partij of de Linker kiezen eveneens de omstandigheden van het tweegevecht.
+Een Idioot kan maximaal 1 keer per maand een gerechtelijk tweegevecht aanvragen.
+
+Een lijst met mogelijke omstandigheden zal worden aangelegd. Hieruit wordt per gevecht een willekeurige omstandigheid gekozen die gebruikt zal worden.
+
+De uitgedaagde partij kunnen een kampioen kiezen om het tweegevecht te voeren nadat het omstandigheden zijn bepaald.
