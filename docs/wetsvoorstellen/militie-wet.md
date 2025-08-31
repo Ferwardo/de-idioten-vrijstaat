@@ -17,7 +17,11 @@ Iedere milicien zal aan dit rappel gehoor geven, gegeven dat de organisator reke
 
 #### {article}
 De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepingsbevel "Send dudes" kan gebruikt worden.
-Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering.
+Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering en bestaat voor nu uit:
+
+* Homofoob geweld tegenover een familielid verwant in de tweede verwantschapsgraad van een lid van de Volksvergadering.
+* Ter bescherming van de eer van een vrouwelijk familielied verwant in de tweede verwachtschapsgraad van een lid van de Volksvergadering.
+* Ter bescherming van het Grondgebied. 
 
 Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
 Gegeven de provisies van art. 50 van de Grondwet zal een oproeping via het oproepingsbevel aanzien worden als goedgekeurde motie om de Militie op te roepen.
@@ -27,6 +31,11 @@ Elke milicien zal zichzelf voorzien van een wapen en indien mogelijk binnen de p
 De milicien kiest zelf de stijl van het wapen, en indien van toepassing harnas, dat hij verkiest. 
 
 Indien de milicien dit praktisch en economische haalbaar acht mag de milicien ook een paard meebrengen bij een oproeping of een rappel.
+
+#### {article}
+De Militie wordt geleid door de Generaal-Admiraal-Veldmaarschalk.
+
+Deze wordt bij elke oproeping of rappel willekeurig gekozen uit de leden van de Volksvergadering door een toernooi blad-steen-schaar.
 
 --------------------------
 
