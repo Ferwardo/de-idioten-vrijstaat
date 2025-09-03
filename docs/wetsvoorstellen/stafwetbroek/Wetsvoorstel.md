@@ -22,7 +22,7 @@ Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 
 Bijgevoegd document genaamd "V. Strafvordering" in gebruik te nemen als titel 5 van het Strafwetboek.
 
 #### {article}
-De afkorting van het Strafwetboek zal "Sw." zijn.
+De afkorting van het Strafwetboek zal "Nggr." zijn.
 
 --------------------------
 
