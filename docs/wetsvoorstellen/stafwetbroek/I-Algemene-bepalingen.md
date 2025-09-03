@@ -50,9 +50,9 @@ Iedere verdachte heeft recht op informatie over de hem verweten feiten.
 #### {article}
 Misdrijven worden opgedeeld in drie graden namelijk:
 
-1. Misdaden
-2. Wanbedrijven
-3. Overtredingen
+1. Fuck it lets balls
+2. Da was nie zo goes
+3. Oepsie Poepsies
 
 ## Ib. Straffen
 #### {article}
