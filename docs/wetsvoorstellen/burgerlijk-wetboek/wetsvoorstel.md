@@ -1,3 +1,5 @@
+{reset-law-code}
+
 # Wet inzake het aannemen van een Burgerlijk Wetboek
 
 _Aan alle idioten, die zijn of nog zullen komen, TABÉ._

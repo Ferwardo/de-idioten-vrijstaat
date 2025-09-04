@@ -1,3 +1,4 @@
+{reset-law-code}
 # Wet inzake het aannemen van een strafwetboek
 
 _Aan alle idioten, die zijn of nog zullen komen, TABÉ._

@@ -1,3 +1,5 @@
+{law-code}
+
 # I. Algemene bepalingen
 
 #### {article}
