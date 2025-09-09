@@ -72,14 +72,6 @@ Een Idioot die hetzelfde misdrijf meerdere malen begaat kan op vraag van de Proc
 Voor een overtreding wordt het mogelijk een correctionele straf uit te spreken. Voor een wanbedrijf wordt het mogelijk een criminele straf uit te spreken.
 Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een bijkomende straf op te leggen.
 
-To Delete___#### {article} Terbeschikkingstelling
-De Linker kan een terbeschikkingsstelling opleggen indien deze dit nodig acht ten goede van de openbare orde.
-
-Na het uitzitten van de hoofdstraf zal de veroordeelde onder toezicht komen te staan van de Minister van Alles.
-De Minister van Alles beslist uiteindelijk of de terbeschikkingstelling dient uitgevoerd te worden en indien nodig in welke vorm. Hij wint hiervoor advies in bij de Volksvergadering.
-
-De terbeschikkingstelling is een bijkomende straf.___
-
 #### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 50 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 

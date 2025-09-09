@@ -3,11 +3,6 @@
 #### {article}
 Een wanbedrijf kan bestraft worden met een correctionele straf.
 
-To Delete___#### {article} Verraad
-Men zal veroordeeld worden voor verraad indien aan één der volgende voorwaarden is voldaan.
-
-§1 Het onopzettelijk overtreden van de Grondwet.___
-
 #### {article} Diefstal
 Men zal veroordeeld worden voor diefstal indien men objecten of diensten vervreemd van een andere Idioot zonder diens voorafgaande toestemming.
 

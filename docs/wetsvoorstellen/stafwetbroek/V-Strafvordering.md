@@ -20,21 +20,6 @@ Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moe
 #### {article}
 Een huiszoeking vereist voorafgaande toestemming van de Linker, tenzij er sprake is van flagrante delicten.
 
-To Delete___#### {article}
-Voorwerpen die in verband kunnen staan met een misdrijf mogen in beslag worden genomen. De betrokkene ontvangt hiervan een proces-verbaal.
-
-To Delete___#### {article}
-Het Ministerie van Alles mag gebruik maken van observatie, camerabeelden, telefoontap en IT-onderzoek, mits machtiging van de Linker.
-
-To Delete___#### {article}
-Lichamelijke onderzoeken of afnames (zoals DNA) mogen slechts plaatsvinden met toestemming van de Linker, tenzij de betrokkene schriftelijk instemt.
-
-To Delete___#### {article}
-Een verdachte mag niet langer dan 48 uur worden vastgehouden zonder tussenkomst van de Linker.
-
-To Delete___#### {article}
-Bij ernstig vermoeden van gevaar op recidive kan het Ministerie van Alles een tijdelijk contactverbod of locatieverbod opleggen met rechterlijke bekrachtiging binnen 72 uur.
-
 #### {article}
 Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is strafbaar als wanbedrijf.
 
