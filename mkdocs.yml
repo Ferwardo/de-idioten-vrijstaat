@@ -1,8 +1,9 @@
 site_name: Het Wetboek der Idioten
 extra_css:
   - css/style.css
-extra_js:
+extra_javascript:
   - js/index.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 theme:
   name: material
   prev_next_buttons_location: none
@@ -38,7 +39,10 @@ plugins:
   - redirects:
       redirect_maps:
         'index.md': 'Wetboek-der-Idioten/index.md'
-draf_docs: |
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+draft_docs: |
   drafts/
   _unpublished.md
 hooks:

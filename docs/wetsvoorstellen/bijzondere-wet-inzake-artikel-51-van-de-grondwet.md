@@ -8,13 +8,13 @@ Als titel V van de Grondwet worden volgende artikelen aangenomen.
 #### Art. 51
 Een groet voor, tijdens of juist na een fysieke vergadering zal een handdruk zijn met de linkerhand op even dagen en met de rechterhand op oneven dagen. De Linker groet altijd met de linkerhand.
 
-#### Art. 53
+#### Art. 52
 Het Rijkswapen zal de Opposum met een cowboyhoed zijn. De kenspreuk zal "Be rootin, be tootin, and by god be shooting but most of all be kind" zijn.
 
-#### Art. 54
+#### Art. 53
 Het Volkslied zal [Freebird in het Middelengels](https://www.youtube.com/watch?v=Ueg8QIt7ZTo) zijn. Indien een Idioot het Volkslied meezingt zal hij met een prei moeten zwaaien.
 
-#### Art. 55
+#### Art. 54
 De nationale klederdracht zal ten minste bestaan uit een Hawaii hemd.
 
 De leden der kamers voegen 4 gulden kwastjes toe aan elke mouw van hun hemd.
@@ -37,7 +37,7 @@ De Pontifex Maximus zal een eikenhouten kruisstaf dragen. De staf zal ten minste
 
 De kosten voor de regalia zullen gedragen worden door de Vrijstaat, indien nodig door vrijwillige heffingen.
 
-#### Art. 56
+#### Art. 55
 De nationale feestdagen zullen 1 april en 11 september zijn.
 
 --------------------------
