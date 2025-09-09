@@ -5,6 +5,9 @@
 #### {article}
 Een administratieve heffing wordt geheven op elke geldelijke straf of schadevergoeding uitgesproken door de Linker.
 
+#### {article}
+Een administratieve heffing mag ten hoogste 10% zijn van het verschuldigde bedrag.
+
 ## IIb. Vrijwillige heffingen
 
 #### {article}
@@ -16,3 +19,5 @@ Een Aanvraag tot intekening op een Vrijwillige Heffing zal ten minste bestaan ui
 * Het overblijvende aankoopbedrag na aftrek van de nog openstaande administratieve heffingen.
 * Een korte beschrijving van de aankoop.
 * De verdeelsleutel tussen de inschrijvers, standaard zal deze \(1/\# inschrijvers\) zijn
+* Indien het aankoopbedrag boven de 50 Eurodeals wordt geschat, een vergelijking tussen ten minste drie leveranciers
+    * De beste leverancier wordt gekozen door een objectief punten systeem. Standaard zal dit gebaseerd zijn op de laagste kostprijs.
