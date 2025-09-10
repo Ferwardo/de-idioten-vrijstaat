@@ -46,11 +46,11 @@ Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van
 * Wetens en willens valse of onvolledige verklaringen afleggen onder ede
 * Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen
 * Fraude tegenover de Natie of een andere Idioot
-* Wreedheid
+* Wreedheid tegenover een persoon
 * Lafheid tegenover vijanden van de Natie
 * Schandaleus gedrag
 * Onrechtvaardigheid tegenover een persoon
-* Aanranding van de eerbaarheid en verkrachting
+* Aanranding van de eerbaarheid en verkrachting van een persoon
 * Valsheid in geschrifte
 * Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot
 * Grafschennis
