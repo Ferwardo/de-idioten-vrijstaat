@@ -40,6 +40,21 @@ Bovenstaande lijst is non-exhaustief, de Linker kan extra handelingen strafbaar 
 In uitzondering op het huidige artikel 46 Nggr. zal griefing enkel onderzocht worden indien een klacht wordt neergelegd.
 Verder moet ook een Volksjury, zoals beschreven in het huidige artikel 34 Nggr. lid 2, beslissen of het misdrijf grappig is of niet. Indien grappig bevonden wordt de zaak geseponeerd. 
 
+#### {article} Oneervol gedrag
+Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:
+
+* Wetens en willens valse of onvolledige verklaringen afleggen onder ede
+* Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen
+* Fraude tegenover de Natie of een andere Idioot
+* Wreedheid tegenover een persoon
+* Lafheid tegenover vijanden van de Natie
+* Schandaleus gedrag
+* Onrechtvaardigheid tegenover een persoon
+* Aanranding van de eerbaarheid en verkrachting van een persoon
+* Valsheid in geschrifte
+* Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot
+* Grafschennis
+
 _Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Oepsie Poepsie:_
 
 #### {article} Het te laat invullen van een doodle om af te spreken

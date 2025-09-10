@@ -5,7 +5,7 @@ Om een misdaad te begaan moet de beschuldigde met voorbedachte rade hebben gehan
 Anders zal het misdrijf als wanbedrijf berecht worden.
 
 Verder zal een Volksjury van ten minste 3 Idioten beslissen of een Fuck it lets ball niet grappig genoeg is om te berechten.
-Zij stemmen met Hihihi of Hahaha indien zij het misdrijf grappig vinden en met Grrr als zij dit nie grappig vinden.
+Zij stemmen met Hihihi of Hahaha indien zij het misdrijf grappig vinden en met Grrr als zij dit niet grappig vinden.
 Indien grappig bevonden door een simpele meerderheid van de leden van de Volksjury wordt de zaak geseponeerd.
 
 #### {article}
