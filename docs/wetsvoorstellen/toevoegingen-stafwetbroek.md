@@ -14,7 +14,6 @@ Men zal worden veroordeeld tot griefing indien men een Idioot in een game oneven
 #### {article} Oneervol gedrag
 Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:
 
-* Wetens en willens valse of onvolledige verklaringen afleggen onder ede
 * Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen
 * Fraude tegenover de Natie of een andere Idioot
 * Wreedheid tegenover een persoon
@@ -22,9 +21,19 @@ Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van
 * Schandaleus gedrag
 * Onrechtvaardigheid tegenover een Idioot
 * Aanranding van de eerbaarheid en verkrachting van een persoon
-* Valsheid in geschrifte
 * Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot
-* Grafschennis
+* Graf- en lijkschennis
+* Wetens en willens valse aangifte doen van een misdrijf 
+
+Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Fuck it lets ball:
+
+#### {article} Verbreking van de Openbare Trouw:
+Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met één of meerdere van volgende handelingen stelt:
+
+* Wetens en willens valse of onvolledige verklaringen afleggen onder ede
+* Valsmunterij
+* Namaak van 's Lands zegel
+* Valsheid in geschrifte
 
 --------------------------
 
