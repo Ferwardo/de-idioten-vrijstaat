@@ -1,3 +1,5 @@
+{law-code}
+
 # I. Algemene bepalingen
 ## Ia. Beginselen
 
@@ -50,13 +52,13 @@ Iedere verdachte heeft recht op informatie over de hem verweten feiten.
 #### {article}
 Misdrijven worden opgedeeld in drie graden namelijk:
 
-1. Misdaden
-2. Wanbedrijven
-3. Overtredingen
+1. Fuck it lets balls
+2. Da was nie zo goes
+3. Oepsie Poepsies
 
 ## Ib. Straffen
 #### {article}
-Indien een Idioot veroordeeld wordt tot meerdere straffen zullen deze, uitgezonderd de geldboete, na elkaar worden uitgezeten. De geldboete wordt geïnt direct bij het uitspreken van het vonnis.
+Indien een Idioot veroordeeld wordt tot meerdere straffen zullen deze, uitgezonderd de geldboete, na elkaar worden uitgezeten. De geldboete wordt genoteerd direct bij het uitspreken van het vonnis.
 
 #### {article}
 De Linker kan een straf met uitstel geven indien er verzachtende omstandigheden zijn. De straf zal dan pas uitgevoerd worden indien de veroordeelde éénzelfde of ander misdrijf pleegt van dezelfde of hogere graad.
@@ -70,27 +72,17 @@ Een Idioot die hetzelfde misdrijf meerdere malen begaat kan op vraag van de Proc
 Voor een overtreding wordt het mogelijk een correctionele straf uit te spreken. Voor een wanbedrijf wordt het mogelijk een criminele straf uit te spreken.
 Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een bijkomende straf op te leggen.
 
-#### {article} Terbeschikkingstelling
-De Linker kan een terbeschikkingsstelling opleggen indien deze dit nodig acht ten goede van de openbare orde.
-
-Na het uitzitten van de hoofdstraf zal de veroordeelde onder toezicht komen te staan van de Minister van Alles.
-De Minister van Alles beslist uiteindelijk of de terbeschikkingstelling dient uitgevoerd te worden en indien nodig in welke vorm. Hij wint hiervoor advies in bij de Volksvergadering.
-
-De terbeschikkingstelling is een bijkomende straf.
-
 #### {article} Geldboete
-De veroordeelde zal een boete betalen tussen 1 en 500 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
+De veroordeelde zal een boete betalen tussen 1 en 50 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
 10 percent van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
 
 Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
-Een geldboete boven de 50 Eurodeals wordt aanzien als een correctionele straf.
-Een geldboete boven de 100 Eurodeals wordt aanzien als een criminele straf.
+Een geldboete boven de 10 Eurodeals wordt aanzien als een correctionele straf.
+Een geldboete boven de 20 Eurodeals wordt aanzien als een criminele straf.
 
 In het geval dat een hoofdstraf wordt opgelegd, kan de geldboete ook als bijkomende straf opgelegd worden.
-
-Indien de geldboete wordt uitgesproken als hoofdstraf is geen terbeschikkingstelling mogelijk.
 
 #### {article} Schadevergoeding
 De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
@@ -100,52 +92,54 @@ Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag
 De schadevergoeding is een bijkomende straf.
 
 #### {article} Verbanning
-De veroordeelde mag geen contact meer hebben met andere Idioten voor ten hoogste 5 jaar, zei het mondeling of schriftelijk.
+De veroordeelde mag enkel nog contact hebben met andere Idioten met pen en papier voor ten hoogste 5 jaar.
 
-Verbanning wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 1 maand.
+Verbanning wordt aanzien als een correctionele straf.
 
 #### {article} Werkstraf
-De veroordeelde zal voor ten hoogste 25 uren werken ten goede van de burgerlijke partij.
+De veroordeelde zal voor ten hoogste 5 uren werken ten goede van de burgerlijke partij.
 
-De werkstraf wordt aanzien als een correctionele straf. Een terbeschikkingstelling zal ten hoogste voor 2 uur extra werk zorgen.
+De werkstraf wordt aanzien als een correctionele straf.
 
 #### {article} Ontzetting uit de rechten
 De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde rechten voor ten hoogste 5 jaar.
 
-De ontzetting wordt aanzien als een correctionele straf. Een terbeschikkingstelling duurt ten hoogste 1 maand.
+De ontzetting wordt aanzien als een correctionele straf.
 
 #### {article} Gevangenisstraf
-De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in een massieven blok bedrock in de gevangenis van Kamp Fysica. 
+De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in de gevangenis van Kamp Fysica. 
 Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.
 
-Een gevangenisstraf zal ten minste 1 maand en ten hoogste 1 jaar duren.
+Een gevangenisstraf zal ten minste 1 dag en ten hoogste 30 dagen duren.
 
-De gevangenisstraf is een correctionele straf. Een terbeschikkingstrelling duurt ten hoogste 1 maand.
+De gevangenisstraf is een correctionele straf.
 
 #### {article} Dwangarbeid
-De Idioot veroordeelt tot dwangarbeid zal voor ten minste 25 uren en maximaal 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
+De Idioot veroordeelt tot dwangarbeid zal voor ten minste 5 uren en maximaal 10 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
 
-Dwangarbeid wordt aanzien als een correctionele straf. Een terbeschikkingstelling zal ten hoogste voor 50 uur extra werk zorgen.
+Dwangarbeid wordt aanzien als een correctionele straf.
 
 #### {article} Opsluiting
-De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in een massieven blok bedrock in de gevangenis van Kamp Fysica. 
+De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in de gevangenis van Kamp Fysica. 
 Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.
 
-Een opsluiting zal ten minste 1 jaar en in normale omstandigheden ten hoogste 20 jaar duren. De Linker kan bijkomend het weggooien van de sleutel bevelen. De opsluiting wordt dan omgezet in een levenslange straf (voor de Idioot, niet zijn karakter).
+Een opsluiting zal in normale omstandigheden ten hoogste 6 weken duren. De Linker kan bijkomend het weggooien van de sleutel bevelen. De opsluiting wordt dan omgezet in een levenslange straf (voor de Idioot, niet zijn karakter).
 
-De opsluiting is een criminele straf. Een terbeschikkingstrelling duurt ten hoogste 5 jaar.
+De opsluiting is een criminele straf.
 
 #### {article} Zware dwangarbeid
 De Idioot veroordeelt tot zware dwangarbeid zal voor ten minste 50 uren werken ten goede van de Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.
 
-Zware dwangarbeid wordt aanzien als een criminele straf. Een terbeschikkingstelling zal voor ten hoogste 100 uur extra werk zorgen.
+Zware dwangarbeid wordt aanzien als een criminele straf.
 
 #### {article} Excommunicatie
-De veroordeelde mag, voor de rest van zijn leven, geen contact meer hebben met andere Idioten, zei het mondeling of schriftelijk.
+De veroordeelde mag, voor de rest van zijn leven, enkel nog contact hebben met andere Idioten via pen en papier.
 
 De excommunicatie wordt aanzien als een criminele straf.
 
 #### {article} Burgerlijke dood
 De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet vastgelegde rechten.
+
+De veroordeelde trakteert bovendien met een taart voor zijn begrafenis.
 
 De burgerlijke dood wordt aanzien als een criminele straf.
