@@ -8,7 +8,7 @@ _De Volkvergadering heeft beslist:_
 Deze wet regelt de verdere uitwerking van de artikelen 48, 49 en 50 van de Grondwet.
 
 #### {article}
-De weerbare leden van de Natie zijn alle mannen en vrouwen die de mogelijkheid en het recht hebben om een wapen te dragen.
+De weerbare leden van de Natie zijn alle mannen en vrouwen die het recht hebben om een wapen te dragen.
 
 #### {article}
 Er zal een jaarlijks rappel georganiseerd worden door de Minister van Alles of de Substituut van Landsverdediging en zal bestaan uit ten minste een kruistocht naar Scherpenheuvel.
@@ -19,8 +19,8 @@ Iedere milicien zal aan dit rappel gehoor geven, gegeven dat de organisator reke
 De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepingsbevel "Send dudes" kan gebruikt worden.
 Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering en bestaat voor nu uit:
 
-* Homofoob geweld tegenover een familielid verwant in de tweede verwantschapsgraad van een lid van de Volksvergadering.
-* Ter bescherming van de eer van een vrouwelijk familielied verwant in de tweede verwachtschapsgraad van een lid van de Volksvergadering.
+* Homofoob geweld tegenover een familielid verwant tot in de tweede verwantschapsgraad van een lid van de Volksvergadering.
+* Ter bescherming van de eer van een vrouwelijk familielied verwant tot in de tweede verwantschapsgraad van een lid van de Volksvergadering.
 * Ter bescherming van het Grondgebied. 
 
 Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
