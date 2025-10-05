@@ -20,7 +20,7 @@ Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van
 * Lafheid tegenover vijanden van de Natie
 * Schandaleus gedrag
 * Onrechtvaardigheid tegenover een Idioot
-* Aanranding van de eerbaarheid en verkrachting van een persoon
+* Aanranding van de eerbaarheid of verkrachting van een persoon
 * Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot
 * Graf- en lijkschennis
 * Wetens en willens valse aangifte doen van een misdrijf 
