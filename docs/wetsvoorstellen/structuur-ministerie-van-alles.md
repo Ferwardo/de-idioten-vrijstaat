@@ -8,10 +8,10 @@ _De Volkvergadering heeft beslist:_
 
 ## I. De Substituten en Ambtenaren
 
-### {article}
+### {article} _Goedgekeurd op 5/08_
 De Minister van Alles mag Substituten aanstellen om een departement te leiden binnen het Ministerie.
 
-### {article}
+### {article} _Goedgekeurd op 5/08_
 De Minister van Alles en Substituten mogen ambtenaren aanstellen om niet-leidinggevende taken binnen één of meerdere departementen op te nemen. Zij mogen enkel handelen op bevel van de Minister van Alles of hun leidinggevende Substituut.
 
 ### {article}
@@ -25,16 +25,16 @@ De aangestelde Substituten en ambtenaren kunnen uit hun ambt ontzet worden door 
 
 ## II. De Departementen
 
-### {article}
+### {article} _Goedgekeurd op 5/08_
 Departementen, niet genoemd in deze wet, kunnen maar worden opgericht bij wet.
 
-### {article}
+### {article} _Goedgekeurd op 5/08_
 Departementen kunnen maar worden afgeschaft bij wet.
 
 ### {article}
 Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
 
-* De Kanselarij van de Eerste Minister, verantwoordleijk voor de Eerste Minister
+* De Kanselarij van de Eerste Minister, verantwoordelijk voor de Eerste Minister
 * Departement Cultuur, Onderwijs en Activiteiten, verantwoordelijk voor het organiseren van (culturele) activiteiten, vakanties en opleidingen
 * Departement Landsverdediging en Interne Veiligheid, verantwoordelijk voor het Staande Leger, de Militie en de KGB
 * Departement Idioten ambeteren met onnodige procedures die te lang duren en te omslachtig zijn, verantwoordelijk voor het inefficiënter maken van de overheidsprocedures

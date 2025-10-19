@@ -2,22 +2,22 @@
 
 ## Va. Strafonderzoek
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Iedere persoon mag aangifte doen van een strafbaar feit bij het Ministerie van Alles.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Het Ministerie van Alles is exclusief bevoegd tot het uitvoeren van het strafonderzoek. De Linker houdt toezicht over het wettelijk verlopen van het onderzoek.
 
 Bij een onderzoek naar de Linker kan de Minister van Alles vragen aan de Eerste Minister om het onderzoek onder toezicht van de Voorzitter van de Volksvergadering te plaatsen.
 Bij een onderzoek naar de Minister van Alles kan de Linker vragen aan de Eerste Minister om het onderzoek te laten uitvoeren door de Linker. Het toezicht wordt hierbij gehouden door de Eerste Minister.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Een onderzoek wordt opgestart zodra een strafbaar feit vermoed wordt, hetzij op klacht, hetzij ambtshalve.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moet vooraf worden geïnformeerd over zijn rechten.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Een huiszoeking vereist voorafgaande toestemming van de Linker, tenzij er sprake is van flagrante delicten.
 
 #### {article}
@@ -25,14 +25,14 @@ Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is s
 
 ## Vb Vervolging
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 De Procureur is belast met de vervolging van strafbare feiten en vertegenwoordigt de maatschappij bij de Linker.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 De Linker beoordeelt of vervolging opportuun is op basis van de akte van inbeschuldigingstelling opgesteld door het Ministerie van Alles.
 Hierbij wordt rekening gehouden met het maatschappelijk belang, de ernst van het feit en de persoon van de verdachte.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 De verdachte wordt door de Griffier opgeroepen met vermelding van het feit, plaats, datum van de zitting en zijn rechten.
 
 #### {article}
@@ -43,7 +43,7 @@ Het volledig strafdossier wordt minstens 1 dag vóór de zitting ter beschikking
 #### {article}
 Voor het bestraffen van een Oepsie poepsie is geen hoorzitting of proces nodig. De Linker spreekt eigenhandig een straf uit aan de hand van het bewijs.
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Het proces voor een Da was nie zo goe zal als volgt verlopen:
 
 1. De overdracht van het dossier aan de Linker, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij.
@@ -77,7 +77,7 @@ Het proces voor een Fuck it lets ball of de processen bedoeld in artikelen 11 en
 #### {article}
 Een beklaagde kan ervoor kiezen om gerechtelijk tweegevecht aan te gaan met ofwel de burgerlijke partij ofwel de Linker.
 
-Indien de beklaagde het tweegevecth verliest zal hem de dubbele straf worden opgelegd dan die normaal gebruikelijk is.
+Indien de beklaagde het tweegevecht verliest zal hem de dubbele straf worden opgelegd dan die normaal gebruikelijk is.
 Indien de beklaagde het tweegevecht wint, zal hij worden vrijgesproken.
 
 Een Idioot kan maximaal 1 keer per maand een gerechtelijk tweegevecht aanvragen.

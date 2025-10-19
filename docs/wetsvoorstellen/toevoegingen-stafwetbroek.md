@@ -15,9 +15,9 @@ Men zal worden veroordeeld tot griefing indien men een Idioot in een game oneven
 Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:
 
 * Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen
-* Fraude tegenover de Natie of een andere Idioot
+* Fraude tegenover de Vrijstaat of een andere Idioot
 * Wreedheid tegenover een persoon
-* Lafheid tegenover vijanden van de Natie
+* Lafheid tegenover vijanden van de Vrijstaat
 * Schandaleus gedrag
 * Onrechtvaardigheid tegenover een Idioot
 * Aanranding van de eerbaarheid of verkrachting van een persoon

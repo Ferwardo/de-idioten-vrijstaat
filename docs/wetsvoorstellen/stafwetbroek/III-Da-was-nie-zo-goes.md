@@ -1,6 +1,6 @@
 # III. Da was nie zo goes
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Een wanbedrijf kan bestraft worden met een correctionele straf.
 
 #### {article} Diefstal
