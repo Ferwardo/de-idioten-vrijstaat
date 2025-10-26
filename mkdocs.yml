@@ -44,7 +44,7 @@ plugins:
       cover_title: Het Wetboek der Idioten
       toc_title: Inhoudsopgave
       download_link: header
-      back_cover: true
+      back_cover: false
       debug_html: false
       exclude_pages:
         - 'wetsvoorstellen/'
