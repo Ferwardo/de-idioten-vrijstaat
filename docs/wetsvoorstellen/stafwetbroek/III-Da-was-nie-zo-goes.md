@@ -11,4 +11,4 @@ Dit geldt ook in games.
 #### {article} Doodslag
 Men zal veroordeeld worden voor doodslag indien men een andere Idioot dood, zei het opzettelijk of onopzettelijk.
 
-Dit wanbedrijf wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden. Een voorbeeld van games die wel het doel hebben om andere Idioten te doden is Rainbow Six: Siege.
+Dit wanbedrijf wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden. Een voorbeeld van games die wel het doel hebben om andere Idioten te doden zijn shooter games.

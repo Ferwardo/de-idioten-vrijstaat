@@ -28,4 +28,4 @@ Men zal veroordeeld worden voor sodomie indien aan één der volgende voorwaarde
 #### {article} Moord
 Men zal veroordeeld worden voor moord indien de beschuldigde een andere Idioot dood met voorbedachte rade.
 
-Deze misdaad wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden. Een voorbeeld van games die wel het doel hebben om andere Idioten te doden is Rainbow Six: Siege.
+Deze misdaad wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden. Een voorbeeld van games die wel het doel hebben om andere Idioten te doden zijn shooter games.

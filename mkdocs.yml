@@ -39,6 +39,17 @@ plugins:
   - redirects:
       redirect_maps:
         'index.md': 'Wetboek-der-Idioten/index.md'
+  - to-pdf:
+      cover: true
+      cover_title: Het Wetboek der Idioten
+      toc_title: Inhoudsopgave
+      download_link: header
+      back_cover: true
+      debug_html: false
+      exclude_pages:
+        - 'wetsvoorstellen/'
+        - 'Archief-der-Idioten/'
+        - 'Wetboek-der-Idioten/:het-wetboek-der-idioten'
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true

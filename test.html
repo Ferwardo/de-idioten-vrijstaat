@@ -1,0 +1,2784 @@
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width,initial-scale=1" name="viewport" />
+  <link href="file:///home/ferre/de-idioten-vrijstaat/site/Archief-der-Idioten/" rel="next" />
+  <link href="file:///home/ferre/de-idioten-vrijstaat/site/assets/images/favicon.png" rel="icon" />
+  <meta content="mkdocs-1.6.1, mkdocs-material-9.6.12" name="generator" />
+  <title>De Idiotengrondwet van de Vrijstaat - Het Wetboek der Idioten</title>
+  <link href="file:///home/ferre/de-idioten-vrijstaat/site/assets/stylesheets/main.2afb09e1.min.css" rel="stylesheet" />
+  <link href="file:///home/ferre/de-idioten-vrijstaat/site/assets/stylesheets/palette.06af60db.min.css"
+    rel="stylesheet" />
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback"
+    rel="stylesheet" />
+  <style>
+    :root {
+      --md-text-font: "Roboto";
+      --md-code-font: "Roboto Mono"
+    }
+  </style>
+  <link href="file:///home/ferre/de-idioten-vrijstaat/site/css/style.css" rel="stylesheet" />
+  <script>__md_scope = new URL("..", location), __md_hash = e => [...e].reduce(((e, _) => (e << 5) - e + _.charCodeAt(0)), 0), __md_get = (e, _ = localStorage, t = __md_scope) => JSON.parse(_.getItem(t.pathname + "." + e)), __md_set = (e, _, t = localStorage, a = __md_scope) => { try { t.setItem(a.pathname + "." + e, JSON.stringify(_)) } catch (e) { } }</script>
+  <style>
+    :root {
+      string-set: author '', copyright '', title 'Het Wetboek der Idioten';
+    }
+
+    h1,
+    h2,
+    h3 {
+      string-set: chapter content();
+    }
+
+    @page {
+      size: a4 portrait;
+      margin: 25mm 10mm 25mm 10mm;
+      counter-increment: page;
+      white-space: pre;
+      color: grey;
+
+      @top-right {
+        font-size: 7pt;
+        content: string(chapter);
+      }
+
+      @bottom-center {
+        font-size: 8pt;
+        content: "- " counter(page) "/" counter(pages) " -";
+      }
+
+      @bottom-right {
+        font-size: 6pt;
+        content: string(copyright);
+      }
+    }
+
+    @media print {
+      body {
+        background: none;
+        background-color: #fff;
+      }
+    }
+
+    article,
+    section+section {
+      page-break-before: always;
+      min-height: 100vh;
+      /* Defining all page breaks */
+    }
+
+    article,
+    article h1,
+    article h2,
+    article h3,
+    article h4,
+    article h5,
+    article h6,
+    article div.tabbed-content--wrap>.tabbed-content,
+    section+section,
+    section+section h1,
+    section+section h2,
+    section+section h3,
+    section+section h4,
+    section+section h5,
+    section+section h6,
+    section+section div.tabbed-content--wrap>.tabbed-content {
+      clear: both;
+    }
+
+    article h1,
+    article h2,
+    article h3,
+    article h4,
+    article h5,
+    article h6,
+    article img,
+    section+section h1,
+    section+section h2,
+    section+section h3,
+    section+section h4,
+    section+section h5,
+    section+section h6,
+    section+section img {
+      page-break-after: avoid;
+      page-break-inside: avoid;
+    }
+
+    article a,
+    article blockquote,
+    article table,
+    article ul,
+    article ol,
+    section+section a,
+    section+section blockquote,
+    section+section table,
+    section+section ul,
+    section+section ol {
+      page-break-before: avoid;
+      page-break-inside: avoid;
+    }
+
+    article pre,
+    article dt+dd,
+    section+section pre,
+    section+section dt+dd {
+      page-break-before: avoid;
+    }
+
+    article h1+ul,
+    article h2+ul,
+    article h3+ul,
+    article h4+ul,
+    article h5+ul,
+    article h6+ul,
+    article h1+ol,
+    article h2+ol,
+    article h3+ol,
+    article h4+ol,
+    article h5+ol,
+    article h6+ol,
+    section+section h1+ul,
+    section+section h2+ul,
+    section+section h3+ul,
+    section+section h4+ul,
+    section+section h5+ul,
+    section+section h6+ul,
+    section+section h1+ol,
+    section+section h2+ol,
+    section+section h3+ol,
+    section+section h4+ol,
+    section+section h5+ol,
+    section+section h6+ol {
+      page-break-inside: auto;
+    }
+
+    article div.admonition,
+    section+section div.admonition {
+      page-break-inside: avoid;
+    }
+
+    article div.tabbed-content--wrap,
+    section+section div.tabbed-content--wrap {
+      page-break-inside: avoid;
+    }
+
+    article *+div.highlight,
+    article *+div.tabbed-set,
+    section+section *+div.highlight,
+    section+section *+div.tabbed-set {
+      page-break-before: avoid;
+    }
+
+    section.two-columns {
+      columns: 2;
+      column-gap: 1cm;
+    }
+
+    article h1 {
+      border-bottom: 2px solid #f00;
+    }
+
+    article h2 {
+      border-bottom: 1px solid #f99;
+    }
+
+    article h3 {
+      border-bottom: 0.5px solid #eee;
+    }
+
+    article h1>.pdf-order,
+    article h2>.pdf-order,
+    article h3>.pdf-order {
+      padding-left: 6px;
+    }
+
+    article#doc-toc {
+      margin: 0 .8rem 1.2rem;
+      padding-top: .6rem;
+      font-size: 12pt;
+      line-height: 1.6;
+    }
+
+    article#doc-toc>h1 {
+      margin: 0 0 2rem;
+      color: rgba(0, 0, 0, 0.54);
+      font-size: 1.2rem;
+      font-weight: 300;
+      letter-spacing: -.01em;
+      page-break-after: auto;
+      page-break-inside: auto;
+      bookmark-level: none;
+    }
+
+    article#doc-toc>h1::before {
+      display: block;
+      margin-top: -9px;
+      padding-top: 9px;
+      content: "";
+    }
+
+    article#doc-toc ul {
+      list-style: none;
+      padding-left: 0;
+      margin-left: 1em;
+      font-size: 8pt;
+      page-break-inside: auto !important;
+    }
+
+    article#doc-toc li {
+      list-style: none;
+    }
+
+    article#doc-toc li>a {
+      color: inherit;
+      text-decoration: none;
+      padding-top: 0.4rem;
+      border-bottom: 1px dotted #ddd;
+      display: inline-block;
+      width: 100%;
+    }
+
+    article#doc-toc li>a>.pdf-order {
+      padding-right: 0.5em;
+    }
+
+    article#doc-toc li>a::after {
+      float: right;
+      content: target-counter(attr(href), page);
+    }
+
+    @media print {
+      html {
+        font-size: 95%;
+        font-family: 'Roboto', 'Noto Sans CJK JP', sans-serif;
+      }
+
+      body {
+        font-size: 10.5pt;
+        font-family: 'Roboto', 'Noto Sans CJK JP', sans-serif;
+      }
+
+      article {
+        font-size: 0.8rem;
+        line-height: 1.6;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6,
+      label {
+        font-family: 'Roboto', 'Noto Sans CJK JP', sans-serif;
+      }
+
+      pre,
+      code,
+      var,
+      samp,
+      kbd,
+      tt {
+        font-family: 'Roboto Mono', 'Noto Sans Mono CJK JP', monospace, sans-serif;
+        font-size: 0.8em;
+      }
+
+      pre code,
+      pre var,
+      pre samp,
+      pre kbd,
+      pre tt {
+        font-size: 100%;
+      }
+    }
+
+    @page :first {
+      @top-right {
+        content: normal;
+      }
+
+      @bottom-center {
+        content: normal;
+      }
+
+      @bottom-right {
+        content: normal;
+      }
+    }
+
+    article#doc-cover {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    article#doc-cover>.wrapper {
+      flex: 1 0 auto;
+      text-align: center;
+      padding: 0 3rem;
+    }
+
+    article#doc-cover>.wrapper.upper {
+      flex: 1 1 auto;
+      max-height: 30vh;
+    }
+
+    article#doc-cover>.wrapper.upper>.logo {
+      width: 100%;
+      height: 100%;
+      background-position: center bottom;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+
+    article#doc-cover>.wrapper h1 {
+      font-size: 36pt;
+      line-height: 1.4;
+    }
+
+    article#doc-cover>.wrapper h2 {
+      border: none;
+      bookmark-level: none;
+    }
+
+    article#doc-cover>.properties {
+      flex: 0 0 auto;
+      text-align: right;
+      padding: 0 2rem;
+    }
+
+    article#doc-cover>.properties p#copyright {
+      font-size: 80%;
+    }
+
+    article#doc-back_cover {
+      page: back_cover;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    article#doc-back_cover .wrapper {
+      flex: 1 0 auto;
+      display: inline-block;
+      background: #eee;
+    }
+
+    article#doc-back_cover .qrcode {
+      display: inline-block;
+      flex: 0 0 auto;
+      background: #eee;
+    }
+
+    article#doc-back_cover .qrcode>a {
+      display: inline-block;
+      padding: 0.5em 2em;
+      border-radius: 1em;
+      background-color: #fff;
+    }
+
+    article#doc-back_cover .qrcode>a img {
+      width: 100%;
+      height: auto;
+    }
+
+    @page back_cover {
+      background-color: #eee;
+
+      @top-right {
+        content: normal;
+      }
+
+      @bottom-center {
+        content: normal;
+      }
+
+      @bottom-left {
+        font-size: 8pt;
+        content: string(title);
+      }
+
+      @bottom-right {
+        font-size: 8pt;
+        content: string(copyright);
+      }
+    }
+
+    @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Quattrocento:wght@400;700&display=swap");
+
+    body {
+      font-family: 'Quattrocento';
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-family: 'Cinzel' !important;
+      text-decoration: none !important;
+    }
+
+    hr {
+      display: none;
+    }
+
+    #title {
+      text-align: center;
+    }
+  </style>
+  <style>
+    .md-typeset>ul,
+    .md-typeset>ol {
+      margin-left: 0rem !important;
+    }
+
+    .md-typeset ul li,
+    .md-typeset ol li {
+      margin-left: 1.5rem !important;
+    }
+
+    @media print {
+      .md-typeset :is(.admonition-title, summary):before {
+        top: 0.6rem;
+        left: 0.6rem;
+      }
+
+      .md-typeset .tabbed-set {
+        display: block;
+      }
+
+      .md-typeset .tabbed-set .tabbed-content--wrap {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 0.25rem;
+      }
+
+      .md-typeset .tabbed-set .tabbed-content--wrap>input {
+        display: none;
+      }
+
+      .md-typeset .tabbed-set .tabbed-content--wrap>label {
+        background-color: rgba(170, 170, 170, 0.2);
+        padding: 0.2rem 2rem;
+        margin: 0;
+        font-weight: 600;
+        color: #666;
+        border-radius: 3px 3px 0 0;
+        border-bottom-color: transparent;
+      }
+
+      .md-typeset .tabbed-set .tabbed-content--wrap>.tabbed-content {
+        display: block;
+        box-shadow: none;
+      }
+
+      .md-typeset .admonition-title+.tabbed-set:last-child,
+      .md-typeset summary+.tabbed-set:last-child {
+        margin-top: 0.5rem;
+      }
+
+      .md-typeset>details summary::after {
+        display: none;
+      }
+
+      .md-typeset>div,
+      .md-typeset>div.admonition,
+      .md-typeset>details,
+      .md-typeset>div.tabbed-set,
+      .md-typeset>blockquote,
+      .md-typeset>mark,
+      .md-typeset>table,
+      .md-typeset>p {
+        margin-left: 0.7rem;
+      }
+
+      .md-typeset>table.highlighttable {
+        margin: 0 0 0 0.7rem;
+      }
+
+      .md-typeset table.highlighttable,
+      .md-typeset table.highlighttable>tbody {
+        width: 100%;
+      }
+
+      .md-typeset table.highlighttable {
+        padding-bottom: 0.5em;
+      }
+
+      .md-typeset table.highlighttable .linenos {
+        padding-bottom: 0;
+      }
+
+      .md-typeset>ul,
+      .md-typeset>ol {
+        margin-left: 1.5rem;
+      }
+
+      .md-typeset h4,
+      .md-typeset h5,
+      .md-typeset h6 {
+        margin-left: 0.25rem;
+      }
+
+      .md-typeset *:not(h3)+h4 {
+        margin-top: 1.5rem;
+      }
+
+      .md-typeset hr {
+        border-bottom: 1px dotted #999;
+      }
+
+      .md-typeset .footnote {
+        line-height: 1.1;
+      }
+
+      .md-typeset table:not([class]) th,
+      .md-typeset table:not([class]) td {
+        padding: 0.5em 1.25rem 0.4em;
+      }
+
+      .md-typeset table:not([class]) td {
+        border-bottom: 1px solid #eee;
+      }
+
+      .md-typeset span.twemoji {
+        vertical-align: middle;
+        height: 1.125rem;
+        display: inline-block;
+      }
+
+      .md-typeset span.twemoji>img {
+        height: 1.125rem;
+        vertical-align: middle;
+        display: inline-block;
+      }
+
+      .task-list-indicator:before {
+        left: -1.5em;
+      }
+
+      blockquote {
+        border-left: .2rem solid #a9a9a9;
+        padding-left: .6rem;
+      }
+    }
+
+    .md-typeset kbd {
+      vertical-align: middle;
+      border-color: #b8b8b8;
+      border-style: outset;
+      border-width: .05rem .075rem .1rem .075rem;
+      border-radius: .25rem;
+      box-shadow: none;
+    }
+
+    :root {
+      --print-md-admonition-icon--note: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23448aff"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>');
+      --print-md-admonition-icon--abstract: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300b0ff"><path d="M4 5h16v2H4V5m0 4h16v2H4V9m0 4h16v2H4v-2m0 4h10v2H4v-2z"/></svg>');
+      --print-md-admonition-icon--info: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300b8d4"><path d="M13 9h-2V7h2m0 10h-2v-6h2m-1-9A10 10 0 002 12a10 10 0 0010 10 10 10 0 0010-10A10 10 0 0012 2z"/></svg>');
+      --print-md-admonition-icon--tip: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300bfa5"><path d="M17.66 11.2c-.23-.3-.51-.56-.77-.82-.67-.6-1.43-1.03-2.07-1.66C13.33 7.26 13 4.85 13.95 3c-.95.23-1.78.75-2.49 1.32-2.59 2.08-3.61 5.75-2.39 8.9.04.1.08.2.08.33 0 .22-.15.42-.35.5-.23.1-.47.04-.66-.12a.58.58 0 01-.14-.17c-1.13-1.43-1.31-3.48-.55-5.12C5.78 10 4.87 12.3 5 14.47c.06.5.12 1 .29 1.5.14.6.41 1.2.71 1.73 1.08 1.73 2.95 2.97 4.96 3.22 2.14.27 4.43-.12 6.07-1.6 1.83-1.66 2.47-4.32 1.53-6.6l-.13-.26c-.21-.46-.77-1.26-.77-1.26m-3.16 6.3c-.28.24-.74.5-1.1.6-1.12.4-2.24-.16-2.9-.82 1.19-.28 1.9-1.16 2.11-2.05.17-.8-.15-1.46-.28-2.23-.12-.74-.1-1.37.17-2.06.19.38.39.76.63 1.06.77 1 1.98 1.44 2.24 2.8.04.14.06.28.06.43.03.82-.33 1.72-.93 2.27z"/></svg>');
+      --print-md-admonition-icon--success: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300c853"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>');
+      --print-md-admonition-icon--question: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2364dd17"><path d="M15.07 11.25l-.9.92C13.45 12.89 13 13.5 13 15h-2v-.5c0-1.11.45-2.11 1.17-2.83l1.24-1.26c.37-.36.59-.86.59-1.41a2 2 0 00-2-2 2 2 0 00-2 2H8a4 4 0 014-4 4 4 0 014 4 3.2 3.2 0 01-.93 2.25M13 19h-2v-2h2M12 2A10 10 0 002 12a10 10 0 0010 10 10 10 0 0010-10c0-5.53-4.5-10-10-10z"/></svg>');
+      --print-md-admonition-icon--warning: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff9100"><path d="M13 14h-2V9h2m0 9h-2v-2h2M1 21h22L12 2 1 21z"/></svg>');
+      --print-md-admonition-icon--failure: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff5252"><path d="M12 2c5.53 0 10 4.47 10 10s-4.47 10-10 10S2 17.53 2 12 6.47 2 12 2m3.59 5L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41 15.59 7z"/></svg>');
+      --print-md-admonition-icon--danger: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ff1744"><path d="M11.5 20l4.86-9.73H13V4l-5 9.73h3.5V20M12 2c2.75 0 5.1 1 7.05 2.95C21 6.9 22 9.25 22 12s-1 5.1-2.95 7.05C17.1 21 14.75 22 12 22s-5.1-1-7.05-2.95C3 17.1 2 14.75 2 12s1-5.1 2.95-7.05C6.9 3 9.25 2 12 2z"/></svg>');
+      --print-md-admonition-icon--bug: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23f50057"><path d="M14 12h-4v-2h4m0 6h-4v-2h4m6-6h-2.81a5.985 5.985 0 00-1.82-1.96L17 4.41 15.59 3l-2.17 2.17a6.002 6.002 0 00-2.83 0L8.41 3 7 4.41l1.62 1.63C7.88 6.55 7.26 7.22 6.81 8H4v2h2.09c-.05.33-.09.66-.09 1v1H4v2h2v1c0 .34.04.67.09 1H4v2h2.81c1.04 1.79 2.97 3 5.19 3s4.15-1.21 5.19-3H20v-2h-2.09c.05-.33.09-.66.09-1v-1h2v-2h-2v-1c0-.34-.04-.67-.09-1H20V8z"/></svg>');
+      --print-md-admonition-icon--example: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23651fff"><path d="M7 13v-2h14v2H7m0 6v-2h14v2H7M7 7V5h14v2H7M3 8V5H2V4h2v4H3m-1 9v-1h3v4H2v-1h2v-.5H3v-1h1V17H2m2.25-7a.75.75 0 01.75.75c0 .2-.08.39-.21.52L3.12 13H5v1H2v-.92L4 11H2v-1h2.25z"/></svg>');
+      --print-md-admonition-icon--quote: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%239e9e9e"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3l-2 4z"/></svg>');
+    }
+
+    @media print {
+      .md-typeset .admonition-title {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .admonition-title::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--note);
+      }
+
+      .md-typeset .note>.admonition-title,
+      .md-typeset .note>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .note>.admonition-title::before,
+      .md-typeset .note>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--note);
+      }
+
+      .md-typeset .abstract>.admonition-title,
+      .md-typeset .tldr>.admonition-title,
+      .md-typeset .summary>.admonition-title,
+      .md-typeset .abstract>summary,
+      .md-typeset .tldr>summary,
+      .md-typeset .summary>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .abstract>.admonition-title::before,
+      .md-typeset .tldr>.admonition-title::before,
+      .md-typeset .summary>.admonition-title::before,
+      .md-typeset .abstract>summary::before,
+      .md-typeset .tldr>summary::before,
+      .md-typeset .summary>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--abstract);
+      }
+
+      .md-typeset .info>.admonition-title,
+      .md-typeset .todo>.admonition-title,
+      .md-typeset .info>summary,
+      .md-typeset .todo>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .info>.admonition-title::before,
+      .md-typeset .todo>.admonition-title::before,
+      .md-typeset .info>summary::before,
+      .md-typeset .todo>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--info);
+      }
+
+      .md-typeset .tip>.admonition-title,
+      .md-typeset .important>.admonition-title,
+      .md-typeset .hint>.admonition-title,
+      .md-typeset .tip>summary,
+      .md-typeset .important>summary,
+      .md-typeset .hint>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .tip>.admonition-title::before,
+      .md-typeset .important>.admonition-title::before,
+      .md-typeset .hint>.admonition-title::before,
+      .md-typeset .tip>summary::before,
+      .md-typeset .important>summary::before,
+      .md-typeset .hint>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--tip);
+      }
+
+      .md-typeset .success>.admonition-title,
+      .md-typeset .done>.admonition-title,
+      .md-typeset .check>.admonition-title,
+      .md-typeset .success>summary,
+      .md-typeset .done>summary,
+      .md-typeset .check>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .success>.admonition-title::before,
+      .md-typeset .done>.admonition-title::before,
+      .md-typeset .check>.admonition-title::before,
+      .md-typeset .success>summary::before,
+      .md-typeset .done>summary::before,
+      .md-typeset .check>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--success);
+      }
+
+      .md-typeset .question>.admonition-title,
+      .md-typeset .faq>.admonition-title,
+      .md-typeset .help>.admonition-title,
+      .md-typeset .question>summary,
+      .md-typeset .faq>summary,
+      .md-typeset .help>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .question>.admonition-title::before,
+      .md-typeset .faq>.admonition-title::before,
+      .md-typeset .help>.admonition-title::before,
+      .md-typeset .question>summary::before,
+      .md-typeset .faq>summary::before,
+      .md-typeset .help>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--question);
+      }
+
+      .md-typeset .warning>.admonition-title,
+      .md-typeset .attention>.admonition-title,
+      .md-typeset .caution>.admonition-title,
+      .md-typeset .warning>summary,
+      .md-typeset .attention>summary,
+      .md-typeset .caution>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .warning>.admonition-title::before,
+      .md-typeset .attention>.admonition-title::before,
+      .md-typeset .caution>.admonition-title::before,
+      .md-typeset .warning>summary::before,
+      .md-typeset .attention>summary::before,
+      .md-typeset .caution>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--warning);
+      }
+
+      .md-typeset .failure>.admonition-title,
+      .md-typeset .missing>.admonition-title,
+      .md-typeset .fail>.admonition-title,
+      .md-typeset .failure>summary,
+      .md-typeset .missing>summary,
+      .md-typeset .fail>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .failure>.admonition-title::before,
+      .md-typeset .missing>.admonition-title::before,
+      .md-typeset .fail>.admonition-title::before,
+      .md-typeset .failure>summary::before,
+      .md-typeset .missing>summary::before,
+      .md-typeset .fail>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--failure);
+      }
+
+      .md-typeset .danger>.admonition-title,
+      .md-typeset .error>.admonition-title,
+      .md-typeset .danger>summary,
+      .md-typeset .error>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .danger>.admonition-title::before,
+      .md-typeset .error>.admonition-title::before,
+      .md-typeset .danger>summary::before,
+      .md-typeset .error>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--danger);
+      }
+
+      .md-typeset .bug>.admonition-title,
+      .md-typeset .bug>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .bug>.admonition-title::before,
+      .md-typeset .bug>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--bug);
+      }
+
+      .md-typeset .example>.admonition-title,
+      .md-typeset .example>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .example>.admonition-title::before,
+      .md-typeset .example>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--example);
+      }
+
+      .md-typeset .quote>.admonition-title,
+      .md-typeset .cite>.admonition-title,
+      .md-typeset .quote>summary,
+      .md-typeset .cite>summary {
+        padding: .6rem .6rem .4rem 2.2rem;
+      }
+
+      .md-typeset .quote>.admonition-title::before,
+      .md-typeset .cite>.admonition-title::before,
+      .md-typeset .quote>summary::before,
+      .md-typeset .cite>summary::before {
+        margin-top: -0.15rem;
+        background-color: transparent;
+        background-image: var(--print-md-admonition-icon--quote);
+      }
+    }
+
+    :root {
+      --print-md-footnotes-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23000000de"><path d="M19 7v4H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.42L5.83 13H21V7h-2z"/></svg>');
+    }
+
+    @media print {
+      .md-typeset .footnote-backref::before {
+        background-color: transparent;
+        background-image: var(--print-md-footnotes-icon);
+      }
+    }
+
+    :root {
+      --print-md-details-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="hsla(0, 0%, 0%, 0.87)"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>');
+    }
+
+    @media print {
+      .md-typeset summary::after {
+        background-color: transparent;
+        background-image: var(--print-md-details-icon);
+        -webkit-mask-image: none;
+        mask-image: none;
+      }
+    }
+
+    :root {
+      --print-md-tasklist-icon: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ddd"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>');
+      --print-md-tasklist-icon--checked: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%2300e676"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>');
+    }
+
+    @media print {
+      .md-typeset .task-list-control .task-list-indicator::before {
+        background-color: transparent;
+        background-image: var(--print-md-tasklist-icon);
+      }
+
+      .md-typeset .task-list-control [type=checkbox]:checked+.task-list-indicator::before {
+        background-color: transparent;
+        background-image: var(--print-md-tasklist-icon--checked);
+      }
+    }
+
+    /*# sourceMappingURL=material-polyfills.css.map*/
+  </style>
+</head>
+
+<body>
+  <html>
+
+  <head>
+  </head>
+
+  <body>
+    <h1 id="title">Het Wetboek der Idioten</h1>
+  </body>
+
+  </html>
+  <article id="doc-toc">
+    <h1>Inhoudopgave</h1>
+    <ul>
+      <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/"><span class="pdf-order">1. </span>De Idiotengrondwet van de
+          Vrijstaat</a>
+        <ul>
+          <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/:i-constitutionele-bepalingen"><span class="pdf-order">1.1
+              </span>I. Constitutionele bepalingen</a></li>
+          <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/:ii-de-scheiding-der-machten"><span class="pdf-order">1.2
+              </span>II. De Scheiding der Machten</a></li>
+          <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/:iii-basisrechten-van-idioten"><span class="pdf-order">1.3
+              </span>III. Basisrechten van Idioten</a></li>
+          <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/:iv-de-gewapende-macht"><span class="pdf-order">1.4
+              </span>IV. De Gewapende Macht</a></li>
+          <li><a href="#De-Idiotengrondwet-van-de-Vrijstaat/:v-de-vrijstaat-en-haar-idealen"><span class="pdf-order">1.5
+              </span>V. De Vrijstaat en haar idealen</a></li>
+        </ul>
+      </li>
+      <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/"><span class="pdf-order">2. </span>Archief der Idioten</a>
+        <ul>
+          <li><a href="#Archief-der-Idioten/:archief-der-idioten"><span class="pdf-order">2.1 </span>Archief der
+              Idioten</a></li>
+          <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/IJ2XEZ3FOJWGS2TLMUQHM33SMRSXE2LOM5SW4/"><span
+                class="pdf-order">2.2 </span>Burgerlijke vorderingen</a></li>
+          <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/JZXXI5LMMVXA/"><span class="pdf-order">2.3 </span>Notulen</a>
+          </li>
+          <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/"><span class="pdf-order">2.4
+              </span>Rechtspraak</a></li>
+          <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWO3DFNVSW45DFNY/"><span class="pdf-order">2.5
+              </span>Reglementen</a></li>
+          <li><a href="#IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KRXWK43QOJQWWZLO/"><span class="pdf-order">2.6
+              </span>Toespraken</a></li>
+        </ul>
+      </li>
+      <li><a href="#K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/"><span class="pdf-order">3. </span>Wetboek der Idioten</a>
+        <ul>
+          <li><a href="#Wetboek-der-Idioten/:het-wetboek-der-idioten"><span class="pdf-order">3.1 </span>Het Wetboek der
+              Idioten</a></li>
+          <li><a href="#K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/GUQEC5LHOVZXI5LTEAZDAMRV/"><span class="pdf-order">3.2 </span>5
+              Augustus 2025</a></li>
+          <li><a href="#K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/"><span class="pdf-order">3.3
+              </span>Bijzondere wetten</a></li>
+        </ul>
+      </li>
+      <li><a href="#K5SXI43WN5XXE43UMVWGYZLO/"><span class="pdf-order">4. </span>Wetsvoorstellen</a>
+        <ul>
+          <li><a href="#wetsvoorstellen/:wetsvoorstellen"><span class="pdf-order">4.1 </span>Wetsvoorstellen</a></li>
+          <li><a href="#wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/"><span class="pdf-order">4.2
+              </span>Bijzondere wet inzake artikel 51 van de grondwet</a></li>
+          <li><a href="#wetsvoorstellen/grondgebied/:wet-inzake-de-definiering-en-bestuur-van-het-grondgebied"><span
+                class="pdf-order">4.3 </span>Wet inzake de definiëring en bestuur van het Grondgebied</a></li>
+          <li><a href="#wetsvoorstellen/koprolwet/"><span class="pdf-order">4.4 </span>Koprolwet</a></li>
+          <li><a href="#wetsvoorstellen/militie-wet/"><span class="pdf-order">4.5 </span>Militie wet</a></li>
+          <li><a
+              href="#wetsvoorstellen/structuur-ministerie-van-alles/:wet-inzake-de-structuur-en-organisatie-van-het-ministerie-van-alles"><span
+                class="pdf-order">4.6 </span>Wet inzake de structuur en organisatie van het Ministerie van Alles</a>
+          </li>
+          <li><a
+              href="#wetsvoorstellen/toevoegingen-stafwetbroek/:wet-inzake-het-toevoegen-van-bijkomende-misdrijven-aan-het-stafwetbroek"><span
+                class="pdf-order">4.7 </span>Wet inzake het toevoegen van bijkomende misdrijven aan het stafwetbroek</a>
+          </li>
+          <li><a href="#K5SXI43WN5XXE43UMVWGYZLO/IJ2XEZ3FOJWGS2TLEB3WK5DCN5SWW/"><span class="pdf-order">4.8
+              </span>Burgerlijk wetboek</a></li>
+          <li><a href="#K5SXI43WN5XXE43UMVWGYZLO/IZUW4YLOMNUWKZLMEB3WK5DCN5SWW/"><span class="pdf-order">4.9
+              </span>Financieel wetboek</a></li>
+          <li><a href="#K5SXI43WN5XXE43UMVWGYZLO/KN2GCZTXMV2GE4TPMVVQ/"><span class="pdf-order">4.10
+              </span>Stafwetbroek</a></li>
+        </ul>
+      </li>
+    </ul>
+  </article>
+  <article class="md-content__inner md-typeset" data-url="/De-Idiotengrondwet-van-de-Vrijstaat/"
+    id="De-Idiotengrondwet-van-de-Vrijstaat/:">
+    <h1 id="De-Idiotengrondwet-van-de-Vrijstaat/"><span class="pdf-order">1. </span>De Idiotengrondwet van de Vrijstaat
+    </h1>
+    <h2 id="De-Idiotengrondwet-van-de-Vrijstaat/:i-constitutionele-bepalingen"><span class="pdf-order">1.1 </span>I.
+      Constitutionele bepalingen</h2>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-1">Art. 1</h4>
+    <p>Deze Grondwet van de Vrijstaat is bindend en kan niet geschonden worden. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-1bis">Art. 1bis</h4>
+    <p>Aanpassingen van de Grondwet moeten gebeuren per voorgestelde motie zoals andere wetsvoorstellen, maar moeten in
+      de Volksvergadering unaniem en voltallig worden goedgekeurd bij stemming. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-2">Art. 2</h4>
+    <p>Nieuwe wetten en moties tot nieuwe wetten moeten met ten minste een twee derde meerderheid goedgekeurd worden.
+    </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-3">Art. 3</h4>
+    <p>De landstalen van de Vrijstaat zijn Nederlands en Engels. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-4">Art. 4</h4>
+    <p>Deze Grondwet moet door alle inwoners van de Vrijstaat ten volle worden nageleefd, ten straffe van excommunicatie
+      of een andere straf bepaald bij wet. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-5">Art. 5</h4>
+    <p>De Grondwet kan noch geheel, noch ten dele worden geschorst. </p>
+    <h2 id="De-Idiotengrondwet-van-de-Vrijstaat/:ii-de-scheiding-der-machten"><span class="pdf-order">1.2 </span>II. De
+      Scheiding der Machten</h2>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-6">Art. 6</h4>
+    <p>Alle machten gaan uit van de Vrijstaat. Zij worden uitgeoefend op de bij Grondwet bepaalde wijze. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-6bis">Art. 6bis</h4>
+    <p>Enkel indien er onoverkomelijke meningsverschillen ontstaan tussen meer dan de helft van de leden onderling zal
+      de Grondwet na unanieme beslissing worden ontbonden. In geen enkel ander geval kan dit gebeuren.</p>
+    <p>De Vrijstaat der Idioten zal hiermee op houden te bestaan.</p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-7">Art. 7</h4>
+    <p>De wetgevende macht berust bij de Volksvergadering en de Andere Volksvergadering. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-8">Art. 8</h4>
+    <p>De uitvoerende macht berust bij de Eerste Minister en de Minister van Alles. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-9">Art. 9</h4>
+    <p>De rechterlijke macht wordt uitgeoefend door de Linker. </p>
+    <p>De arresten en vonnissen worden in naam des Volks uitgevoerd. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-10">Art. 10</h4>
+    <p>Men mag in geen van de volgende mandaten een bijkomend mandaat op zich nemen: </p>
+    <p><em>Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de
+        Minister van Alles, de Linker.</em></p>
+    <p>Het mandaat van Secretaris kan wel gecombineerd worden met andere mandaten. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-10bis">Art. 10bis</h4>
+    <p>Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.</p>
+    <p>Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn mandaat
+      ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.</p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-11">Art. 11</h4>
+    <p>Na een motie van wantrouwen gestemd bij normale 2/3de meerderheid door de Volksvergadering tegen een
+      mandaathouder zal een tribunaal worden opgericht bestaande uit de Linker of de Voorzitter van de Volksvergadering
+      en twee leden van de Kamers. </p>
+    <p>Dit tribunaal zal beslissen om wel of niet de betrokken mandaathouder te ontzetten uit zijn mandaat met een
+      unanieme stemming. De mandaathouder heeft hierbij recht op een verdediging door een lid van de Kamers. </p>
+    <p>Dit tribunaal moet eerlijk en juist oordelen of de reden waarom de motie van wantrouwen werd aangenomen
+      ontvankelijk is, en of deze aanzet kan geven tot het ontzetten van de mandaathouder uit zijn mandaat. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-12">Art. 12</h4>
+    <p>Mandaathouders nemen pas bezit van hun verantwoordelijkheden nadat zij, in een vergadering der verenigde kamers,
+      volgende eed plechtig hebben afgelegd in beide landstalen: </p>
+    <p><em>“Ik zweer getrouwheid aan de Vrijstaat, gehoorzaamheid aan haar Grondwet en haar wetten, en mijn functie uit
+        te oefenen in het exclusieve belang van de Natie.</em></p>
+    <p><em>I swear fealty to the Freestate, obedience to her Constitution and her laws, and to excercise my function in
+        the exclusive interest of the Nation."</em></p>
+    <h3 id="De-Idiotengrondwet-van-de-Vrijstaat/:iia-de-wetgevende-macht"><span class="pdf-order">1.2.1 </span>IIa. De
+      wetgevende macht</h3>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-13">Art. 13</h4>
+    <p>De wetgevende macht van de Vrijstaat is bij grondwet bepaald een tweekamersysteem. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-13bis">Art. 13bis</h4>
+    <p>De Volksvergadering bestaat uit een vast benoemde groep leden. Er gelden volgende bepalingen: </p>
+    <p>§1: De Volksvergadering bestaat uit: </p>
+    <ul>
+      <li>Branckaerts Jasper </li>
+      <li>De Busser Branco </li>
+      <li>Raeymaekers Jorne</li>
+      <li>Snyers Ferre </li>
+      <li>Tilmaccimen Cian </li>
+      <li>Travers Mathias </li>
+    </ul>
+    <p>§2: Bijkomende leden kunnen maar toegevoegd worden bij unanieme stemming.</p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-13ter">Art. 13ter</h4>
+    <p>De Andere Volksvergadering bestaat uit personen geassocieerd met leden van de Volksvergadering op wie de wetten
+      mogelijks impact hebben. Leden worden toegevoegd aan de Andere Volksvergadering bij verzoek van een lid van de
+      Volksvergadering en na goedkeuring van de Voorzitters van beide Kamers. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-14">Art. 14</h4>
+    <p>De bijeenkomsten van de Kamers zijn bepaald volgens de grondwet. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-15">Art. 15</h4>
+    <p>De Kamers komen van rechtswege bijeen ieder jaar, de eerste donderdag van april, behalve wanneer zij reeds
+      voordien door de Voorzitter van de Volksvergadering zijn bijeengeroepen in een buitengewone vergadering. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-16">Art. 16</h4>
+    <p>De Volksvergadering moet ieder jaar ten minste vier vergaderingen in zitting blijven en voor ten minste één
+      vergadering per kwartaal. De Andere Volksvergadering is een niet-permanent orgaan. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-17">Art. 17</h4>
+    <p>De zitting wordt door de Voorzitters gesloten. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-18">Art. 18</h4>
+    <p>Elk lid van de Kamers heeft het recht om hun Kamer in buitengewone vergadering bijeen te roepen. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-19">Art. 19</h4>
+    <p>De Voorzitters en de Eerste Minister hebben het recht om de Kamers in vergadering te verenigen. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-20">Art. 20</h4>
+    <p>Men kan niet tegelijk lid zijn van beide Kamers. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-21">Art. 21</h4>
+    <p>Bij iedere zitting benoemt elke Kamer haar Voorzitter.</p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-22">Art. 22</h4>
+    <p>Bij iedere zitting benoemt de Volksvergadering de Secretaris. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-23">Art. 23</h4>
+    <p>De stemmingen geschieden bij naamafroeping. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-24">Art. 24</h4>
+    <p>Bij stemming dienen de leden hun ongenoegen te uiten indien ze een motie willen verwerpen. Zwijgen tijdens een
+      stemming wordt aanzien als toestemming op de motie. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-25">Art. 25</h4>
+    <p>Bij moties tot wetsvoorstellen stelt de Volksvergadering commissies aan, die kunnen bestaan uit leden van beide
+      kamers. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-26">Art. 26</h4>
+    <p>Commissies werken wetsvoorstellen uit binnen een vooraf bepaalde werktijd en presenteren die voorstellen aan de
+      Andere Volksvergadering. </p>
+    <p>De Voorzitter van de Andere Volksvergadering bekijkt welke voorstellen impact hebben op leden van de Andere
+      Volksvergadering en onderhoudt een stemming met dergelijke relevante leden. </p>
+    <p>Indien goedgekeurd wordt het voorstel aan de Volksvergadering voorgesteld op de eerstvolgende vergadering volgend
+      op het einde van de werktermijn van de commissie. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-27">Art. 27</h4>
+    <p>Enkel indien een wetsvoorstel impact heeft op een lid van de Andere Volksvergadering zal deze bekeken worden in
+      deze Kamer. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-28">Art. 28</h4>
+    <p>De Volksvergadering stemt de wetten en kan indien nodig wetsvoorstellen terugsturen naar de commissies, al dan
+      niet met gevraagde aanpassingen. </p>
+    <h3 id="De-Idiotengrondwet-van-de-Vrijstaat/:iib-de-uitvoerende-macht"><span class="pdf-order">1.2.2 </span>IIb. De
+      uitvoerende macht</h3>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-29">Art. 29</h4>
+    <p>Bij iedere zitting verkiest de Volksvergadering de Eerste Minister en de Minister van Alles. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-30">Art. 30</h4>
+    <p>De ministers zijn lid van één van de Kamers. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-31">Art. 31</h4>
+    <p>De ministers zijn verantwoordelijk tegenover de Volksvergadering. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-32">Art. 32</h4>
+    <p>De Eerste Minister bekrachtigt de wetten en kondigt ze af. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-33">Art. 33</h4>
+    <p>De Minister van Alles staat in voor de uitvoering en opvolging van de wetten en nooddecreten. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-34">Art. 34</h4>
+    <p>De Eerste Minister kan in tijden van nood speciale decreten uitvaardigen. Deze zijn tien dagen geldig. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-34bis">Art. 34bis</h4>
+    <p>Nooddecreten kunnen enkel door de Kamers worden verlengd. Ofwel per normale vergadering ofwel per buitengewone
+      vergadering kan een korte motie worden voorgesteld om nooddecreten te verlengen. Deze worden per twee derde
+      meerderheid gestemd en moeten worden goedgekeurd door de Voorzitter van de Andere Volksvergadering. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-34ter">Art. 34ter</h4>
+    <p>Nooddecreten zijn geldig tot het begin van de tweede volgende zitting na hun uitroeping, waarop ze aan het begin
+      van de zitting door de Voorzitter worden vernietigd. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-34quater">Art. 34quater</h4>
+    <p>Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering bijeengeroepen worden om het
+      decreet te vernietigen bij normale 2/3de meerderheid. Deze stemming telt eveneens als een motie van wanvertrouwen,
+      die indien aangenomen leidt tot de procedure zoals beschreven in Art. 10. </p>
+    <h3 id="De-Idiotengrondwet-van-de-Vrijstaat/:iic-de-rechterlijke-macht"><span class="pdf-order">1.2.3 </span>IIc. De
+      rechterlijke macht</h3>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-35">Art. 35</h4>
+    <p>Bij iedere zitting verkiest de Volksvergadering de Linker. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-36">Art. 36</h4>
+    <p>Er is één Hof voorgezeten door de Linker. Zij behandelt alle zaken. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-37">Art. 37</h4>
+    <p>Voor elke zaak benoemt de Linker een lid van één der Kamers als de Procureur. De Secretaris treedt op als
+      Griffier. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-38">Art. 38</h4>
+    <p>Elk vonnis is met een reden omkleed. Het wordt openbaar bekendgemaakt op wijze bepaald door wet. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-39">Art. 39</h4>
+    <p>Men kan in beroep gaan tegen een vonnis. De zaak zal dan voor drie leden van de Volksvergadering verschijnen, zij
+      kunnen enkel oordelen over de grondwettelijkheid van het vonnis. </p>
+    <h2 id="De-Idiotengrondwet-van-de-Vrijstaat/:iii-basisrechten-van-idioten"><span class="pdf-order">1.3 </span>III.
+      Basisrechten van Idioten</h2>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-40">Art. 40</h4>
+    <p>Elke Idioot heeft het recht op een verdediging tijdens een rechtszaak. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-41">Art. 41</h4>
+    <p>Er is in de Vrijstaat geen onderscheid van standen. </p>
+    <p>De Idioten zijn gelijk voor de wet; zij alleen zijn tot de burgerlijke en militaire bedieningen benoembaar,
+      behoudens de uitzonderingen die voor bijzondere gevallen door een wet kunnen worden gesteld. </p>
+    <p>De gelijkheid van vrouwen en mannen is gewaarborgd. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-42">Art. 42</h4>
+    <p>Het genot van de rechten en vrijheden aan de Idioten toegekend moet zonder discriminatie verzekerd worden. Te
+      dien einde waarborgen de wet en het decreet inzonderheid de rechten en vrijheden van de ideologische en
+      filosofische minderheden. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-43">Art. 43</h4>
+    <p>De vrijheid van de persoon is gewaarborgd. </p>
+    <p>Niemand kan worden vervolgd dan in de gevallen die de wet bepaalt en in de vorm die zij voorschrijft. </p>
+    <p>Behalve bij ontdekking op heterdaad kan niemand worden aangehouden dan krachtens een met redenen omkleed bevel
+      van de Linker dat uiterlijk binnen achtenveertig uren te rekenen van de vrijheidsberoving moet worden betekend en
+      enkel tot voorlopige inhechtenisneming kan strekken. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-44">Art. 44</h4>
+    <p>Geen straf kan worden ingevoerd of toegepast dan krachtens de wet. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-45">Art. 45</h4>
+    <p>De Idioten hebben het recht vreedzaam en ongewapend te vergaderen, mits zij zich gedragen naar de wetten, die het
+      uitoefenen van dit recht kunnen regelen zonder het echter aan een voorafgaand verlof te onderwerpen. </p>
+    <p>Deze bepaling is niet van toepassing op bijeenkomsten in de open lucht, die ten volle aan de politiewetten
+      onderworpen blijven. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-46">Art. 46</h4>
+    <p>De Idioten hebben het recht van vereniging; dit recht kan niet aan enige preventieve maatregel worden
+      onderworpen. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-47">Art. 47</h4>
+    <p>Noch belastingen, noch taksen zullen geheven worden op de Idioten. </p>
+    <h2 id="De-Idiotengrondwet-van-de-Vrijstaat/:iv-de-gewapende-macht"><span class="pdf-order">1.4 </span>IV. De
+      Gewapende Macht</h2>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-48">Art. 48</h4>
+    <p>Het Staande Leger van de Vrijstaat zal bestaan uit de leden van het beroeps- en reservekader van de Belgische
+      Defensie. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-49">Art. 49</h4>
+    <p>De Militie van de Vrijstaat zal bestaan uit alle weerbare leden van de Natie. </p>
+    <p>Zij zullen zichzelf bewapenen en in hun onderhoud kunnen voorzien voor ten minste twee dagen indien zij worden
+      opgeroepen om de Natie te dienen. </p>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-50">Art. 50</h4>
+    <p>De Militie kan maar onder wapens geroepen worden in tijden van oorlog of via een motie goedgekeurd door de
+      Volksvergadering. </p>
+    <h2 id="De-Idiotengrondwet-van-de-Vrijstaat/:v-de-vrijstaat-en-haar-idealen"><span class="pdf-order">1.5 </span>V.
+      De Vrijstaat en haar idealen</h2>
+    <h4 id="De-Idiotengrondwet-van-de-Vrijstaat/:art-51">Art. 51</h4>
+    <p>Een commissie propaganda zal worden opgericht om de artikelen onder deze titel te bepalen. De commissie zal een
+      voorstel doen van een aantal artikelen die onder andere beschrijven welke kleuren onze Natie kiest, wat het
+      Rijkswapen is en wat de kenspreuk en het volkslied van de Natie is. </p>
+    <p>Dit voorstel moet ingediend worden bij de Voorzitter van de Volksvergadering ten minste twee weken voor de
+      vergadering volgend op de afkondiging van deze grondwet. </p>
+    <p>Het voorstel moet worden goedgekeurd zoals eerder beschreven in artikel 1bis waarna dit artikel automatisch wordt
+      geschrapt. </p>
+  </article>
+  <article class="md-content__inner md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/"
+    id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/:">
+    <h1 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/"><span class="pdf-order">2. </span>Archief der Idioten</h1>
+    <section class="md-typeset" data-url="/Archief-der-Idioten/" id="Archief-der-Idioten/:">
+      <h2 id="Archief-der-Idioten/:archief-der-idioten"><span class="pdf-order">2.1 </span>Archief der Idioten</h2>
+      <p>Hier vinden jullie alle documenten zoals notulen, reglementen en vonissen.</p>
+    </section>
+    <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/IJ2XEZ3FOJWGS2TLMUQHM33SMRSXE2LOM5SW4/"
+      id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/IJ2XEZ3FOJWGS2TLMUQHM33SMRSXE2LOM5SW4/:">
+      <h2 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/IJ2XEZ3FOJWGS2TLMUQHM33SMRSXE2LOM5SW4/"><span class="pdf-order">2.2
+        </span>Burgerlijke vorderingen</h2>
+      <section class="md-typeset" data-url="/Archief-der-Idioten/burgerlijke-vorderingen/Jokari-vs-de-Natie/"
+        id="Archief-der-Idioten/burgerlijke-vorderingen/Jokari-vs-de-Natie/:">
+        <h3 id="Archief-der-Idioten/burgerlijke-vorderingen/Jokari-vs-de-Natie/"><span class="pdf-order">2.2.1
+          </span>Jokari vs de Natie</h3>
+        <p>Op den 4de September in het jaar des Herens 2025 klaagt:</p>
+        <p><em>Jorne Raeymaekers</em> woonachtig te <em>Xantenstraat 9, 2440 Geel</em>,</p>
+        <p><em>De Regering en Ferre Snyers</em> woonachtig te <em>Gestelstraat 21, 2250 Olen</em> aan voor:</p>
+        <p><strong>Het onwettig aanmaken van een strafblad</strong></p>
+        <p>De Regering en specifiek de Minister van Alles, Ferre Snyers, heeft een strafblad aangelegd voor Buriku de
+          Voorzitter Jokari terwijl dit volgens onze mening volledig onwettig is.</p>
+        <p>Ondergetekend
+          Jorne Raeymaekers</p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/JZXXI5LMMVXA/"
+      id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/JZXXI5LMMVXA/:">
+      <h2 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/JZXXI5LMMVXA/"><span class="pdf-order">2.3 </span>Notulen</h2>
+      <section class="md-typeset" data-url="/Archief-der-Idioten/notulen/05-08-2025/"
+        id="Archief-der-Idioten/notulen/05-08-2025/:">
+        <h3 id="Archief-der-Idioten/notulen/05-08-2025/:den-volksvergadering-van-den-5de-augustus-2025"><span
+            class="pdf-order">2.3.1 </span>Den Volksvergadering van den 5de Augustus 2025</h3>
+        <p>In aanwezigheid van de Buriku</p>
+        <ul>
+          <li>De Voorzitter Jokari</li>
+          <li>Eerste Minister Cianci Baklava Feta</li>
+          <li>Secretaris Corrupte Minister van Alles Snetjes</li>
+          <li>De Linker Luigi Mussolini</li>
+          <li>Pontifex Maximus Abu Bakr al-Baghdadi</li>
+          <li>Buriku Boereke Travers</li>
+        </ul>
+        <p>De Eerste Minister heeft de beleidsverklaring van de regering voorgelezen.</p>
+        <p>Daarnaast heeft de Volksvergadering beslist dat:</p>
+        <ol>
+          <li>de wet inzake Mathias zenne kleine is goedgekeurd</li>
+          <li>de wet inzake de benoeming van een herverkozen voorzitter is goedgekeurd</li>
+          <li>Artikelen 53 en 56 van de wet inzake artikel 51 zijn goedgekeurd. De artikelen 52 en 53 zijn afgekeurd.
+            Artikel 51 zal veranderd worden om enkel van toepassing te zijn bij fysieke Volksvergaderingen. Artikel 55
+            zal veranderd worden zodat het uniform zal bestaan uit ten minste een Hawaii hemd. Voor artikel 54 zal een
+            ander volkslied gezocht worden.</li>
+          <li>de bijzondere wet met betrekking tot de ontbinding van de Grondwet is goedgekeurd.</li>
+          <li>de bijzondere wet met betrekking tot de pensioenleeftijd is goedgekeurd.</li>
+          <li>de wet inzake de voorkeuren van het regelen van nieuwe D&amp;D sessies is goedgekeurd en werd doorverwezen
+            naar de Andere Volksvergadering, deze heeft haar vetorecht niet gebruikt.</li>
+          <li>Artikelen 1,2,6 en 7 van de wet inzake de structuur van het Ministerie van Alles zijn goedgekeurd. Artikel
+            3 wordt aangepast zodat een benoeming maar geldt tot het einde van de huidige parlementaire zitting. Artikel
+            4 wordt aangepast zodat een ambtenaar ten hoogste tot het einde van de huidige parletmentaire zitting kan
+            aangesteld worden. Artikel 5 zal verduidelijkt worden zodat de Minister van Alles enkel aangestelde
+            Substituten en ambtenaren kan ontslaan. Artikel 8 wordt aangepast zodat er geen departement justitie is maar
+            wel een departement corruptie en anticorruptie.</li>
+          <li>de wet inzake de Vertaler van de Vrijstaat is goedgekeurd.</li>
+          <li>Artikelen 2, 4, 5 van boek I van het Burgerlijk Wetboek (BuWe), art. 4 II BuWe, art. 2 III BuWe en art. 2
+            IV BuWe zijn goedgekeurd. Artikel 1 I BuWe wordt verduidelijkt dat de wet enkel van toepassing is vanaf ze
+            is gepubliceerd. Artikel 3 I BuWe zal verduidelijkt worden naar enkel onwettige afwezigheden. Art. 1 II BuWe
+            zal de nationaliteit geven vanaf de geboort. Art. 2 II BuWe zal de nationaliteit geven vanaf de adoptie
+            onafhankelijk van de leeftijd. Aan art. 3 II BuWe zullen ook medische en fysieke testen worden toegevoegd
+            alsook het kunnen voorleggen van een negatieve HIV test. Art. 1 III BuWe zal de pensioenleeftijd vastleggen
+            op 60 jaar, 2 maanden en 1 dag. Art. 2 IV BuWe: precedenten zijn pas van toepassing op toekomstige zaken na
+            goedkeuring door de Volksvergadering. Artikelen 3 en 4 IV BuWe zijn geschrapt, in plaats hiervan kan het
+            Departement van Cultuur, Onderwijs en Activiteiten tradities voordragen. De afkorting voor Burgerlijk
+            Wetboek zal BuWe zijn.</li>
+          <li>Art. 1 t.e.m. 6 en 8 t.e.m. 12 van boek I van het Strafwetboek (Sw.) zijn goedgekeurd. Art. 7 I Sw: Er zal
+            pas gratie verleend worden bij een unanieme meerderheid. Het strafwetboek zal vanaf titel Ib. verder
+            behandeld worden in de volgende vergadering.</li>
+          <li>Volgende moties worden naar de commisies gestuurd, leden kunnen zich kandidaat stellen om in de comissies
+            te zetelen:<ul>
+              <li>Het vastleggen van het grondgebied</li>
+              <li>Een Grondwetswijziging zodat iedereen zijn ontslag kan indienen voor een functie. Indien dit om een
+                grondwettelijke functie gaat moet er een spoedvergadering gehouden worden om de functie terug in te
+                vullen.</li>
+              <li>Het vastleggen dat wanneer een Idioot een liefdesrelatie start, deze Idioot moet trakteren alsook
+                getrakteerd moet worden indien die relatie ten einde loopt.</li>
+            </ul>
+          </li>
+        </ol>
+        <p>De wetten die in zijn volledigheid zijn goedgekeurd worden gepubliceerd in naam van de Eerste Minister en
+          verzegeld met 's Lands zegel (van zodra deze beschikbaar is, het bestek hiervoor zal nog worden opgemaakt).
+        </p>
+        <p>Den volgende vergadering zal den <em>12de Augustus</em> plaatsvinden.</p>
+      </section>
+      <section class="md-typeset" data-url="/Archief-der-Idioten/notulen/12-08-2025/"
+        id="Archief-der-Idioten/notulen/12-08-2025/:">
+        <h3 id="Archief-der-Idioten/notulen/12-08-2025/:den-volksvergadering-van-den-12de-augustus-2025"><span
+            class="pdf-order">2.3.2 </span>Den Volksvergadering van den 12de Augustus 2025</h3>
+        <p>In aanwezigheid van de Buriku</p>
+        <ul>
+          <li>De Voorzitter Jokari</li>
+          <li>Secretaris Corrupte Minister van Alles Snetjes</li>
+          <li>De Linker Luigi Mussolini</li>
+          <li>Pontifex Maximus Abu Bakr al-Baghdadi</li>
+          <li>Buriku Boereke Travers</li>
+        </ul>
+        <p>Met als te laat zijnden</p>
+        <ul>
+          <li>Buriku de Eerste Minister Cianci Baklava Feta</li>
+        </ul>
+        <p>De Eerste Minister heeft zijn toespraak gegeven</p>
+        <p>Daarnaast heeft de Volksvergadering beslist dat:</p>
+        <ol>
+          <li>Artikelen 14, 15, 16, 19, 22 van boek I. van het Strafwetboek (Nggr), 2 II. Nggr, 1 III Nggr, 1 IV. Nggr,
+            1 - 5, 12, 13, 14, 16 V. Nggr. zijn goedgekeurd. Worden geschrapt: art. 17 I. Nggr., 2 III. Nggr., 3 IV
+            Nggr., 6 - 10 V. Nggr.
+            Art. 5 II. Nggr., 4 III. Nggr., 2 IV. Nggr. zullen worden herscheven in het algemeen om duidelijker te zijn.
+            Art. 13 I. Nggr. zal aangepast worden zodat er noteren ipv innen staat.
+            Art. 18 I. Nggr. zal aangepast worden zodat het maximum voor een oepsie poepsie 10 Eurodeals is, voor een da
+            was nie zo goe 20 Eurodeals is en voor een fuck it lets ball 50 Eurodeals is.
+            Art. 20 en 27 I. Nggr. zal aangepast worden zodat enkel nog contact met potlood en papier mogelijk is.
+            Het maximum in art. 21 I. Nggr. zal 5 uur worden.
+            Het minimum en maximum in art 23 I. Nggr. zal respectievelijk 1 dag en 30 dagen worden.
+            Het minimum en maximum in art 24 I. Nggr. zal respectievelijk 5 uur en 10 uur worden.
+            Art. 25 I. Nggr. zal worden aangepast zodat het karakter niet in een bedrock wordt opgesloten en dit
+            maximaal voor 6 weken.
+            Art. 26 I. Nggr. zal worden aangepast zodat de terbeschikkingstelling maximaal 20 uur zal zijn.
+            Art. 28 I. Nggr. zal worden aangepast zodat veroordeelde trakteert op een taart ter zijn begrafenis.
+            Aan art. 1 II. Nggr. zal worden toegevoegd dat voor een fuck it lets ball een Volksjury bijeen geroepen zal
+            worden die moet stemmen of een fuck it lets ball berecht wordt of niet. Voor stemmen zijn Hihihi of Hahaha.
+            Tegenstemmen zijn Grrr.
+            Sectie 3 van art. 3 II. Nggr wordt geschrapt.
+            Art. 4 II. Nggr. zal worden aangepast zodat sectie 1 als maximum straf een geldboete zal hebben, sectie 3
+            wordt geschrapt.
+            Art. 3 III. Nggr. zal ook van toepassing zijn in games.
+            Art. 1 IV. Nggr. wordt in lijn gebracht met de rest van de tekst.
+            Art. 15 V. Nggr. wordt herschreven zodat het dossier ten minste 1 dag op voorhand moet overhandigd worden.
+            Art. 17 V. Nggr. wordt herschreven zodat voor een overtreding de Linker zonder hoorzitting een straf kan
+            uitspreken (à la gas boete).
+            Art. 18 V. Nggr punt 1 wordt verduidelijkt wanneer wie het tribunaal voorzit.
+            Art. 19 V. Nggr wordt herschreven zodat de beschuldigde enkel schuld bekent bij zijn verlies, dat bij
+            verlies van de beschuldigde de uitgesproken straf wordt verdubbeld, bij een overwinning van de beschuldigde
+            wordt vrijgesproken, dat een Idioot maximaal 1 keer per maand een gerechtelijke tweegevecht kan aanvragen en
+            dat er een lijst zal worden opgesteld waaruit een willekeurige omstandigheid zal worden gekozen.</li>
+          <li>Misdaden worden hernoemd naar Fuck it lets balls.</li>
+          <li>Wanbedrijven worden hernoemd naar Da was toch nie zo goes</li>
+          <li>Overtredingen worden hernoemd naar Oepsie poepsies</li>
+          <li>De volledige naam van het strafwetboek is vanaf nu stafwetbroek, de afkorting ervan zal Nggr. zijn</li>
+        </ol>
+        <p>Den volgende vergadering zal beslist worden door middel van een poll in de instant messaging kanalen van het
+          land.</p>
+      </section>
+      <section class="md-typeset" data-url="/Archief-der-Idioten/notulen/29-05-2025/"
+        id="Archief-der-Idioten/notulen/29-05-2025/:">
+        <h3 id="Archief-der-Idioten/notulen/29-05-2025/:den-volksvergadering-van-den-29ste-mei-2025"><span
+            class="pdf-order">2.3.3 </span>Den Volksvergadering van den 29ste Mei 2025</h3>
+        <p>In aanwezigheid van de Buriku</p>
+        <ul>
+          <li>De Voorzitter Jokari</li>
+          <li>Eerste Minister Cianci Baklava Feta</li>
+          <li>Secretaris Corrupte Minister van Alles Snetjes</li>
+          <li>De Linker Luigi Mussolini</li>
+          <li>Pontifex Maximus Abu Bakr al-Baghdadi</li>
+        </ul>
+        <p>Met als afwezigen:</p>
+        <ul>
+          <li>Buriku Boereke Travers</li>
+        </ul>
+        <p>Heeft beslist dat:</p>
+        <ol>
+          <li>De Grondwet wordt afgekondigd. </li>
+          <li>Het reglement van de Volksvergadering wordt goedgekeurd. </li>
+          <li>Een commisie propaganda wordt opgericht met als leden De Voorzitter Jokari, Secretaris Corrupte Minister
+            van Alles Snetjes, De Linker Luigi Mussolini, Pontifex Maximus Abu Bakr al-Baghdadi.
+            Volgende voorstellen zijn gegeven: de offieciële handtekening een voetafdruk is, het volkslied van Hatsune
+            Miku moet zijn en dat bij een fysieke groet de linkerhand op even en de rechterhad op oneven dagen gebruikt
+            moeten worden. De Linker groet altijd met zijn linker hand.</li>
+        </ol>
+        <p>Den volgende vergadering zal beslist worden door middel van een poll in de instant messaging kanalen van het
+          land.</p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/"
+      id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/:">
+      <h2 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/"><span class="pdf-order">2.4 </span>Rechtspraak</h2>
+      <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/IJ2XEZ3FOJWGS2TL/"
+        id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/IJ2XEZ3FOJWGS2TL/:">
+        <h3 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWG2DUONYHEYLBNM/IJ2XEZ3FOJWGS2TL/"><span class="pdf-order">2.4.1
+          </span>Burgerlijk</h3>
+        <section class="md-typeset" data-url="/Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/"
+          id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/:">
+          <h4 id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/">Jokari vs De Regering</h4>
+          <h5 id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/:aanwezigen">Aanwezigen</h5>
+          <ol>
+            <li>De Linker: Buriku de Linker Luigi Mussolini</li>
+            <li>De Procureur: Buriku de Secretaris de Corrupte Minister van Alles de heer Snetjes</li>
+            <li>
+              <p>Voor de eisende partij:</p>
+              <ul>
+                <li>Buriku de Voorzitter Jokari</li>
+                <li>Buriku de Pontifex Maximus Abu Bakr al Baghdadi, raadsman van de eisende partij, Mario</li>
+              </ul>
+            </li>
+            <li>
+              <p>Voor de verwerende partij:</p>
+              <ul>
+                <li>Buriku de Secretaris de Corrupte Minister van Alles de heer Snetjes, raadsman van de verwerende
+                  partij, Luigi</li>
+              </ul>
+            </li>
+          </ol>
+          <h5 id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/:lijst-van-getuigen">Lijst van
+            getuigen</h5>
+          <ol>
+            <li>Buriku Boereke Travers</li>
+            <li>Buriku de Voorzitter Jokari</li>
+            <li>Buriku de Pontifex Maximus Abu Bakr al Baghdadi</li>
+          </ol>
+          <h5 id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/:vonnis">Vonnis</h5>
+          <p>Geen, overeenkomst door schikking.</p>
+          <p>Het strafblad van de eisende partij is vernietigd en de straf kwijtgescholden.</p>
+          <h5 id="Archief-der-Idioten/rechtspraak/burgerlijk/Jokari-vs-De-Regering/:transcript-van-de-hoorzitting">
+            Transcript van de hoorzitting:</h5>
+          <p>Mario: [00:00:37] Waar is een opname nodig?</p>
+          <p>Opperheer: [00:00:38] Omdat de Ferre notities moet pakken, maar die kan er geen notities pakken. En ik heb
+            geen goesting om notities te nemen. Dat is het eigenlijk gewoon zo. Oké, dan begin ik bij deze. Ik open de
+            zitting. Waarbij Buriku, de Voorzitter Jokari, Buriko de Corrupte Secretaris de heer, de Eerste Minister,
+            sorry Minister van Alles, de heer Snetjes, heeft aangeklaagd. En daarbij ook de regering heeft aangeklaagd
+            omwille van... Ehm... Het onwettig verkrijgen, het onwettig... Ja, eigenlijk het teruglopende, hoe moet ik
+            dat zeggen, teruglopende wetgeving die wordt aangepast ook.</p>
+          <p>Luigi: [00:01:22] Nee, dat het een onwettig strafblad heeft. We zijn eigenlijk meer een beetje de originele
+            straf aan het aanvechten</p>
+          <p>Mario: [00:01:29] in plaats van aan het aanklagen. Ja.</p>
+          <p>Opperheer: [00:01:32] Het gaat vooral over het strafblad dat er achteraf van is toegevoegd om dat dan nog
+            teruglopend niet toe te passen. Daar komt het op neer. Oké, goed. We gaan beginnen met, ik wil van beide
+            kanten drie woorden horen die rijmen en de mooiste drie woorden die mogen beginnen met spreken.</p>
+          <p>Luigi: [00:01:53] Ik geef de eer aan Mario.</p>
+          <p>Opperheer: [00:01:57] Ah ja, Branco, je waart hier nog niet. Ehm, jij moet de Ferre met Luigi aanspreken.
+            En de Ferre moet u met Mario aanspreken.</p>
+          <p>Mario: [00:02:03] Waarom?</p>
+          <p>Opperheer: [00:02:05] Omdat dat mijn precedent is en ik zeg dat als Linker. Oké. Eén van de twee begint.
+            Drie woorden die rijmen. Niemand.</p>
+          <p>Luigi: [00:02:25] Smeer, beer en heer.</p>
+          <p>Opperheer: [00:02:28] Smeer, beer en heer. Aan de kant van de aanklager.</p>
+          <p>Mario: [00:02:35] Laten we maar beginnen. Oké.</p>
+          <p>Opperheer: [00:02:41] Wordt opgenomen in de rest van de zaak.</p>
+          <p>Mario: [00:02:44] Blauwpauw, wauw.</p>
+          <p>Opperheer: [00:02:46] Blauwpauw, wauw. Ik ben meer fan van de blauwpauw. Dus je mag beginnen. De kant van
+            de aanklager mag beginnen en mag eerst even de klacht voorlezen. De klacht voorlezen.</p>
+          <p>Mario: [00:02:56] Dus wij gaan in de bezwaar dat mijn cliënt hier een straf heeft gekregen en zogezegd een
+            wet heeft overtreden die dus niet bestaat. Of niet bestond op het moment van het zogezegde probleem.</p>
+          <p>Opperheer: [00:03:14] Ja, oké. De verdediging heeft daar kort als samenvatting. Welke repliek op voor we de
+            zaak beginnen?</p>
+          <p>Luigi: [00:03:22] Eh, opgeheer. Eh, de regering heeft volledig gehandeld zoals bij wet is vastgelegd. Voor
+            het feit dat wij het toen wisten. Ah, trouwens ja. Ik wou er in het goud uitzien, sorry. En we zullen dan
+            ook bewijzen dat Broeko de voorzitter Jockery wel degelijk, zoals beschreven onder het stafwetbroek, eens is
+            gestraft geweest tegen een straf die dan ook nog wettelijk is.</p>
+          <p>Opperheer: [00:03:56] Matthias, wat ben je aan het doen achter die rond?</p>
+          <p>Mathias: [00:03:58] Beter zicht krijgen.</p>
+          <p>Mario: [00:04:01] Dat is de plek van de jury.</p>
+          <p>Opperheer: [00:04:02] Ik wou niet zeggen, dat is het volksjury. Je moet de banken achteraan zitten, hoor.
+          </p>
+          <p>Jokari: [00:04:05] Ik had echt opeens een neiging om te roepen, haal die hand uit je broek.</p>
+          <p>Opperheer: [00:04:10] Oké, we moeten dus nog een procureur aanstellen. In dit geval valt dat samen te ver.
+            Het gaat gewoon over kleine details, maar bij deze is het uitgesproken geweest. De aanklagende partij mag
+            beginnen met de klacht volledig voor te leggen. Daarna mag de verdediging de klacht volledig voorleggen. Dan
+            wordt er voor allebei de partijen eerst de aanklagers aan de verdediging getuigen opgeroepen. En dan
+            eindigen we nog eens met een korte samenvatting. En dan spreek ik mijn straf uit. Dus eerst de aanklagers,
+            uw argument.</p>
+          <p>Mario: [00:04:43] Aangezien wij een verdediging zijn, als in wij gaan in tegen zijn, zullen je niet de
+            aanklagers?</p>
+          <p>Luigi: [00:04:48] Nee, jij bent de aanklagers. //Opperheer: Want jij hebt wel effectief een klacht
+            ingediend.</p>
+          <p>Mario: [00:04:55] Oké, dus bij deze, volgens de regering, of beter gezegd door de wetgevende, de
+            wetuitvoerende macht, de heer Snetjes, zou mijn cliënt een ongewettigd afwezig zijn geweest. Hoewel dat er
+            op dat moment nog geen wet aanwezig was. Die zou straffen voor een onwettige aanwezigheid. Toch is deze
+            straf uitgedeeld. Wat ingaat tegen de scheiding van de machten, waar de uitgevende macht ook in ene gegeven
+            werd. //Luigi: Bezwaar?// Nee.</p>
+          <p>Luigi: [00:05:36] Dat hebben wij nooit gedaan.</p>
+          <p>Opperheer: [00:05:39] Oké, als er maximaal bezwaar wordt ingediend, dan wordt er rekening mee gehouden voor
+            de rest van deze zitting.</p>
+          <p>Mario: Zo, zeg dan. Bezwaar? Nuh-uh.</p>
+          <p>Opperheer: Als er maximaal bezwaar komt, dan is de zaak bij deze gesloten.</p>
+          <p>Luigi: [00:05:50] Mijn excuses op me, ik trek dat bezwaar in, maar wel bezwaar. Ehm, dus wij zijn, we
+            hebben nooit opgetreden als wetgevende macht, aangezien dat wij daar volgens de grondwet ook geen recht toe
+            hebben. Ik denk het.</p>
+          <p>Opperheer: [00:06:04] Oké, voor deze keer toegelaten, gaat u verder aanklacht.</p>
+          <p>Mario: [00:06:08] Ehm, dus, ehm, als... Wacht, even mijn document lezen, want ik heb hier 8 pagina's aan,
+            shit. Ehm, wij verzoeken de rechtbank om de vervolging niet ontsvankelijk te verklaren en mijn cliënt dus
+            integraal vrij te spreken. De schrapping van alle vermeldingen in de strafregister te bevelen. De kosten ten
+            laste van de staat te leggen. En, eh, mijn cliënt een symbolische schadevergoeding toe te kennen van 2
+            euro-deals.</p>
+          <p>Opperheer: [00:06:40] Hm-hm. Ik ga dat heel even opschrijven. Dus, kwijtschelding, eh, vergoeding, van
+            hoeveel?</p>
+          <p>Mario: [00:06:51] 2 euro-deals.</p>
+          <p>Opperheer: [00:06:55] En dan ook nog, verschuiving, eh, belasting naar de regering. Oké. Het staat bij deze
+            in de boek.</p>
+          <p>Luigi: [00:07:16] Ehm, opperheer, als ik even een vraagje mag stellen. Kan dat zijn dat die boeken die u in
+            de lectoren hebt gestoken geen boek en quils zijn?</p>
+          <p>Opperheer: [00:07:25] Jawel, je moet die er maar uitnemen.</p>
+          <p>Luigi: [00:07:26] Ah, oké. Mijn excuses.</p>
+          <p>Opperheer: [00:07:29] Je kunt er alleen in lezen in uw lectoren. Oké.</p>
+          <p>Opperheer: [00:07:34] Ehm, goed. Heeft de aanklagende partij verder nog iets te zeggen?</p>
+          <p>Mario: [00:07:39] Op dit moment niet, nee.</p>
+          <p>Opperheer: [00:07:40] Oké. Dan gaan we verder naar de opening speech van de verderging. Zijnde de staat, in
+            vorm van aangeklaagde specifiek, de minister van alles, de heer Snetjes.</p>
+          <p>Luigi: [00:07:53] Opperheer, eh, welheerwaarde Mario. Ter voorbereiding van deze zitting heeft de regering,
+            zoals gebruikelijk is, een extra onderzoek uitgevoerd naar de aard en ontvankelijkheid van deze vordering.
+            En, zoals ik kan bewijzen, met de bewijsstukken die we zelf allemaal hebben verkregen, eh, een twintigtal
+            minuten geleden, ondertussen al een veertigtal minuten geleden, bijna een uur zelfs, meer dan een uur zelfs.
+          </p>
+          <p>Mario: [00:08:27] Bezwaar, ik vind dat dat niet lang genoeg tijd heeft gegeven om ons als verdediging, eh,
+            of aanvangings als tegenpartij een eerlijke keuze te geven om ons zo te bereiden op deze bewijslasten.
+            Twintig minuten is veel te kort.</p>
+          <p>Luigi: [00:08:38] Eh, ik kijk in het register, in het chatregister, ze zijn doorgestuurd om 19 uur 19, dus
+            meer dan een uur geleden.</p>
+          <p>Mario: [00:08:53] Minder dan een uur voor het officiële start.</p>
+          <p>Opperheer: [00:08:57] Ik ga wel net zeggen ook dat er in de ochtend nog een herinnering is geweest om alle
+            bewijsmateriaal door te sturen, dat ik het daarom helaas niet kan toestaan. Als het nu niet meer had
+            geweest, had het nog wel gegaan, maar, ja, inderdaad, ik ben het er ook niet eens met de aanklagende partij.
+          </p>
+          <p>Luigi: [00:09:15] In dat geval zal ik volledig op getuig bewijzen dat wel degelijk de, eh, dat de
+            ondertussen veroordeelde en de aanklagende partij, de eisende partij, wel degelijk zich ervan bewust was dat
+            er een strafbaar feit is begaan geweest. En dit dan ook zelf heeft aangekaart en hierna ook gestraft is
+            geweest volgens de wetten van onze vrijstaat. Hm, oké, is dat het, zeg maar. Ik weet niet wie dat er mag
+            beginnen met de getuigen. Ik ga ook de eisende partij.</p>
+          <p>Mario: [00:09:51] Mag ik, mag ik, mag ik, mag ik nog een vraag stellen?</p>
+          <p>Luigi: [00:09:55] Ja. //Oppperheer: Korte vragen worden toegevoegd, ja.</p>
+          <p>Mario: [00:09:57] Welke wet heeft mijn cliënt zogezegd overtreden?</p>
+          <p>Luigi: [00:10:00] Artikel 2, boek 4 van straf, van stafwetbroek.</p>
+          <p>Mario: [00:10:04] Is het dat strafwetbroek dat deze daar straks nog stond op, eh, inwerking en is nu net
+            aangepast om officieel te zijn, meneer Snetjes?</p>
+          <p>Luigi: [00:10:14] Bij de volksvergadering van...</p>
+          <p>Mario: [00:10:19] Als u, ik weet niet of u straks zelf nog het wetboek heeft gegeven, maar dat straks stond
+            het hele strafwetboek nog onder de nog toe te voegen artikelen zijn nog in behandeling. En meneer Snetjes
+            heeft vlak voor deze zitting dit overgezet naar een actieve dinges.</p>
+          <p>Luigi: [00:10:36] Mario, als ik even mijn zin mee ga afmaken.</p>
+          <p>Mario: [00:10:39] Meneer, u mag mij even niet onderbreken.</p>
+          <p>Luigi: [00:10:42] Eh, Opperheer, ik zou graag eerst mijn pleidooi afmaken voor alleen dat mijn...</p>
+          <p>Opperheer: [00:10:47] We gaan heel eventjes op een rechtszaal vragen. Ik begrijp wat er gezegd is vanuit de
+            aanklagende partij. Dat gezegd hebbende heb ik wel het strafwetboek en heel de wetboek nog doorgelezen en ik
+            moet wel zeggen dat... ...van het strafwetboek, boek 4, overtredingen, artikel 2, dat dat nog steeds intact
+            is als geschreven toen het op de laatste voorzitting is gestemd. Dus hoewel het inderdaad een probleem was
+            dat er technische problemen waren voor het consulteren van het wetboek... ...is dat niet tijdens de hele
+            week geweest, tijdens de hele voorbereiding van de zaak en ook niet relevant voor de huidige aanklacht.
+            Dus...</p>
+          <p>Luigi: [00:11:25] Ik dank u. Dus volgens artikel 2, boek 4, van het strafwetboek, waarbij wordt bepaald dat
+            er een overtreding, dat ze te laat zijn of niet afgewezig zijn... ...en dan ook gestraft is geweest volgens
+            artikel 1, boek 1, van hetzelfde strafwetboek, artikel 18, sorry, artikel 18... ...de geldboete is zij dan
+            ook volgens de overtreding, oepsie poepsie, straf, geldboete, gestraft geweest. Dat was mijn plehooi.</p>
+          <p>Opperheer: [00:12:09] Oké. In dat geval gaan we verder naar het oproep van het getuigen. En we beginnen bij
+            de aanklagende partij. Moet ik, ehm...</p>
+          <p>Mario: [00:12:20] Moet ik nu eerst zelf speechen met, eh, dingen, of moet ik direct gewoon getuigen
+            oproepen voor... ...random eisje, dat er nog...</p>
+          <p>Opperheer: [00:12:27] Dus wat er nu komt, is eigenlijk gewoon alle getuigen die willen worden opgeroept,
+            mogen worden opgeroepen. Tot dat iedereen zegt, ik wil nu stoppen. Dus jij mag beginnen.</p>
+          <p>Mario: [00:12:37] Maar mijn getuige ...maar mijn getuige ...mijn getuige, ehm... ...is nog bij een
+            zijzaak... ...van toepassing... ...van mijn bewijs, waarbij... ...de heer corruptes netjes, mijn cliënt,
+            heeft aangevallen.</p>
+          <p>Luigi: [00:12:52] Voor zover ik weet, is dat nog altijd niet strafbaar volgens het Stafwetbroek.</p>
+          <p>Opperheer: [00:12:59] Oké, de ma bon, je kunt nu die aan oproepen, en je kunt je sebiet nog blijven
+            oproepen... ...tot dat ik aan je allebei... ...dan lop ik mijn getuige... ...de heer... ...eh...
+            ...boeriko... ...eh... ...travers... ...op. Oké. Buriku Boereke Travers, je mag je hier in de getuigestoel
+            zetten.</p>
+          <p>Luigi: [00:13:14] Ik ga mij even nu optreden als griffier... ...en de eet afnemen. Uhm... Ja, dat is niet
+            groot, je moet even in te gaan zetten. Dat is te smal. Dat is te smal.</p>
+          <p>Opperheer: [00:13:30] En dan zit je op die een blok, even gewoon, dat iedereen niet kan zien. Yes.</p>
+          <p>Luigi: [00:13:35] Ehm... Zeg mij na, ik zweer zonder vrees nog haat de waarheid, en niks anders dan de
+            volledige waarheid te vertellen, zo helpe mijn god. //Travers: Ik zweer de waarheid te vertellen. // Dat is
+            niet volledig een eet.</p>
+          <p>Opperheer: [00:13:48] Dat is goed genoeg voor vandaag, vanaf ik heb. Dat moet nog zeggen. We zullen de
+            volgende keer beter voorbereid zijn, we weten nu weer meer. Goed. Aangelagende partij mag beginnen met het
+            verhoor van de getuige, daarna mag de verdedigende partij verder gaan.</p>
+          <p>Mario: [00:15:07] Excuseer, meneer Travers. Ehm...</p>
+          <p>S02: [00:15:31] Ehm... Ehm... Ehm... Ehm...</p>
+          <p>Opperheer: [00:16:20] Ehm... Ehm... Ehm...</p>
+          <p>S02: [00:16:54] Ehm...</p>
+          <p>Mario: [00:17:07] Ehm...</p>
+          <p>S02: [00:17:33] Ehm...</p>
+          <p>Mario: [00:17:39] Ehm...</p>
+          <p>Luigi: [00:18:12] Ehm...</p>
+          <p>S02: [00:18:30] Ehm... Ehm...</p>
+          <p>Opperheer: [00:19:31] Ehm... Ehm...</p>
+          <p>Luigi: [00:20:36] Ehm... Ehm... Ehm... [00:21:39] Ehm... Ehm... Ehm... [00:22:41] Ehm... Ehm... Ehm...
+            [00:24:00] Ehm...</p>
+          <p>S00: [00:24:10] Ehm...</p>
+          <p>Mario: [00:24:36] Ehm...</p>
+          <p>Opperheer: [00:25:12] Ehm... Ehm... Ehm... Ehm... multiplied, Ehm... Ehm... Ehm... Ehm...</p>
+          <p>Mario: [00:25:58] Het was al niet meer aan ons. Het was aan hem.</p>
+          <p>Luigi: [00:26:00] Ja, inderdaad, dat klopt. Het was mijn beurt. //Opperheer: Na uw beurt?// Met die het
+            aanklaagde partij, alles oproepen. Ehm... Ok. Ok. Odel de verdedigde partij, verder, nog iemand oproepen?
+            Buricouw De Pontifex Maximus Abu Bakr al-Baghdadi.</p>
+          <p>Mario: [00:26:16] Ik beroep mij op mijn beroepsgeheim, als advocaat, om geen dingen over deze zaak te
+            spreken.</p>
+          <p>Luigi: [00:26:21] Dit gaat niet over uw professionele relatie met uw cliënt, Buriku, de Pontifex Maximus.
+          </p>
+          <p>Opperheer: [00:26:27] Je kunt nog steeds inderdaad worden opgeroepen, dus u wordt nog steeds verwacht op
+            het...</p>
+          <p>Luigi: [00:26:35] Even als secretaris zegt na mij, Ik zweer zonder vrees nog haat, om de waarheid en niks
+            anders dan de volledige waarheid te vertellen, zo helpe mij God</p>
+          <p>Opperheer: [00:26:45] Oké, zeg gewoon effe, ik ga niet liegen. Ik ga niet liegen. Ik zweef niet te liegen.
+            Oké. Top, perfect.</p>
+          <p>Mario: [00:26:50] Nuh-uh.</p>
+          <p>Luigi: [00:26:55] Oké, Buriku de Pontifex Maximus. U heeft op de 14e augustus rond kwart voor tien een gif
+            gestuurd van de Red Queen van Alice in Wonderland, waarop staat Off with her heads. Zou je kunnen verklaren
+            waarom u die gif hebt verstuurd?</p>
+          <p>Mario: [00:27:18] Er werd opgeroepen tot een straf.</p>
+          <p>Luigi: [00:27:21] Inderdaad. Dat klopt. En daaronder staat een bestraffing door op reër Broeke de Linker.
+            Weet u op wie deze straf... Beroepsgeheim. Mijn excuus is, maar ik denk niet dat dit onder het beroepsgeheim
+            valt.</p>
+          <p>Mario: [00:27:39] Dit valt onder het beroepsgeheim.</p>
+          <p>Luigi: [00:27:40] En waarom zou dit onder het beroepsgeheim vallen?</p>
+          <p>Mario: [00:27:42] Omdat dit, zoals gezegd, te maken heeft met mijn cliënt.</p>
+          <p>Luigi: [00:27:46] U geeft dus toe dat de gif die u gestuurd heeft wel degelijk te maken heeft met uw
+            cliënt?</p>
+          <p>Mario: [00:27:55] Nee, dat is de gebode die u uit mijn mond probeert te halen. Als ik binnenkort, waar u
+            naar wilt wijzen, is omdat ik zogezegd zeg dat daar iemand de hoofd af wil, dat ik een straf wil voor
+            iemand, dat die ook die straf heeft verdiend. Als ik nu zeg, ik wil dat jij van de brug afspringt, zal jij
+            dan ook van de brug afspringen, omdat ik dat in een groepchat heb gezet?</p>
+          <p>Luigi: [00:28:18] Mario, ik denk dat dit erg ongeveer relevant is. U bent hier alleen maar om vragen te
+            beantwoorden, niet om uw eigen betoog te doen. Oké. //Opperheer: Zijn er verder vragen vanuit de
+            verdediging?// Sorry, ik was nog niet klaar, op reër. Juist daaronder zegt de op reër dat er een straf is
+            uitgesproken. En daarna beroept u zichzelf op het beroepsgeheim, omdat het over uw cliënt zou gaan. Kunnen
+            wij als hof, als verwerende partij, er dan iets van uitgaan...</p>
+          <p>Opperheer: [00:28:54] De vraag vanuit de rechtbank zelf. U ziet geen bewijs voor het feit dat er in de
+            groepschat iets door de rechtbank is uitgesproken, of... //Mario: Er is in de groepschat wel degelijk een
+            straf uitgesproken. //Opperheer: Oké, die straf is uitgesproken op Buriku, de Voorzitter Jokari. Dus... //
+            Mario: Ja, klopt.</p>
+          <p>Luigi: [00:29:15] Dus toen was u nog wel... Het mee eens dat uw cliënt wel degelijk rechtvaardig is... Voor
+            oordeeld geweest.</p>
+          <p>Mario: [00:29:24] Nee, klopt niet. Uhm...</p>
+          <p>Luigi: [00:29:28] Waarom zou u dat dan gestuurd hebben?</p>
+          <p>Mario: [00:29:30] Omdat ik niks te maken heb met de regering, en ik ben gewoon iemand die een lukraak gif
+            stuurt... En meegaat met de menigte, met de mob.</p>
+          <p>Luigi: [00:29:38] Oké, geen vragen meer.</p>
+          <p>Mario: [00:29:44] Natuurlijk weet ik dat deze hier een volgende ding is, en daarom zitten we hier, om
+            dat...</p>
+          <p>Luigi: [00:29:50] Ja, je zegt, kom maar proberen, hè.</p>
+          <p>Mario: [00:29:52] We gaan het, nou.</p>
+          <p>Opperheer: [00:29:56] Oké. Eh, waar zijn er nog getuigen die willen worden opgeroepen langs? Eén van beide
+            kanten.</p>
+          <p>Luigi: [00:30:00] Ik heb geen getuigen meer, aangezien dat de enige getuige die er nog is afwezig is op
+            verlof.</p>
+          <p>Opperheer: [00:30:06] Ja, we kunnen altijd nog eens iemand oproepen, en dat je nog verder vragen hebt.</p>
+          <p>Luigi: [00:30:11] Ja, eigenlijk wil ik u nog oproepen, maar ik weet niet of dat dat mag.</p>
+          <p>Opperheer: [00:30:14] Ja, dat is een beetje een moeilijke. Dat gezegd hebbende, betekent dat wel niet dat
+            de rechtbank geen kennis heeft van de dingen die ze heeft gedaan. Dus het is niet ineens, omdat er in de
+            groepstrijd niet meer staat voor wat er is gebeurd, dat de rechtbank dat ook niet meer weet. Nee, klopt.
+            Oké. Oké, dan gaan we over naar de afsluitende replieken. En eerst mag de aanvallende partij, de aanklagende
+            partij, het samenvatten en speech geven.</p>
+          <p>Mario: [00:30:41] Dus op het moment van de zogezegde aanklacht van mijn partij was... Oh, what the fuck
+            doet er hier een skelet? Ik wist niet eens dat die konden spawnen. Ah, die spawnen daar bovenop. Oké, bij u.
+            Oké. Aangezien dat op dat moment er geen duidelijke signalisatie was dat deze wet van straf was, ook al gaat
+            het misschien om een defect in de zaak. Aangezien dat deze wet stond als moet nog in werking treden, kunnen
+            we er niet van uitgaan dat iedereen in het brede publiek deze ook moet accepteren. Pas vanaf dat deze wet
+            officieel is gepubliceerd, kan deze in zijn treding gaan. Verder nog wil ik eraan herhalen dat, ook al
+            wouden we dit op een vredevolle manier behandelen, dat toch de tegenpartij het nodig vond om een cliënt te
+            belageren. En slagen en verwondingen toe, dat u kan zien in het bewijs, nu kunnen we dit een goede,
+            uitvoerende machten weer. [00:31:43] Ik noem dit corruptie</p>
+          <p>Luigi: [00:31:49] Weer al, dit is geen strafbaar feit.</p>
+          <p>Opperheer: [00:31:54] Oké, we gaan verder met de dingen. We gaan even niet meer voor onderbrekingen, maar u
+            mag verder spreken, alsjeblieft.</p>
+          <p>Mario: [00:32:00] Dus ik wil mijn verhaal benadrukken dat als eerste dat er dus op dat moment geen geldige
+            wet is, en dat we dat ook niet retroactief kunnen activeren. Want als we zo gaan doen, in wat voor staat
+            zitten we dan? Gaan wij hier morgen, als er een nieuwe regering aan de macht komt, allemaal dingen beginnen
+            verzinnen om zogezegd retroactief mensen te kunnen straffen, omdat we dit graag willen doen? Ik denk van
+            niets. Ik ben hier voor een staat van vrijheid, waar elke idioot zijn rechten heeft. En elke idioot kan zijn
+            wie hij wil zijn. En zolang dat het volgens de wet oké is, mag dit gebeuren. Eeeh... Pupum... Dat was het.
+            Ik ben met Nion Pext, hè. [00:33:02] Oké.</p>
+          <p>Opperheer: [00:33:02] Dan gaan we naar de laatste toespraak van de verdedigende partij.</p>
+          <p>Luigi: [00:33:05] Opperheer, Buriku de Linker, Confrater Mario. Er is dus eigenlijk geen reden, gegeven de
+            artikelen die zijn aangehaald, die vooral van het staf uitbroek, dat uw cliënt, Poerikoer de voorzitter
+            Jokkari, dat hij een straatbaar feit heeft begaan. Echter, eh, of dat het straatblad onwettig zou zijn
+            opgesteld. Het onderzoek, dat het de regering ook nog heeft gevoerd, is echter ook gebleken dat uit de
+            volksvergadering van 5 augustus, een president is gezet om wetten en wetboeken pas te publiceren, indien zij
+            in zijn RG heel zijn goedgekeurd. En ik moet hierbij, Boeriko, de Pontifex Maximus, Mario, dan ook bijtreden
+            dat het staf uit [00:34:06] Broek nog niet gepubliceerd is geweest. De regering is dan ook van plan om het
+            proces tot gratie en rehabilitatie op te starten, om zo ten eerste de straf kwijt te schelden en het
+            strafblad te vernienigen, op één voorwaarde hieraan verbonden. Dat zowel Boerikoer de voorzitter Jokkari...
+          </p>
+          <p>Mario: [00:34:29] Het lijkt me echt een speech dat de linker aan moet geven.</p>
+          <p>S03: [00:34:33] Oké, we gaan heel even wel verder met de...</p>
+          <p>Luigi: [00:34:35] Boerikoer de voorzitter Jokkari als zijn advocaat, Boerikoer de Pontifex Maximus, Abu
+            Bakr al-Bekdadi, toegeven dat zij wel degelijk zich oneervol hebben getragen door bewijsstuk te vernietigen,
+            namelijk twee berichten van Boerikoer de voorzitter Jokkari aan de volksvergadering. //S00: Dat is mijn
+            case.//</p>
+          <p>Opperheer: [00:35:05] Is dat het einde van de toespraak? Oké. Vooral eer ik verder even ga nadenken over
+            mijn besluit, wil ik in het licht van de toespraak van de Verdedigende Partij heel even vragen aan beide
+            partijen of het mogelijk is om tot een onderling akkoord te komen. Een uitspraak die wordt uitgesproken komt
+            op het strafblad te staan.</p>
+          <p>Luigi: [00:35:30] Dit is een brugelijke vordering, dit is geen strafvordering.</p>
+          <p>Opperheer: [00:35:33] Fuck it, Hupjom. Ergens op een blad te staan.</p>
+          <p>Opperheer: [00:35:39] Dus ik probeer jullie eigenlijk allemaal aan te sporen om tot een akkoord te komen.
+            Ik zou zeggen, discussieer nog eventjes onderling, daarna wordt er een volksuitgesproken. Mocht u elkaar
+            gewoon aanspreken, ondergoedelijkheid ook wel, dat is niet meer relevant voor de rechtszaak zelf. Dit is
+            informeel, dus dit valt buiten de...</p>
+          <p>Luigi: [00:35:59] De regering heeft meerdere keren geprobeerd om tot een middelijke schikking te komen en
+            deze is dan altijd afgewezen geweest door de eisende partij.</p>
+          <p>Mario: [00:36:07] Broeik op de linker, als ik het zo ding is, de bemiddeling trok op niks en is ook tijdens
+            een van de bemiddelingen waarbij... De bemiddeling was basically dat mijn, eh, dat het straf, eigenlijk het
+            hele ding waar we dus voor wouden vechten, dat de, dat zijn straf gewoon bleef, maar dat de regering, dus
+            eigenlijk iedereen, ook nog een eurodeal ging betalen. Dit is, werd niet eens acceptabel gemaakt en is ook
+            dus de oorzaak van deze zitting.</p>
+          <p>Opperheer: [00:36:41] Dat kwam vanuit de verdedigen of vanuit jullie partij?</p>
+          <p>Luigi: [00:36:44] Dat kwam vanuit de regering. Buriku de Linker...</p>
+          <p>Mario: [00:36:47] Dus de regering heeft zonder, eh, zonder spraak met de rest als offering geboden om zelf
+            een eurodeal toe te voegen, maar nog steeds de er... Dus eigenlijk zelf een eurodeal te betalen, maar ons
+            geen enkel voordeel te geven of geen enkele gesten te doen. Dus hebben wij deze geweigerd, omdat ik dit niet
+            moreel kan accepteren voor mijn cliënt.</p>
+          <p>Opperheer: [00:37:07] Kunnen jullie nu nog tot een akkoord komen?</p>
+          <p>Luigi: [00:37:11] Mijn voorstel blijft staan, namelijk, de regering biedt rehabilitatie en gratie aan,
+            indien de advocaat Mario en zijn cliënt toegeven dat zij zich oneervol hebben gedragen.</p>
+          <p>Opperheer: [00:37:25] Oké, wordt dat ergens nog opgeschreven of niet? Of wordt er hierbij praktisch gewoon
+            gezegd, geef het toe en alles geordwijnd?</p>
+          <p>Luigi: [00:37:33] Dat staat niet bij het strafblad, klopt? Klopt, het strafblad wordt vernietigd en de
+            straf wordt kwijtgescholden. van zodra dat dit proces ververlegd is. Indien zij dit toegeven, natuurlijk.
+          </p>
+          <p>Mario: [00:37:46] Ik wil mededelen dat het zogezegde bewijs niet is vernietigd, maar gewoon uit de openbare
+            handel is gehaald om zo te voorkomen dat dit kon aangetast worden. Indien er een vraag werd gesteld om dit
+            terug beschikbaar te zetten, had ik dit met alle plezier gedaan. //Luigi: U heeft dus...// Maar ik kan, ik
+            kan, eh, geen, eh, ik kon deze berichten dus niet vertrouwen in de handen van iemand die letterlijk de
+            corrupte snetjes eet.</p>
+          <p>Opperheer: [00:38:14] In dat geval moet de linker nog wel die berichten lezen.</p>
+          <p>Mario: [00:38:19] U mag zeker die berichten lezen, als u wilt.</p>
+          <p>Luigi: [00:38:23] Maar u geeft dus ook toe dat u wel degelijk bewijs vernietigd heeft op dit moment.</p>
+          <p>Mario: [00:38:26] Het is niet vernietigd.</p>
+          <p>Luigi: [00:38:29] Maar u heeft ook bewijs achtergehouden dat het relevant is voor uw tegenpartij.</p>
+          <p>Opperheer: [00:38:35] Je mag wel naar het publiek uit te halen wat je zelf wilt halen. Dus, zolang het er
+            nog is.</p>
+          <p>Luigi: [00:38:44] Wij hadden geen weet dat dit bewijs er nog was.</p>
+          <p>Opperheer: [00:38:50] Het is ook niet als bewijs ingevoerd op voorhand, natuurlijk. Dat is ook wel
+            belangrijk.</p>
+          <p>Luigi: [00:38:55] Ja, omdat we niet wisten dat het nog bestond.</p>
+          <p>Mario: [00:39:03] Verder wil ik als context geven dat dat duimpje van mij is en dus geen rechtelijke staat
+            heeft.</p>
+          <p>Opperheer: [00:39:07] Hm, hm, hm. Ik ga gewoon over de beschrijving van de omstandigheden waar de straf is
+            uitgevoerd. Maar het gaat niet echt om de straf die is uitgevoerd. Het gaat meer om het strafblad dat
+            achteraf is toegevoegd aan de straf.</p>
+          <p>Mario: [00:39:19] Onder andere, maar ook de straf zelf omdat deze is, omdat mijn cliënt is gestraft zonder
+            een actieve wet.</p>
+          <p>Opperheer: [00:39:27] De wet was volgens mij actief. De strafwet.</p>
+          <p>Luigi: [00:39:29] Nee, wel degelijk, zoals ik juist heb gezegd, de wet is nog niet gepubliceerd. De
+            strafwetbroek is nog niet gepubliceerd, dus over nog niet van kracht. Moet je gepubliceerd worden om actief
+            te zijn? Ja, de wetten zijn pas van kracht wanneer ze gepubliceerd worden. Wanneer ze gepubliceerd worden?
+          </p>
+          <p>Mario: [00:39:44] Maar waarom zitten we niet aan? Hij geeft zelf toe dat de wet niet actief is. Waarom
+            zitten we hier nog?</p>
+          <p>Jokari: [00:39:48] Ik denk zelfs dat de namen, dus gelijk, Oopsy Oopsy en zo, pas achteraf besloten zijn.
+          </p>
+          <p>Luigi: Die zijn besloten van twaalf van de strafwing besloten. Die zijn twee dagen ervoor besloten. Die
+            zijn niet besloten op de strafwet.</p>
+          <p>Opperheer: [00:40:01] En dat je zelf bij mocht gebruiken.</p>
+          <p>Luigi: [00:40:03] Ja, want ik heb het opgezocht over tijd, eh, omdat ik het zelf ook raar vond, dat je één
+            van dat twee moest gebruiken.</p>
+          <p>Opperheer: [00:40:12] Oké, dus jullie willen niet voor een onderling akkoord gaan, correct?</p>
+          <p>Luigi: [00:40:16] Klopt. Allee, of, jawel, als zij akkoord gaat met mijn voorstel, dan heeft de regering
+            geen enkel probleem.</p>
+          <p>Mario: [00:40:23] Ik verweer het voorstel. Het gaat om, de regering vraagt om te liegen, dus dat gaan we
+            niet in meen.</p>
+          <p>Opperheer: [00:40:32] Maar de regering vraagt net...</p>
+          <p>Mario: [00:40:33] Allee, hun...</p>
+          <p>Opperheer: [00:40:34] Dus de verdedigingpartij heeft net gewoon gevraagd, geef toe dat je het gewoon net
+            verwijderd?</p>
+          <p>Mario: [00:40:38] Nee, nee, nee, nee, we hebben het niet vernietigd.</p>
+          <p>Opperheer: [00:40:42] Oké, wilt de verdediging nog herformuleren of niet?</p>
+          <p>Luigi: [00:40:46] Eh, verwijderd uit de publieke sfeer, in plaats van het.</p>
+          <p>Mario: Nou ja, dat wel.</p>
+          <p>Opperheer: Oké.</p>
+          <p>Jokari: Ik valg mijn advocaat.</p>
+          <p>Mario: [00:40:56] Ja, sure.</p>
+          <p>Opperheer: [00:40:57] Oké. Oké. Zijn jullie bereid om het op te lossen zonder verdikt, of willen jullie
+            toch verder gaan naar een vonnis?</p>
+          <p>Mario: [00:41:04] Willen we nog steeds de schaderclaim?</p>
+          <p>Opperheer: [00:41:06] Het is niet omdat je de schaderclaim hebt gevraagd, dat als je wint, dat je die nog
+            krijgt, hè. Ja, ja.</p>
+          <p>S00: [00:41:13] Voor mij is het belangrijk dat straf wel uitwegezien.</p>
+          <p>Luigi: [00:41:18] En dit moet je trouwens ook apart doen, hè, want dit is wel degelijk...</p>
+          <p>Opperheer: [00:41:34] Ehm... Stel ik vast dat er een onderlinge akkoord is, eh, dat we het onderlinge
+            akkoord zijn gekomen tussen twee partijen, dus bij deze hef ik deze zitting op en wordt de zaag verbieden.
+            Ehm... Voor... Tabé.</p>
+          <p>Mario: [00:41:45] Voor, eh, veiligheid van de zaal. ... Ex الصnding.</p>
+        </section>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWO3DFNVSW45DFNY/"
+      id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWO3DFNVSW45DFNY/:">
+      <h2 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KJSWO3DFNVSW45DFNY/"><span class="pdf-order">2.5 </span>Reglementen</h2>
+      <section class="md-typeset" data-url="/Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/"
+        id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:">
+        <h3 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/"><span class="pdf-order">2.5.1
+          </span>Reglement van de Volksvergadering</h3>
+        <h4 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:algemene-beginselen">Algemene
+          beginselen</h4>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-1">Art. 1</h6>
+        <p>Een lid van de Volksvergadering zal vrijwillig optreden als Pontifex Maximus, indien er meerdere
+          vrijwilligers zijn zal de Pontifex Maximus verkozen worden bij gewone 2/3de meerderheid.</p>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-1bis">Art. 1bis</h6>
+        <p>Bij een afwezigheid van een 2/3de meerderheid voor een kandidaat zal elke kandidaat:</p>
+        <ul>
+          <li>Bij een fysieke vergadering: blad-steen-schaar spelen tegen elke andere kandidaat tot er 1 winnaar
+            overblijft.</li>
+          <li>Bij een online vergadering: De Voorzitter, de Secretaris of de Linker zullen een getal genereren door
+            middel van het rollen van een D6. De kandidaat die er het dichste bijzit wint.</li>
+        </ul>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-1ter">Art. 1ter</h6>
+        <p>De Pontifex Maximus blijft aangesteld voor de huidige zitting. Hij/zij kan zichzelf opvolgen voor meerdere
+          opeenvolgende termijnen.</p>
+        <h4 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:de-plenaire-vergadering">De Plenaire
+          vergadering</h4>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-2">Art. 2</h6>
+        <p>Elk lid van de Volksvergadering zal bij een fysieke plenaire vergadering een offer meebrengen voor de
+          Volksvergadering.</p>
+        <!-- ### Opening -->
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-3">Art. 3</h6>
+        <p>De Pontifex Maximus opent een vergadering door de gezegende notulen van de vorige vergadering ritueel te
+          verbranden.</p>
+        <p>Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de andere leden van de
+          Volksvergadering "Sumus asini" zeggen.</p>
+        <!-- ### Notulen -->
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-4">Art. 4</h6>
+        <p>De Secretaris zal gedetailleerde notules nemen van elke vergadering en deze verdelen onder de leden.</p>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-5">Art. 5</h6>
+        <p>De Pontifex Maximus zal de notulen zegenen en bijhouden tot de volgende vergadering.</p>
+        <p>Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de andere leden van de
+          Volksvergadering "Sumus asini" zeggen.</p>
+        <h6 id="Archief-der-Idioten/reglementen/Reglement-van-de-Volksvergadering/:art-6">Art. 6</h6>
+        <p>De leden van de Volksvergadering worden persoonlijk en tesamen aangesproken met "Buriku".
+          De Voorzitter van de Volksvergadering wordt aangesproken met "Buriku de Voorzitter".</p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KRXWK43QOJQWWZLO/"
+      id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KRXWK43QOJQWWZLO/:">
+      <h2 id="IFZGG2DJMVTCAZDFOIQESZDJN52GK3Q/KRXWK43QOJQWWZLO/"><span class="pdf-order">2.6 </span>Toespraken</h2>
+      <section class="md-typeset"
+        data-url="/Archief-der-Idioten/toespraken/Regeringsverklaring-van-de-Eerste-Minister-2025/"
+        id="Archief-der-Idioten/toespraken/Regeringsverklaring-van-de-Eerste-Minister-2025/:">
+        <h3 id="Archief-der-Idioten/toespraken/Regeringsverklaring-van-de-Eerste-Minister-2025/"><span
+            class="pdf-order">2.6.1 </span>Regeringsverklaring van de Eerste Minister 2025</h3>
+        <p>Mijne Eerwaarde en Geëerde Buriku</p>
+        <p>Met het diepste ontzag en de grootst mogelijke eerbied sta ik heden voor u om, in volle verantwoordelijkheid
+          en gewetensvol plichtsbesef, de wetgevende plannen der regering voor het aanstaande jaar te openbaren.</p>
+        <p>Het jaar dat ons wacht zal zich in de annalen schrijven als een tijdperk waarin het fundament der Vrijstaat,
+          in rechtvaardigheid en helderheid, voor eeuwig werd verankerd. De regering heeft zich plechtig voorgenomen de
+          fundamenten van onze natie te versterken, hare instellingen ordelijk te schikken, en het recht zodanig te
+          verhelderen, dat het voor allen – van edele tot eenvoudige burger – een onwankelbare baken zij van
+          rechtvaardigheid en voorspelbaarheid.</p>
+        <p>Aan het hoofd der overwegingen staan de grondwettelijke hervormingen. Met vaste hand zal een bijzondere wet
+          de uitleg en toepassing van artikel 51 der Grondwet verankeren, waarin de onvervreemdbare waarden, de dierbare
+          symbolen en de hooggeëerde gebruiken die het wezen en de geest van onze Vrijstaat belichamen, worden bezegeld
+          en bewaakt. Evenzo zal met ernst en rechtmatigheid de juridische omkadering van de ontbinding der Grondwet in
+          tijden van nood en crisis worden vastgelegd. Voorts zal het pensioen, als een fundament van dankbaarheid en
+          rechtvaardigheid jegens hen die hun levensarbeid aan het Vaderland schonken, worden opgenomen in onze
+          Grondwet, opdat geen stem des arbeiders in het heden of het nageslacht ooit aan onzekerheid zal lijden.</p>
+        <p>De regering zal zich onverwijld wijden aan de oprichting van het Ministerie van Alles, een onverbrekelijk
+          orgaan dat alle overheidsbevoegdheden en taken onder één enkele, onbetwistbare en transparante heerschappij
+          zal verenigen, met een zuivere en rechtvaardige taakverdeling en een dienstbaar en integer ambtenarenkorps.
+          Dit ministerie zal het onvermoeibare kloppend hart zijn van de uitvoerende macht, de motor van onze
+          gemeenschappelijke vooruitgang en het schild van onze natie.</p>
+        <p>Tevens zal de regering een geheel nieuw Burgerlijk Wetboek aan het licht brengen, waarin de onwrikbare
+          fundamenten van ons privaatrecht gegrift staan. Het zal onverzettelijk de regels omtrent nationaliteit
+          vastleggen en de pensioenregeling op een wijze regelen die gerechtigheid en duurzaamheid verenigt. Daarbij zal
+          het recht erkennen dat precedent en tradities, als heilige bronnen van ons recht, met de diepste eerbied
+          dienen te worden gekoesterd, want zij zijn de levensader van onze rechtsorde.</p>
+        <p>Gelijkertijd zal een nieuw Strafwetboek worden geïntroduceerd, waarin de rechtsbeginselen der Vrijstaat
+          onherroepelijk worden gegrondvest. Het strafrecht zal worden verdeeld in drie graden, elk behandeld met de
+          ernst en waardigheid die het vereist, terwijl de regels voor de strafvordering met nauwgezetheid worden
+          vastgesteld teneinde het rechtsapparaat te vormen dat rechtvaardigheid en efficiëntie hoog in het vaandel
+          voert.</p>
+        <p>Met voorname ernst zal de regering een wetsvoorstel aan het licht brengen tot oprichting van het
+          Rijksarchief, belast met het bewaren, publiceren en vertalen van alle staatsdocumenten, als een baken van
+          transparantie en historisch bewustzijn voor onze natie. Aansluitend zal een vertaaldienst worden ingesteld,
+          die de wetten en besluiten in diverse talen zal doen klinken, opdat geen burger zal worden uitgesloten van het
+          recht dat hem toekomt.</p>
+        <p>Voorts zal met groot respect een opdracht worden verleend tot het ontwerpen en oprichten van een nieuw
+          heiligdom voor de Volksvergadering, een majestueus gebouw dat de waardigheid en het gewicht van de
+          vertegenwoordiging van het volk op onvergetelijke wijze zal manifesteren. Daarnaast zal een ontwerp van wet
+          worden voorgelegd ter regulering van de Militie, als de belichaming van de moed, de weerbaarheid en de
+          onwankelbare toewijding van onze burgers aan het algemeen welzijn.</p>
+        <p>Mogen de hoogste wijsheid, het diepste plichtsbesef en het heiligste algemeen belang de gidsen zijn die ons
+          leiden op het pad van de Volksvergadering.</p>
+        <p>Op den vijfden dag van Augustus, in het jaar des Heeren tweeduizend vijfentwintig.</p>
+        <p>Buriku de Eerste Minister Cianci Baklava Feta</p>
+      </section>
+      <section class="md-typeset"
+        data-url="/Archief-der-Idioten/toespraken/Toespraak-van-de-Eerste-Minister-12-08-2025/"
+        id="Archief-der-Idioten/toespraken/Toespraak-van-de-Eerste-Minister-12-08-2025/:">
+        <h3 id="Archief-der-Idioten/toespraken/Toespraak-van-de-Eerste-Minister-12-08-2025/"><span
+            class="pdf-order">2.6.2 </span>Toespraak van de Eerste Minister 12 08 2025</h3>
+        <p>Hooggeachte en Weledelgestrenge Buriku</p>
+        <p>In dezen voortsnellenden, doch richtingloozen tijd, waar de dagen elkander verdringen als golven op een
+          stormige zee, rust op ons de heilige last om te waken over het hart en de ziel der Vrijstaat. Gelijk een
+          vesting niet slechts door steen en mortel, maar door de vurige geest van hare wachters standhoudt, zoo wordt
+          ook ons gemeen niet enkel door wet en decreet bezield, doch door de innige verbondenheid zijner kinderen.</p>
+        <p>Doch, wee ons, dat wij thans getuigen zijn van een sluimerende, doch verraderlijke kwaal: de schrijnende
+          eenzaamheid. Zij sluipt als een koude wind door onze straten, zij sluit zich in onze huizen op, en zij
+          verstikt het samenzijn. Velen onzer, nu den mijlpaal van vijfentwintig jaren naderende, bevinden zich in het
+          schemergebied tusschen jeugd en ernst, doch missen den innigen handdruk, het warme woord, den blik vol
+          herkenning, die eens het leven sierden. Waar eertijds buren elkander begroetten en vrienden den avond deelden,
+          daar heerscht nu de ijle stilte der afzondering.</p>
+        <p>Evenzeer legt de vergrijzing een schaduw over ons land. Het is geen louter vermeerderen van jaren, doch een
+          verschuiving in het weefsel der gemeenschap. Met de jaren rijst de vraag: wie zal den mantel der zorg
+          spreiden, wanneer de kracht uit de leden geweken is? Zonder antwoord hierop verwordt ouderdom tot een eenzame
+          wacht op den ondergang.</p>
+        <p>En zie, als derde slag treft ons de gesel der armoede. Zij rooft niet enkel brood en dak, doch knevelt ook de
+          hoop en beneemt den geest den moed om te streven. In elke straat, in menig huis, huist deze stille vijand, die
+          ons volk verzwakt en ons gemeen uitholt.</p>
+        <p>Doch, geachte Buriku, wij zijn niet geroepen om lijdzaam toe te zien. Derhalve zal ik, met uw welwillende
+          instemming, een wetsvoorstel indienen tot oprichting van een sociaal zekerheidsnetwerk, waarin de
+          draagkrachtigen, naar vermogen, den schat vullen, en de behoeftigen, naar hunne krachten, arbeid verrichten
+          tot nut van henzelf en het gemeen. Aldus zullen wij weldadigheid en plichtsbetrachting verzoenen, opdat
+          niemand in den Vrijstaat vergeefs om hulp roeppe, noch werkloos sta wanneer arbeid wacht.</p>
+        <p>Moge deze wet het sein zijn van een nieuwen tijd, waarin zorg en verantwoordelijkheid als twee trouwe
+          wachters aan de poort van ons gemeen staan, en waarin geen burger eenzaam, verlaten of in armoede den dag
+          behoeft te besluiten.</p>
+        <p>Zoo heb ik gesproken.</p>
+        <p>Op den twaalfden dag van Augustus, in het jaar des Heeren tweeduizend vijfentwintig.</p>
+        <p>Buriku de Eerste Minister Cianci Baklava Feta</p>
+      </section>
+    </section>
+  </article>
+  <article class="md-content__inner md-typeset" data-url="/K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/"
+    id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/:">
+    <h1 id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/"><span class="pdf-order">3. </span>Wetboek der Idioten</h1>
+    <section class="md-typeset" data-url="/Wetboek-der-Idioten/" id="Wetboek-der-Idioten/:">
+      <h2 id="Wetboek-der-Idioten/:het-wetboek-der-idioten"><span class="pdf-order">3.1 </span>Het Wetboek der Idioten
+      </h2>
+      <p>Hier vinden jullie alle organieke wetten en wetboeken van de Vrijstaat.</p>
+    </section>
+    <section class="md-typeset" data-url="/K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/GUQEC5LHOVZXI5LTEAZDAMRV/"
+      id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/GUQEC5LHOVZXI5LTEAZDAMRV/:">
+      <h2 id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/GUQEC5LHOVZXI5LTEAZDAMRV/"><span class="pdf-order">3.2 </span>5 Augustus
+        2025</h2>
+      <section class="md-typeset"
+        data-url="/Wetboek-der-Idioten/5-Augustus-2025/Aanstelling-van-de-Vertaler-van-de-Vrijstaat/"
+        id="Wetboek-der-Idioten/5-Augustus-2025/Aanstelling-van-de-Vertaler-van-de-Vrijstaat/:">
+        <h3 id="Wetboek-der-Idioten/5-Augustus-2025/Aanstelling-van-de-Vertaler-van-de-Vrijstaat/"><span
+            class="pdf-order">3.2.1 </span>Aanstelling van de Vertaler van de Vrijstaat</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="Wetboek-der-Idioten/5-Augustus-2025/Aanstelling-van-de-Vertaler-van-de-Vrijstaat/:art-1">Art. 1</h6>
+        <p>De Buriku De Linker Luigi Mussolini zal benoemd worden tot Vertaler van de Vrijstaat.
+          Op aanvraag van een Idioot zal de Vertaler van de Vrijstaat een document vertalen naar de andere landstaal.
+        </p>
+        <h6 id="Wetboek-der-Idioten/5-Augustus-2025/Aanstelling-van-de-Vertaler-van-de-Vrijstaat/:art-2">Art. 2</h6>
+        <p>De Buriku De Linker Luigi Mussolini zal benoemd worden tot Tolk van de Vrijstaat.
+          Op aanvraag van een Idioot zal de Tolk van de Vrijstaat een gesprek tolken naar de andere landstaal.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den 5de Augustus 2025</em></p>
+      </section>
+      <section class="md-typeset" data-url="/Wetboek-der-Idioten/5-Augustus-2025/Mathias-zenne-kleine/"
+        id="Wetboek-der-Idioten/5-Augustus-2025/Mathias-zenne-kleine/:">
+        <h3 id="Wetboek-der-Idioten/5-Augustus-2025/Mathias-zenne-kleine/"><span class="pdf-order">3.2.2 </span>Mathias
+          zenne kleine</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="Wetboek-der-Idioten/5-Augustus-2025/Mathias-zenne-kleine/:art-1">Art. 1</h6>
+        <p>Mathias zenne eerste kleine moet Jericho Gravers heten in intieme kring.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den 5de Augustus 2025</em></p>
+      </section>
+      <section class="md-typeset" data-url="/Wetboek-der-Idioten/5-Augustus-2025/benoeming-herverkozen-voorzitter/"
+        id="Wetboek-der-Idioten/5-Augustus-2025/benoeming-herverkozen-voorzitter/:">
+        <h3 id="Wetboek-der-Idioten/5-Augustus-2025/benoeming-herverkozen-voorzitter/"><span class="pdf-order">3.2.3
+          </span>Benoeming herverkozen voorzitter</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="Wetboek-der-Idioten/5-Augustus-2025/benoeming-herverkozen-voorzitter/:art-1">Art. 1</h6>
+        <p>Indien een Buriku herverkozen wordt tot Voorzitter van de Volksvergadering zal zijn aanspreektitel Buriku de
+          Gerecycleerde Voorzitter zijn.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den 5de Augustus 2025</em></p>
+      </section>
+      <section class="md-typeset" data-url="/Wetboek-der-Idioten/5-Augustus-2025/dnd/"
+        id="Wetboek-der-Idioten/5-Augustus-2025/dnd/:">
+        <h3 id="Wetboek-der-Idioten/5-Augustus-2025/dnd/:voorkeuren-voor-het-regelen-van-nieuwe-dd-sessies"><span
+            class="pdf-order">3.2.4 </span>Voorkeuren voor het regelen van nieuwe D&amp;D sessies</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="Wetboek-der-Idioten/5-Augustus-2025/dnd/:art-1">Art. 1</h6>
+        <p>Bij voorkeur zullen D&amp;D sessies doorgaan op Maandag of Donderdag.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den 5de Augustus 2025</em></p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/"
+      id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/:">
+      <h2 id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/"><span class="pdf-order">3.3
+        </span>Bijzondere wetten</h2>
+      <section class="md-typeset"
+        data-url="/K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/GA2SAQLVM52XG5DVOMQDEMBSGU/"
+        id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/GA2SAQLVM52XG5DVOMQDEMBSGU/:">
+        <h3 id="K5SXIYTPMVVSAZDFOIQESZDJN52GK3Q/IJUWU6TPNZSGK4TFEB3WK5DUMVXA/GA2SAQLVM52XG5DVOMQDEMBSGU/"><span
+            class="pdf-order">3.3.1 </span>05 Augustus 2025</h3>
+        <section class="md-typeset"
+          data-url="/Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-ontbinding-van-de-grondwet/"
+          id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-ontbinding-van-de-grondwet/:">
+          <h4
+            id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-ontbinding-van-de-grondwet/">
+            Bijzondere wet met betrekking tot de ontbinding van de grondwet</h4>
+          <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+          <p><em>De volledige Volkvergadering heeft unaniem en met één stem besloten:</em></p>
+          <hr />
+          <p>Volgende artikelen worden toegevoegd aan de grondwet.</p>
+          <h7
+            id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-ontbinding-van-de-grondwet/:art-6bis">
+            Art. 6bis</h7>
+          <p>Enkel indien er onoverkomelijke meningsverschillen ontstaan tussen meer dan de helft van de leden onderling
+            zal de Grondwet na unanieme beslissing worden ontbonden. In geen enkel ander geval kan dit gebeuren.</p>
+          <p>De Vrijstaat der Idioten zal hiermee op houden te bestaan.</p>
+          <hr />
+          <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+          <p><em>Op den 5de Augustus 2025</em></p>
+        </section>
+        <section class="md-typeset"
+          data-url="/Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-pensioenleeftijd/"
+          id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-pensioenleeftijd/:">
+          <h4
+            id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-pensioenleeftijd/">
+            Bijzondere wet met betrekking tot de pensioenleeftijd</h4>
+          <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+          <p><em>De volledige Volkvergadering heeft unaniem en met één stem besloten:</em></p>
+          <hr />
+          <p>Volgende artikelen worden toegevoegd aan de grondwet.</p>
+          <h7
+            id="Wetboek-der-Idioten/bijzondere-wetten/05-Augustus-2025/bijzondere-wet-met-betrekking-tot-de-pensioenleeftijd/:art-10bis">
+            Art. 10bis</h7>
+          <p>Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.
+          </p>
+          <p>Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn
+            mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
+          </p>
+          <hr />
+          <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+          <p><em>Op den 5de Augustus 2025</em></p>
+        </section>
+      </section>
+    </section>
+  </article>
+  <article class="md-content__inner md-typeset" data-url="/K5SXI43WN5XXE43UMVWGYZLO/" id="K5SXI43WN5XXE43UMVWGYZLO/:">
+    <h1 id="K5SXI43WN5XXE43UMVWGYZLO/"><span class="pdf-order">4. </span>Wetsvoorstellen</h1>
+    <section class="md-typeset" data-url="/wetsvoorstellen/" id="wetsvoorstellen/:">
+      <h2 id="wetsvoorstellen/:wetsvoorstellen"><span class="pdf-order">4.1 </span>Wetsvoorstellen</h2>
+      <p>Hier vindt u alle wetsvoorstellen voor de volgende volksvergadering</p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/"
+      id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:">
+      <h2 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/"><span class="pdf-order">4.2
+        </span>Bijzondere wet inzake artikel 51 van de grondwet</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De volledige Volkvergadering heeft unaniem en met één stem besloten:</em></p>
+      <hr />
+      <p>Als titel V van de Grondwet worden volgende artikelen aangenomen.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-51">Art. 51</h5>
+      <p>Een groet voor, tijdens of juist na een fysieke vergadering zal een handdruk zijn met de linkerhand op even
+        dagen en met de rechterhand op oneven dagen. De Linker groet altijd met de linkerhand.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-52-goedgekeurd-op-508">Art. 52
+        <em>Goedgekeurd op 5/08</em></h5>
+      <p>Het Rijkswapen zal de Opposum met een cowboyhoed zijn. De kenspreuk zal "Be rootin, be tootin, and by god be
+        shooting but most of all be kind" zijn.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-53">Art. 53</h5>
+      <p>Het Volkslied zal <a href="https://www.youtube.com/watch?v=Ueg8QIt7ZTo">Freebird in het Middelengels</a> zijn.
+        Indien een Idioot het Volkslied meezingt zal hij met een prei moeten zwaaien.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-54">Art. 54</h5>
+      <p>De nationale klederdracht zal ten minste bestaan uit een Hawaii hemd.</p>
+      <p>De leden der kamers voegen 4 gulden kwastjes toe aan elke mouw van hun hemd.</p>
+      <p>De mandaat pin en eretekens worden op de linkerborst gedragen.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-54bis">Art. 54bis</h5>
+      <p>Naast een hemd dragen sommige mandaathouders en dignitarissen nog extra regalia met hun nationale klederdracht.
+      </p>
+      <p>De Voorzitter van de Volksvergadering en de Voorzitter van de Andere Volksvergadering dragen elk de Stok der
+        Sprekers om het lid aan te duiden die op dat moment het woord heeft.</p>
+      <!-- De Stok zal bestaan uit een eikenhouten cilinder. De uiteinden zullen verstevigd worden met gouden (of goudkleurige), voor de Voorzitter van de Volksvergadering, of messing, voor de Voorzitter van de Andere Volksvergadering, hulsen. Het hout zelf is vernist. -->
+      <p>De Linker draagt het Wetboek der Idioten op papier.</p>
+      <p>De Eerste Minister en de Minister van Alles dragen een wandelstok.</p>
+      <!-- De wandelstok van de Eerste Minister zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-teschio/) of een equivalent zijn.
+De wandelstok van de Minister van Alles zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-liberty-vuoto/) of een equivalent zijn. -->
+      <p>De Pontifex Maximus zal een eikenhouten kruisstaf dragen.</p>
+      <h5 id="wetsvoorstellen/bijzondere-wet-inzake-artikel-51-van-de-grondwet/:art-55-goedgekeurd-op-508">Art. 55
+        <em>Goedgekeurd op 5/08</em></h5>
+      <p>De nationale feestdagen zullen 1 april en 11 september zijn.</p>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/grondgebied/" id="wetsvoorstellen/grondgebied/:">
+      <h2 id="wetsvoorstellen/grondgebied/:wet-inzake-de-definiering-en-bestuur-van-het-grondgebied"><span
+          class="pdf-order">4.3 </span>Wet inzake de definiëring en bestuur van het Grondgebied</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De Volkvergadering heeft beslist:</em></p>
+      <hr />
+      <h5 id="wetsvoorstellen/grondgebied/:art-1">Art. 1</h5>
+      <p>Het Grondgebied zal bestaan uit een vast grondgebied en tijdelijke grondgebieden.</p>
+      <h5 id="wetsvoorstellen/grondgebied/:art-2">Art. 2</h5>
+      <p>Het vaste grondgebied zal ten allentijde deel uitmaken van het Grondgebied.</p>
+      <h5 id="wetsvoorstellen/grondgebied/:art-2bis">Art. 2bis</h5>
+      <p>Het vaste grondgebied wordt opgedeeld in Kreitsen waarvoor elk een Kreitsdag en een Kreitsding wordt opgericht.
+      </p>
+      <p>De Kreitsdag is ten allentijde ondergeschikt aan de Volksvergadering. De Kreitsdag, bestaande uit alle
+        permanent inwonende Idioten van de Kreits, vaardigt ordonnanties uit die enkel van toepassing zijn op het
+        grondgebied van de Kreits. Ordonnanties mogen niet in strijd zijn met de wetten van de Vrijstaat op straffe van
+        vernietiging.</p>
+      <p>De Kreitsding is ten allentijde ondergeschikt aan het Hof en de Linker. De Kreitsding, bestaande uit alle
+        permanent inwonende Idoten van de Kreits uitgezonderd de beklaagde, zijn eventuele advocaat en de
+        Substituut-Procureur, berecht inbreuken tegen de ordonnanties van de Kreits en oepsie poepsies die in het
+        grondgebied zijn begaan. Tegen een vonnis voor een oepsie poepsie kan men in hoger beroep gaan bij de Linker.
+        Hiervoor wordt dan de procedure gevolgd zoals beschreven in art. 17 I. Nggr.</p>
+      <p>Uitzonderlijk kan de Volksvergadering ervoor kiezen geen Kreitsdag of Kreitsding op te richten indien zij dit
+        niet nodig acht.
+        Indien geen Kreitsdag wordt opgericht kan de Volksvergadering een proconsul aanduiden om de Kreits te besturen.
+        Een proconsul moet een lid van de Volksvergadering zijn, idealiter met ervaring als grondwettelijk
+        mandaathouder.</p>
+      <h5 id="wetsvoorstellen/grondgebied/:art-2ter">Art. 2ter</h5>
+      <p>De volgende Kreitsen zullen worden opgericht:</p>
+      <ol>
+        <li>De Buriku-Kreits. Deze Kreits staat onder permanent gezag van de Volksvergadering en hiervoor zal nooit een
+          Kreitsdag of Kreitsding kunnen worden opgericht. Er kan ook geen proconsul voor deze Kreits worden benoemd.
+          Deze Kreits bestaat uit: <ul>
+            <li>De woonplaats van elke Buriku of indien deze nog niet een eigen woonst heeft (zei gehuurd of gekocht) de
+              persoonlijke kamers van elke Buriku. </li>
+            <li>De Terra Nova, When Worlds Collide en D&amp;D discord servers</li>
+            <li>De P-Squad messenger groep.</li>
+          </ul>
+        </li>
+        <li>De Groot-Belgische-Kreits. Deze Kreits staat onder permanent gezag van de Volksvergadering en hiervoor zal
+          nooit een Kreitsdag of Kreitsding kunnen worden opgericht. Er kan ook geen proconsul voor deze Kreits worden
+          benoemd. Deze Kreits bestaat uit: <ul>
+            <li>België</li>
+            <li>Zeeuws-Vlaanderen</li>
+            <li>Frans-Vlaanderen</li>
+            <li>Nederlands-Limburg</li>
+            <li>Noord-Brabant</li>
+            <li>Groothertogdom Luxemburg</li>
+          </ul>
+        </li>
+      </ol>
+      <h5 id="wetsvoorstellen/grondgebied/:art-3">Art. 3</h5>
+      <p>Indien de woonplaats van twee Idioten zich maximaal 5km van elkaar bevinden en indien deze niet tot een
+        bestaande Kreits behoren kan het gebied binnen een straal van 15km rond de woonplaatsen toegevoegd worden aan
+        het vaste grondgebied.</p>
+      <p>De Volksvergadering stemt hiervoor een wet op vraag van de betrokken Idioten.</p>
+      <h5 id="wetsvoorstellen/grondgebied/:art-4">Art. 4</h5>
+      <p>De Volksvergadering heeft het recht om het grondgebied van een Kreits te wijzigen met een nieuwe wet. </p>
+      <h5 id="wetsvoorstellen/grondgebied/:art-5">Art. 5</h5>
+      <p>Het tijdelijke grondgebied bestaat uit al het grondgebied in een straal van 5km waar minstens twee Idioten zich
+        tijdelijk op maximaal 100m zich van elkaar bevinden.</p>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/koprolwet/" id="wetsvoorstellen/koprolwet/:">
+      <h2 id="wetsvoorstellen/koprolwet/"><span class="pdf-order">4.4 </span>Koprolwet</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De Volkvergadering heeft beslist:</em></p>
+      <hr />
+      <p>Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Oepsie Poepsie:</p>
+      <h5 id="wetsvoorstellen/koprolwet/:art-1-het-te-laat-invullen-van-een-doodle-om-af-te-spreken">Art. 1 Het te laat
+        invullen van een doodle om af te spreken</h5>
+      <p>Men zal worden veroordeeld voor het te laat invullen van een doodle om af te spreken indien een Idioot ten
+        minste twee weken na publicatie van de doodle om af te spreken nog steeds de doodle niet heeft ingevult.</p>
+      <p>Indien de Idioot echter iedere week een nieuwe video doorstuurt waarop te zien is dat de Idioot een koprol doet
+        zal deze deadline met een week worden uitgesteld.</p>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/militie-wet/" id="wetsvoorstellen/militie-wet/:">
+      <h2 id="wetsvoorstellen/militie-wet/"><span class="pdf-order">4.5 </span>Militie wet</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De Volkvergadering heeft beslist:</em></p>
+      <hr />
+      <h5 id="wetsvoorstellen/militie-wet/:art-1">Art. 1</h5>
+      <p>Deze wet regelt de verdere uitwerking van de artikelen 48, 49 en 50 van de Grondwet.</p>
+      <h5 id="wetsvoorstellen/militie-wet/:art-2">Art. 2</h5>
+      <p>De weerbare leden van de Natie zijn alle mannen en vrouwen die het recht hebben om een wapen te dragen.</p>
+      <h5 id="wetsvoorstellen/militie-wet/:art-3">Art. 3</h5>
+      <p>Er zal een jaarlijks rappel georganiseerd worden door de Minister van Alles of de Substituut van
+        Landsverdediging en zal bestaan uit ten minste een kruistocht naar Scherpenheuvel.</p>
+      <p>Iedere milicien zal aan dit rappel gehoor geven, gegeven dat de organisator rekening heeft gehouden met de
+        persoonlijke beschikbaarheid van elke milicien. </p>
+      <h5 id="wetsvoorstellen/militie-wet/:art-4">Art. 4</h5>
+      <p>De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepingsbevel "Send dudes" kan
+        gebruikt worden.
+        Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering en bestaat voor nu uit:</p>
+      <ul>
+        <li>Geweld tegenover een Idioot of hun naaste familie.</li>
+        <li>Ter bescherming van de eer van een Idioot of de naaste familie van een Idioot tegenover niet-Idioten.</li>
+        <li>Ter bescherming van het Grondgebied. </li>
+      </ul>
+      <p>Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
+        Gegeven de provisies van art. 50 van de Grondwet zal een oproeping via het oproepingsbevel aanzien worden als
+        goedgekeurde motie om de Militie op te roepen.</p>
+      <h5 id="wetsvoorstellen/militie-wet/:art-5">Art. 5</h5>
+      <p>Elke milicien zal zichzelf voorzien van een wapen en indien mogelijk binnen de persoonlijke economische
+        situatie van de milicien een (gedeeltelijk) harnas.
+        De milicien kiest zelf de stijl van het wapen, en indien van toepassing harnas, dat hij verkiest. </p>
+      <p>Indien de milicien dit praktisch en economische haalbaar acht mag de milicien ook een paard meebrengen bij een
+        oproeping of een rappel.</p>
+      <h5 id="wetsvoorstellen/militie-wet/:art-6">Art. 6</h5>
+      <p>De Militie wordt geleid door de Generaal-Admiraal-Veldmaarschalk.</p>
+      <p>Deze wordt bij elke oproeping of rappel willekeurig gekozen uit de leden van de Volksvergadering door een
+        toernooi blad-steen-schaar.</p>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/structuur-ministerie-van-alles/"
+      id="wetsvoorstellen/structuur-ministerie-van-alles/:">
+      <h2
+        id="wetsvoorstellen/structuur-ministerie-van-alles/:wet-inzake-de-structuur-en-organisatie-van-het-ministerie-van-alles">
+        <span class="pdf-order">4.6 </span>Wet inzake de structuur en organisatie van het Ministerie van Alles</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De Volkvergadering heeft beslist:</em></p>
+      <hr />
+      <h3 id="wetsvoorstellen/structuur-ministerie-van-alles/:i-de-substituten-en-ambtenaren"><span
+          class="pdf-order">4.6.1 </span>I. De Substituten en Ambtenaren</h3>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-1-goedgekeurd-op-508">Art. 1 <em>Goedgekeurd op
+          5/08</em></h4>
+      <p>De Minister van Alles mag Substituten aanstellen om een departement te leiden binnen het Ministerie.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-2-goedgekeurd-op-508">Art. 2 <em>Goedgekeurd op
+          5/08</em></h4>
+      <p>De Minister van Alles en Substituten mogen ambtenaren aanstellen om niet-leidinggevende taken binnen één of
+        meerdere departementen op te nemen. Zij mogen enkel handelen op bevel van de Minister van Alles of hun
+        leidinggevende Substituut.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-3">Art. 3</h4>
+      <p>Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een aangestelde
+        Substituut benoemen tot het einde van de huidige parlementaire zitting op vraag van de Minister van Alles.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-4">Art. 4</h4>
+      <p>Een ambtenaar zal aangesteld worden door de Minister van Alles of de leidinggevende Substituut voor ten hoogste
+        de resterende periode in de huidige parlementaire zitting.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-5">Art. 5</h4>
+      <p>De aangestelde Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het
+        permanent of tijdelijk. Enkel de Volksvergadering kan benoemde Substituten permanent ontslaan.</p>
+      <h3 id="wetsvoorstellen/structuur-ministerie-van-alles/:ii-de-departementen"><span class="pdf-order">4.6.2
+        </span>II. De Departementen</h3>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-6-goedgekeurd-op-508">Art. 6 <em>Goedgekeurd op
+          5/08</em></h4>
+      <p>Departementen, niet genoemd in deze wet, kunnen maar worden opgericht bij wet.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-7-goedgekeurd-op-508">Art. 7 <em>Goedgekeurd op
+          5/08</em></h4>
+      <p>Departementen kunnen maar worden afgeschaft bij wet.</p>
+      <h4 id="wetsvoorstellen/structuur-ministerie-van-alles/:art-8">Art. 8</h4>
+      <p>Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:</p>
+      <ul>
+        <li>De Kanselarij van de Eerste Minister, verantwoordelijk voor de Eerste Minister</li>
+        <li>Departement Cultuur, Onderwijs en Activiteiten, verantwoordelijk voor het organiseren van (culturele)
+          activiteiten, vakanties en opleidingen</li>
+        <li>Departement Landsverdediging en Interne Veiligheid, verantwoordelijk voor het Staande Leger, de Militie en
+          de KGB</li>
+        <li>Departement Idioten ambeteren met onnodige procedures die te lang duren en te omslachtig zijn,
+          verantwoordelijk voor het inefficiënter maken van de overheidsprocedures</li>
+        <li>Departement Overheidsefficiëntie, verantwoordelijk voor het efficiënter maken van de overheidsprocedures
+        </li>
+        <li>Departement Financiën, Economie en Volksgezondheid, verantwoordelijk voor de algemene gezondheid van het
+          Volk</li>
+        <li>Departement Corruptie, verantwoordelijk voor het bevorderen van corruptie binnen de Vrijstaat.</li>
+        <li>Departement Anti-corruptie, verantwoordelijk voor het bestrijden van corruptie binnen de Vrijstaat.</li>
+      </ul>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/wetsvoorstellen/toevoegingen-stafwetbroek/"
+      id="wetsvoorstellen/toevoegingen-stafwetbroek/:">
+      <h2
+        id="wetsvoorstellen/toevoegingen-stafwetbroek/:wet-inzake-het-toevoegen-van-bijkomende-misdrijven-aan-het-stafwetbroek">
+        <span class="pdf-order">4.7 </span>Wet inzake het toevoegen van bijkomende misdrijven aan het stafwetbroek</h2>
+      <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+      <p><em>De Volkvergadering heeft beslist:</em></p>
+      <hr />
+      <p>Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Da was nie zo goe:</p>
+      <h5 id="wetsvoorstellen/toevoegingen-stafwetbroek/:art-1-griefing">Art. 1 Griefing</h5>
+      <p>Men zal worden veroordeeld tot griefing indien men een Idioot in een game onevenredig veel verlies laten lijden
+        of zijn voortgang tenietdoen.</p>
+      <h5 id="wetsvoorstellen/toevoegingen-stafwetbroek/:art-2-oneervol-gedrag">Art. 2 Oneervol gedrag</h5>
+      <p>Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:</p>
+      <ul>
+        <li>Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen.</li>
+        <li>Fraude tegenover de Vrijstaat of een andere Idioot.</li>
+        <li>Wreedheid tegenover een persoon.</li>
+        <li>Lafheid tegenover vijanden van de Vrijstaat.</li>
+        <li>Schandaleus gedrag.</li>
+        <li>Onrechtvaardigheid tegenover een Idioot.</li>
+        <li>Aanranding van de eerbaarheid of verkrachting van een persoon.</li>
+        <li>Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een
+          klacht door de benadeelde Idioot.</li>
+        <li>Graf- en lijkschennis.</li>
+        <li>Wetens en willens valse aangifte doen van een misdrijf.</li>
+      </ul>
+      <p>Volgend misdrijf wordt toegevoegd aan het Stafwetbroek als Fuck it lets ball:</p>
+      <h5 id="wetsvoorstellen/toevoegingen-stafwetbroek/:art-3-verbreking-van-de-openbare-trouw">Art. 3 Verbreking van
+        de Openbare Trouw</h5>
+      <p>Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met één of meerdere van volgende
+        handelingen stelt:</p>
+      <ul>
+        <li>Wetens en willens valse of onvolledige verklaringen afleggen onder ede.</li>
+        <li>Valsmunterij.</li>
+        <li>Namaak van 's Lands zegel.</li>
+        <li>Valsheid in geschrifte.</li>
+      </ul>
+      <hr />
+      <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+      <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+    </section>
+    <section class="md-typeset" data-url="/K5SXI43WN5XXE43UMVWGYZLO/IJ2XEZ3FOJWGS2TLEB3WK5DCN5SWW/"
+      id="K5SXI43WN5XXE43UMVWGYZLO/IJ2XEZ3FOJWGS2TLEB3WK5DCN5SWW/:">
+      <h2 id="K5SXI43WN5XXE43UMVWGYZLO/IJ2XEZ3FOJWGS2TLEB3WK5DCN5SWW/"><span class="pdf-order">4.8 </span>Burgerlijk
+        wetboek</h2>
+      <section class="md-typeset" data-url="/wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/"
+        id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:">
+        <h3 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:i-algemene-bepalingen"><span
+            class="pdf-order">4.8.1 </span>I. Algemene bepalingen</h3>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:art-1">Art. 1</h6>
+        <p>De wet is maar van toepassing vanaf ze gepubliceerd is.</p>
+        <h4 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:ia-de-procedure">Ia De Procedure</h4>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:art-2-goedgekeurd-op-508">Art. 2
+          <em>Goedgekeurd op 5/08</em></h6>
+        <p>De burgerlijke procedure zal als volgt verlopen:</p>
+        <ol>
+          <li>De neerlegging van de dagvaarding bij de Linker en de Griffier door de eisende partij. De Griffier bezorgt
+            de dagvaarding aan de verwerende partij.</li>
+          <li>De inleidende zitting. In deze zitting zal de Linker oordelen over de complexiteit van de zaak. Indien het
+            een eenvoudige zaak is zal de Linker ook direct een vonnis vellen.</li>
+          <li>Bij een complexe zaak hebben de eisende en verwerende partij twee weken de tijd, startende de dag na de
+            inleidende zitting, om schriftelijke conclusies te bezorgen aan de Linker.</li>
+          <li>Ten hoogste twee weken na het ontvangen van de laatste conclusie velt de Linker een vonnis.</li>
+        </ol>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:art-3">Art. 3</h6>
+        <p>Indien een partij ongewettigd afwezig is kan de Linker op vraag van de aanwezige partij een vonnis uitspreken
+          ten voordele van de aanwezige partij.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:art-4-goedgekeurd-op-508">Art. 4
+          <em>Goedgekeurd op 5/08</em></h6>
+        <p>Indien geen van beide partijen aanwezig is verwijst de Linker de zaak naar de rol en wordt de zaak niet meer
+          behandeld tot een partij hier specifiek om vraagt.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/I-Algemene-Bepalingen/:art-5-goedgekeurd-op-508">Art. 5
+          <em>Goedgekeurd op 5/08</em></h6>
+        <p>De dagvaarding zal ten minste bestaan uit:</p>
+        <ol>
+          <li>De dag, uur en plaats van de zitting. Deze wordt ingevuld door de Griffier in samenspraak met de Linker.
+          </li>
+          <li>De naam, voornaam en woonplaats van de eisende partij.</li>
+          <li>De naam, voornaam en woonplaats van de verwerende partij.</li>
+          <li>Het onderwerp en een korte samenvatting van de vordering.</li>
+        </ol>
+        <p>Om rechtsgeldig te zijn, moet de dagvaarding ondertekend zijn door de eisende partij.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/"
+        id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:">
+        <h3 id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:ii-de-nationaliteit"><span
+            class="pdf-order">4.8.2 </span>II. De Nationaliteit</h3>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:art-6">Art. 6</h6>
+        <p>De nationaliteit van Idioot zal verkregen worden door elk kind geboren uit een Idioot.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:art-7">Art. 7</h6>
+        <p>De nationaliteit van Idioot zal verkregen worden door elk kind geadopteerd door een Idioot op moment van de
+          officiële adoptie.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:art-8">Art. 8</h6>
+        <p>De nationaliteit van Idioot kan verkregen worden door elke vreemdeling die:</p>
+        <ol>
+          <li>Kennis heeft van ten minste één der landstalen.</li>
+          <li>Met onderscheiding een examen heeft afgelegd over de Grondwet en de wetten van de Vrijstaat.</li>
+          <li>Het slagen voor een medisch onderzoek bestaande uit ten minste een onderzoek van de gezichtsscherpte,
+            bovenste ledematen, onderste ledematen, kleurenzicht, gehoorscherpte, mentale en intellectuele capaciteit en
+            de emotionele en psychologische capaciteit.</li>
+          <li>Het slagen voor een fysieke proef bestaande uit een looptest en een hindernissparcours.</li>
+          <li>Een negatieve HIV test kan voorleggen.</li>
+        </ol>
+        <p>Het examen, medische en fysieke proef worden jaarlijks door het Ministerie van Alles georganiseerd indien
+          hiervoor inschrijvingen zijn.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/II-De-Nationaliteit/:art-9-goedgekeurd-op-508">Art. 9 <em>Goedgekeurd
+            op 5/08</em></h6>
+        <p>Om deel uit te maken van één der Kamers is de nationaliteit van Idioot verplicht.</p>
+        <p>Bij inwerkstreding van dit wetboek verkrijgen alle huidige leden van beide Kamers de nationaliteit van
+          Idioot.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/burgerlijk-wetboek/III-Pensioenen/"
+        id="wetsvoorstellen/burgerlijk-wetboek/III-Pensioenen/:">
+        <h3 id="wetsvoorstellen/burgerlijk-wetboek/III-Pensioenen/:iii-pensioenen"><span class="pdf-order">4.8.3
+          </span>III. Pensioenen</h3>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/III-Pensioenen/:art-10">Art. 10</h6>
+        <p>De wettelijke pensioenleeftijd is vastgelegd op 60 jaar, 2 maanden en 1 dag.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/III-Pensioenen/:art-11-goedgekeurd-op-508">Art. 11 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>De Vrijstaat zal geen enkel geldelijk voordeel verschaffen aan pensioengerechtigde Idioten.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/"
+        id="wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/:">
+        <h3 id="wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/:iv-precedent-en-tradities"><span
+            class="pdf-order">4.8.4 </span>IV. Precedent en Tradities</h3>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/:art-12">Art. 12</h6>
+        <p>De Linker zet het precedent door een verduidelijking toe te voegen aan een vonnis indien de wet te
+          onduidelijk is.</p>
+        <p>Een precedent mag enkel gezet worden voor wet die van toepassing is op de behandelde zaak.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/:art-13-goedgekeurd-op-508">Art. 13
+          <em>Goedgekeurd op 5/08</em></h6>
+        <p>Alle precedenten die de Linker in een vonnis maakt over de wet zijn maar van toepassing op toekomstige zaken
+          na goedkeuring door de Volksvergadering.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/IV.-Precedent-en-Tradities/:art-14">Art. 14</h6>
+        <p>Het Departement van Cultuur, Onderwijs en Activiteiten kunnen culturele tradities voorstellen die op elke
+          Idioot van toepassing zijn.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/"
+        id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:">
+        <h3 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:wet-inzake-het-aannemen-van-een-burgerlijk-wetboek">
+          <span class="pdf-order">4.8.5 </span>Wet inzake het aannemen van een Burgerlijk Wetboek</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:art-1">Art. 1</h6>
+        <p>Bijgevoegd document genaamd "I. Algemene bepalingen" in gebruik te nemen als titel 1 van het Burgerlijk
+          Wetboek.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:art-2">Art. 2</h6>
+        <p>Bijgevoegd document genaamd "II. De Nationaliteit" in gebruik te nemen als titel 2 van het Burgerlijk
+          Wetboek.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:art-3">Art. 3</h6>
+        <p>Bijgevoegd document genaamd "III. Pensioenen" in gebruik te nemen als titel 3 van het Burgerlijk Wetboek.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:art-4">Art. 4</h6>
+        <p>Bijgevoegd document genaamd "IV. Precedent en tradities" in gebruik te nemen als titel 4 van het Burgerlijk
+          Wetboek.</p>
+        <h6 id="wetsvoorstellen/burgerlijk-wetboek/wetsvoorstel/:art-5">Art. 5</h6>
+        <p>De afkorting van het Burgerlijk Wetboek zal "BuWe." zijn.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/K5SXI43WN5XXE43UMVWGYZLO/IZUW4YLOMNUWKZLMEB3WK5DCN5SWW/"
+      id="K5SXI43WN5XXE43UMVWGYZLO/IZUW4YLOMNUWKZLMEB3WK5DCN5SWW/:">
+      <h2 id="K5SXI43WN5XXE43UMVWGYZLO/IZUW4YLOMNUWKZLMEB3WK5DCN5SWW/"><span class="pdf-order">4.9 </span>Financieel
+        wetboek</h2>
+      <section class="md-typeset" data-url="/wetsvoorstellen/financieel-wetboek/I-Algemene-Bepalingen/"
+        id="wetsvoorstellen/financieel-wetboek/I-Algemene-Bepalingen/:">
+        <h3 id="wetsvoorstellen/financieel-wetboek/I-Algemene-Bepalingen/:i-algemene-bepalingen"><span
+            class="pdf-order">4.9.1 </span>I. Algemene bepalingen</h3>
+        <h6 id="wetsvoorstellen/financieel-wetboek/I-Algemene-Bepalingen/:art-1">Art. 1</h6>
+        <p>De Regering stelt elke zitting een begroting op met alle kosten en inkomsten die ze die zitting denkt te
+          maken.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/financieel-wetboek/II-Heffingen/"
+        id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:">
+        <h3 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:ii-heffingen"><span class="pdf-order">4.9.2 </span>II.
+          Heffingen</h3>
+        <h4 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:iia-administratieve-heffingen">IIa. Administratieve
+          heffingen</h4>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-1">Art. 1</h6>
+        <p>Een administratieve heffing wordt geheven op elke geldelijke straf of schadevergoeding uitgesproken door de
+          Linker.</p>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-2">Art. 2</h6>
+        <p>Een administratieve heffing mag ten hoogste 10% zijn van het verschuldigde bedrag.</p>
+        <h4 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:iib-vrijwillige-heffingen">IIb. Vrijwillige heffingen
+        </h4>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-3">Art. 3</h6>
+        <p>Indien het Ministerie van Alles ambtshalve een aankoop moet doen voor de Vrijstaat kan deze, indien de
+          aankoop niet volledig gedekt is door de nog openstaande administratieve heffingen, een Aanvraag tot intekening
+          op een Vrijwillige Heffing uitschrijven.</p>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-3bis">Art. 3bis</h6>
+        <p>Een Aanvraag tot intekening op een Vrijwillige Heffing zal ten minste bestaan uit:</p>
+        <ul>
+          <li>Het overblijvende aankoopbedrag na aftrek van de nog openstaande administratieve heffingen.</li>
+          <li>Een korte beschrijving van de aankoop.</li>
+          <li>De verdeelsleutel tussen de inschrijvers, standaard zal deze <span class="arithmatex">\(1/\#
+              inschrijvers\)</span> zijn</li>
+          <li>Indien het aankoopbedrag boven de 50 Eurodeals wordt geschat, een vergelijking tussen ten minste drie
+            leveranciers. De beste leverancier wordt gekozen door een objectief punten systeem. Standaard zal dit
+            gebaseerd zijn op de laagste kostprijs.</li>
+        </ul>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-4">Art. 4</h6>
+        <p>Elke Idioot zal de Aanvraag tot intekening op een Vrijwillige Heffing ontvangen via fax, briefpost of per
+          postduif indien beschikbaar.</p>
+        <h6 id="wetsvoorstellen/financieel-wetboek/II-Heffingen/:art-5">Art. 5</h6>
+        <p>Elke Idioot zal na ontvangst van de Aanvraag tot intekening op een Vrijwillige Heffing een antwoord sturen
+          per fax of briefpost met daarin:</p>
+        <ul>
+          <li>De volgnummer van de heffing</li>
+          <li>Het antwoord van de Idioot, dit kan <em>ja</em> of <em>nee</em> zijn.</li>
+        </ul>
+        <p>Indien niet aan bovenstaand formaat is voldaan is het antwoord niet geldig. Antwoorden op verschillende
+          Aanvragen tot intekening op een Vrijwillige Heffing mogen op hetzelfde blad geschreven worden zolang het
+          dossiernummer duidelijk is voor elke <em>ja</em> of <em>nee</em>.</p>
+        <p>Indien het Ministerie van Alles geen geldig antwoord heeft ontvangen van een Idioot per fax of briefpost vier
+          weken na het versturen van de Aanvraag tot intekening op een Vrijwillige Heffing zal de Idioot aanzien worden
+          als ingeschreven op de heffing.</p>
+      </section>
+    </section>
+    <section class="md-typeset" data-url="/K5SXI43WN5XXE43UMVWGYZLO/KN2GCZTXMV2GE4TPMVVQ/"
+      id="K5SXI43WN5XXE43UMVWGYZLO/KN2GCZTXMV2GE4TPMVVQ/:">
+      <h2 id="K5SXI43WN5XXE43UMVWGYZLO/KN2GCZTXMV2GE4TPMVVQ/"><span class="pdf-order">4.10 </span>Stafwetbroek</h2>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/"
+        id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:i-algemene-bepalingen"><span
+            class="pdf-order">4.10.1 </span>I. Algemene bepalingen</h3>
+        <h4 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:ia-beginselen">Ia. Beginselen</h4>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-1-goedgekeurd-op-508">Art. 1 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Niemand kan worden gestraft voor een misdrijf niet in de wet omschreven.</p>
+        <p>Niemand kan worden gestraft met een straf waarin de wet niet voorziet.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-2-goedgekeurd-op-508">Art. 2 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Niemand kan worden bestraft voor een handelen of nalaten dat niet bij wet strafbaar was ten tijde van dat
+          handelen of nalaten.</p>
+        <p>In geval van wijziging van de strafwet na het plegen van het misdrijf gelden de voor de dader meest gunstige
+          bepalingen.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-3-goedgekeurd-op-508">Art. 3 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Het misdrijf, op het grondgebied door Idioten of vreemdelingen gepleegd, wordt bestraft overeenkomstig de
+          bepalingen van de wetten.</p>
+        <p>Het misdrijf, buiten het het grondgebied door Idioten of vreemdelingen gepleegd, wordt in de Vrijstaat niet
+          bestraft, behoudens in de bij wet bepaalde gevallen.</p>
+        <p>Het misdrijf is op het grondgebied van de Natie gepleegd wanneer een van de constitutieve of verzwarende
+          bestanddelen ervan materieel op dat grondgebied heeft plaatsgevonden.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-4-goedgekeurd-op-508">Art. 4 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>De strafwet moet worden geïnterpreteerd volgens de precedenten gezet door de Linker in vorige vonissen.</p>
+        <p>De strafwet kan worden toegepast op feiten die de wetgever volstrekt onmogelijk kon voorzien ten tijde van
+          haar afkondiging. De Linker zet hierbij het precedent voor de bestraffing.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-5-goedgekeurd-op-508">Art. 5 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Niemand is strafrechtelijk verantwoordelijk dan voor zijn eigen gedragingen.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-6-goedgekeurd-op-508">Art. 6 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Iedere persoon wordt geacht onschuldig te zijn tot zijn schuld in rechte bewezen is.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-7">Art. 7</h6>
+        <p>De Volksvergadering heeft het exclusieve recht om gratie te verlenen aan een veroordeelde en zo de resterende
+          straf kwijt te schelden.</p>
+        <p>Gratie wordt gegeven met een motie met een unanieme meerderheid.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-8-goedgekeurd-op-508">Art. 8 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Poging tot misdrijf is strafbaar indien het misdrijf mislukte wegens omstandigheden buiten de wil van de
+          dader.
+          Medeplichtigheid wordt gestraft met een mindere straf dan de hoofdverantwoordelijke.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-9-goedgekeurd-op-508">Art. 9 <em>Goedgekeurd op
+            5/08</em></h6>
+        <p>Iedere verdachte heeft recht op een eerlijk, onafhankelijk en openbaar proces binnen een redelijke termijn.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-10-goedgekeurd-op-508">Art. 10 <em>Goedgekeurd
+            op 5/08</em></h6>
+        <p>Iedere verdachte heeft recht op een advocaat vanaf het eerste verhoor.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-11-goedgekeurd-op-508">Art. 11 <em>Goedgekeurd
+            op 5/08</em></h6>
+        <p>Iedere verdachte heeft recht op informatie over de hem verweten feiten.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-12-goedgekeurd-op-508">Art. 12 <em>Goedgekeurd
+            op 5/08</em></h6>
+        <p>Misdrijven worden opgedeeld in drie graden namelijk:</p>
+        <ol>
+          <li>Fuck it lets balls</li>
+          <li>Da was nie zo goes</li>
+          <li>Oepsie Poepsies</li>
+        </ol>
+        <h4 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:ib-straffen">Ib. Straffen</h4>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-13">Art. 13</h6>
+        <p>Indien een Idioot veroordeeld wordt tot meerdere straffen zullen deze, uitgezonderd de geldboete, na elkaar
+          worden uitgezeten. De geldboete wordt genoteerd direct bij het uitspreken van het vonnis.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-14-goedgekeurd-op-1208">Art. 14 <em>Goedgekeurd
+            op 12/08</em></h6>
+        <p>De Linker kan een straf met uitstel geven indien er verzachtende omstandigheden zijn. De straf zal dan pas
+          uitgevoerd worden indien de veroordeelde éénzelfde of ander misdrijf pleegt van dezelfde of hogere graad.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-15-goedgekeurd-op-1208">Art. 15 <em>Goedgekeurd
+            op 12/08</em></h6>
+        <p>Een criminele of correctionele straf wordt aanzien als hoofdstraf. Indien een hoofdstraf wordt uitgesproken
+          kan ook een bijkomende straf opgelegd worden.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-16-goedgekeurd-op-1208">Art. 16 <em>Goedgekeurd
+            op 12/08</em></h6>
+        <p>Een Idioot die hetzelfde misdrijf meerdere malen begaat kan op vraag van de Procureur strenger gestraft
+          worden. </p>
+        <p>Voor een overtreding wordt het mogelijk een correctionele straf uit te spreken. Voor een wanbedrijf wordt het
+          mogelijk een criminele straf uit te spreken.
+          Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een bijkomende straf op te leggen.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-17-geldboete">Art. 17 Geldboete</h6>
+        <p>De veroordeelde zal een boete betalen tussen 1 en 50 Eurodeals. De geïnde boetes worden bijgehouden door de
+          Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van
+          de Volksvergadering.</p>
+        <p>10% van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van
+          de Vrijstaat te bevorderen.</p>
+        <p>Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.</p>
+        <p>Een geldboete boven de 10 Eurodeals wordt aanzien als een correctionele straf.
+          Een geldboete boven de 20 Eurodeals wordt aanzien als een criminele straf.</p>
+        <p>In het geval dat een hoofdstraf wordt opgelegd, kan de geldboete ook als bijkomende straf opgelegd worden.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-18-schadevergoeding">Art. 18 Schadevergoeding
+        </h6>
+        <p>De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.</p>
+        <p>10% van deze schadevergoeding zal als administratieve heffing worden afgehouden van het bedrag om het
+          functioneren van de Vrijstaat te bevorderen.</p>
+        <p>De schadevergoeding is een bijkomende straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-19-verbanning">Art. 19 Verbanning</h6>
+        <p>De veroordeelde mag enkel nog contact hebben met andere Idioten met pen en papier voor ten hoogste 5 jaar.
+        </p>
+        <p>Verbanning wordt aanzien als een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-20-werkstraf">Art. 20 Werkstraf</h6>
+        <p>De veroordeelde zal voor ten hoogste 5 uren werken ten goede van de burgerlijke partij.</p>
+        <p>De werkstraf wordt aanzien als een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-21-ontzetting-uit-de-rechten">Art. 21 Ontzetting
+          uit de rechten</h6>
+        <p>De veroordeelde verliest zijn grondwettelijke en alle andere bij wet vastgelegde rechten voor ten hoogste 5
+          jaar.</p>
+        <p>De ontzetting wordt aanzien als een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-22-gevangenisstraf">Art. 22 Gevangenisstraf</h6>
+        <p>De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in de
+          gevangenis van Kamp Fysica.
+          Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.</p>
+        <p>Een gevangenisstraf zal ten minste 1 dag en ten hoogste 30 dagen duren.</p>
+        <p>De gevangenisstraf is een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-23-dwangarbeid">Art. 23 Dwangarbeid</h6>
+        <p>De Idioot veroordeelt tot dwangarbeid zal voor ten minste 5 uren en maximaal 10 uren werken ten goede van de
+          Natie. Deze uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom
+          vragen.</p>
+        <p>Dwangarbeid wordt aanzien als een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-24-opsluiting">Art. 24 Opsluiting</h6>
+        <p>De veroordeelde zijn minecraft karakter zal worden opgesloten in een 1 bij 1 bij 2 blokken grote holte in de
+          gevangenis van Kamp Fysica.
+          Zijn spawn punt zal eveneens in zijn cel worden gezet voor de lengte van de straf.</p>
+        <p>Een opsluiting zal in normale omstandigheden ten hoogste 6 weken duren. De Linker kan bijkomend het weggooien
+          van de sleutel bevelen. De opsluiting wordt dan omgezet in een levenslange straf (voor de Idioot, niet zijn
+          karakter).</p>
+        <p>De opsluiting is een criminele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-25-zware-dwangarbeid">Art. 25 Zware dwangarbeid
+        </h6>
+        <p>De Idioot veroordeelt tot zware dwangarbeid zal voor ten minste 50 uren werken ten goede van de Natie. Deze
+          uren zullen door het Ministerie van Alles eerlijk verdeeld worden onder de Idioten die hierom vragen.</p>
+        <p>Zware dwangarbeid wordt aanzien als een criminele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-26-excommunicatie">Art. 26 Excommunicatie</h6>
+        <p>De veroordeelde mag, voor de rest van zijn leven, enkel nog contact hebben met andere Idioten via pen en
+          papier.</p>
+        <p>De excommunicatie wordt aanzien als een criminele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/I-Algemene-bepalingen/:art-27-burgerlijke-dood">Art. 27 Burgerlijke dood
+        </h6>
+        <p>De veroordeelde verliest, voor de rest van zijn leven, zijn grondwettelijke en alle andere bij wet
+          vastgelegde rechten.</p>
+        <p>De veroordeelde trakteert bovendien met een taart voor zijn begrafenis.</p>
+        <p>De burgerlijke dood wordt aanzien als een criminele straf.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/"
+        id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:ii-fuck-it-lets-balls"><span
+            class="pdf-order">4.10.2 </span>II. Fuck it lets balls</h3>
+        <h6 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:art-28">Art. 28</h6>
+        <p>Om een misdaad te begaan moet de beschuldigde met voorbedachte rade hebben gehandeld.
+          Anders zal het misdrijf als wanbedrijf berecht worden.</p>
+        <p>Verder zal een Volksjury van ten minste 3 Idioten beslissen of een Fuck it lets ball niet grappig genoeg is
+          om te berechten.
+          Zij stemmen met Hihihi of Hahaha indien zij het misdrijf grappig vinden en met Grrr als zij dit niet grappig
+          vinden.
+          Indien grappig bevonden door een simpele meerderheid van de leden van de Volksjury wordt de zaak geseponeerd.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:art-29-goedgekeurd-op-1208">Art. 29 <em>Goedgekeurd
+            op 12/08</em></h6>
+        <p>Een misdaad kan gestraft worden met een criminele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:art-30-hoogverraad">Art. 30 Hoogverraad</h6>
+        <p>Men zal veroordeeld worden voor hoogverraad indien aan één der volgende voorwaarden is voldaan.</p>
+        <p>§1 Het opzettelijk overtreden van de Grondwet.</p>
+        <p>§2 Het verkiezen van de levenspartner boven de leden van de Volksvergadering oftewel "Hoes before Bros".</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:art-31-sodomie">Art. 31 Sodomie</h6>
+        <p>Men zal veroordeeld worden voor sodomie indien aan één der volgende voorwaarden is voldaan.</p>
+        <p>§1 Seksuele relaties betrekken met de moeder, zuster of (ex-)partner van een andere Idioot zonder
+          voorafgaande schriftelijke toestemming van de betrokken Idioot. De enige straf die hiervoor kan opgelegd
+          worden is een geldboete.</p>
+        <p>§2 Seksuele relaties betrekken met een minderjarige. Voor deze misdaad dient de burgerlijke dood en de
+          excommunicatie uitgesproken te worden. Deze straf kan niet met uitstel worden uitgesproken.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/II-Fuck-it-lets-balls/:art-32-moord">Art. 32 Moord</h6>
+        <p>Men zal veroordeeld worden voor moord indien de beschuldigde een andere Idioot dood met voorbedachte rade.
+        </p>
+        <p>Deze misdaad wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden. Een
+          voorbeeld van games die wel het doel hebben om andere Idioten te doden zijn shooter games.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/"
+        id="wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/:iii-da-was-nie-zo-goes"><span
+            class="pdf-order">4.10.3 </span>III. Da was nie zo goes</h3>
+        <h6 id="wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/:art-33-goedgekeurd-op-1208">Art. 33 <em>Goedgekeurd
+            op 12/08</em></h6>
+        <p>Een wanbedrijf kan bestraft worden met een correctionele straf.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/:art-34-diefstal">Art. 34 Diefstal</h6>
+        <p>Men zal veroordeeld worden voor diefstal indien men objecten of diensten vervreemd van een andere Idioot
+          zonder diens voorafgaande toestemming.</p>
+        <p>Dit geldt ook in games.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/III-Da-was-nie-zo-goes/:art-35-doodslag">Art. 35 Doodslag</h6>
+        <p>Men zal veroordeeld worden voor doodslag indien men een andere Idioot dood, zei het opzettelijk of
+          onopzettelijk.</p>
+        <p>Dit wanbedrijf wordt ook aanzien als gepleegd in games die niet het doel hebben om andere Idioten te doden.
+          Een voorbeeld van games die wel het doel hebben om andere Idioten te doden zijn shooter games.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/IV-Oepsie-poepsies/"
+        id="wetsvoorstellen/stafwetbroek/IV-Oepsie-poepsies/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/IV-Oepsie-poepsies/:iv-oepsie-poepsies"><span class="pdf-order">4.10.4
+          </span>IV. Oepsie Poepsies</h3>
+        <h6 id="wetsvoorstellen/stafwetbroek/IV-Oepsie-poepsies/:art-36-goedgekeurd-op-1208">Art. 36 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Een overtreding zal bestraft worden met een geldboete van ten hoogste 10 Eurodeals.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/IV-Oepsie-poepsies/:art-37-te-laat-of-niet-aanwezig-zijn">Art. 37 Te laat
+          of niet aanwezig zijn</h6>
+        <p>Men zal worden veroordeeld voor te laat of niet aanwezig zijn, indien een idioot te laat zonder gegronde
+          reden of niet aanwezig is op eenderwelke vooraf afgesproken activiteit.</p>
+        <p>Men wordt aanzien als te laat indien de Idioot 15 minuten na het afgesproken uur arriveert.
+          De reden voor te laat komen of afwezigheid wordt beoordeeld op gegrondheid door de Linker tijdens de
+          hoorzitting.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/V-Strafvordering/"
+        id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:v-strafvordering"><span class="pdf-order">4.10.5
+          </span>V. Strafvordering</h3>
+        <h4 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:va-strafonderzoek">Va. Strafonderzoek</h4>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-38-goedgekeurd-op-1208">Art. 38 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Iedere persoon mag aangifte doen van een strafbaar feit bij het Ministerie van Alles.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-39-goedgekeurd-op-1208">Art. 39 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Het Ministerie van Alles is exclusief bevoegd tot het uitvoeren van het strafonderzoek. De Linker houdt
+          toezicht over het wettelijk verlopen van het onderzoek.</p>
+        <p>Bij een onderzoek naar de Linker kan de Minister van Alles vragen aan de Eerste Minister om het onderzoek
+          onder toezicht van de Voorzitter van de Volksvergadering te plaatsen.
+          Bij een onderzoek naar de Minister van Alles kan de Linker vragen aan de Eerste Minister om het onderzoek te
+          laten uitvoeren door de Linker. Het toezicht wordt hierbij gehouden door de Eerste Minister.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-40-goedgekeurd-op-1208">Art. 40 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Een onderzoek wordt opgestart zodra een strafbaar feit vermoed wordt, hetzij op klacht, hetzij ambtshalve.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-41-goedgekeurd-op-1208">Art. 41 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moet vooraf worden geïnformeerd
+          over zijn rechten.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-42-goedgekeurd-op-1208">Art. 42 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Een huiszoeking vereist voorafgaande toestemming van de Linker, tenzij er sprake is van flagrante delicten.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-43">Art. 43</h6>
+        <p>Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is strafbaar als Da was nie zo
+          goe.</p>
+        <h4 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:vb-vervolging">Vb Vervolging</h4>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-44-goedgekeurd-op-1208">Art. 44 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>De Procureur is belast met de vervolging van strafbare feiten en vertegenwoordigt de maatschappij bij de
+          Linker.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-45-goedgekeurd-op-1208">Art. 45 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>De Linker beoordeelt of vervolging opportuun is op basis van de akte van inbeschuldigingstelling opgesteld
+          door het Ministerie van Alles.
+          Hierbij wordt rekening gehouden met het maatschappelijk belang, de ernst van het feit en de persoon van de
+          verdachte.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-46-goedgekeurd-op-1208">Art. 46 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>De verdachte wordt door de Griffier opgeroepen met vermelding van het feit, plaats, datum van de zitting en
+          zijn rechten.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-47">Art. 47</h6>
+        <p>Het volledig strafdossier wordt minstens 1 dag vóór de zitting ter beschikking gesteld van de Linker, de
+          Procureur, de verdediging en de burgerlijke partij indien die er is.</p>
+        <h4 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:vc-strafproces">Vc. Strafproces</h4>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-48">Art. 48</h6>
+        <p>Voor het bestraffen van een Oepsie poepsie is geen hoorzitting of proces nodig. De Linker spreekt eigenhandig
+          een straf uit aan de hand van het bewijs.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-49-goedgekeurd-op-1208">Art. 49 <em>Goedgekeurd op
+            12/08</em></h6>
+        <p>Het proces voor een Da was nie zo goe zal als volgt verlopen:</p>
+        <ol>
+          <li>De overdracht van het dossier aan de Linker, de Procureur, de beklaagde, en indien aanwezig de burgerlijke
+            partij.</li>
+          <li>De voorlezing van de akte van inbeschuldigingstelling door de Griffier.</li>
+          <li>De ondervraging van de beklaagde door de Linker, de Procureur en de verdediging in die volgorde.</li>
+          <li>De ondervraging van de mogelijke getuigen door de Linker, de Procureur en de verdediging in die volgorde.
+          </li>
+          <li>Vordering van de burgerlijke partij indien die er is.</li>
+          <li>Strafvordering van de Procureur.</li>
+          <li>De verdediging van de beklaagde.</li>
+          <li>Uitspraak van het vonnis door de Linker.</li>
+        </ol>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-50">Art. 50</h6>
+        <p>Het proces voor een Fuck it lets ball of de processen bedoeld in artikelen 11 en 39 van de Grondwet zal als
+          volgt verlopen:</p>
+        <ol>
+          <li>De samenstelling van het Tribunaal. De twee bijzitters worden gekozen door de voorzitter van het
+            Tribunaal. Dit zal in alle gevallen de Linker zijn uitgezonderd diegene waar de Linker de beschuldigde is,
+            dan zal de Voorzitter van de Volksvergadering het Tribunaal voorzitten.</li>
+          <li>De overdracht van het dossier aan het Tribunaal, de Procureur, de beklaagde, en indien aanwezig de
+            burgerlijke partij.</li>
+          <li>De neerlegging van de lijst van getuigen bij de Griffier.</li>
+          <li>De voorlezing van de akte van inbeschuldigingstelling door de Griffier, indien van toepassing.</li>
+          <li>Het verhoor van de de beklaagde door de voorzitter van het Tribunaal.</li>
+          <li>De voorlezing van de lijst van getuigen van de Procureur, de burgerlijke partij en de verdediging door de
+            Griffier.</li>
+          <li>De eedaflegging van de getuigen.</li>
+          <li>Het verhoor van de mogelijke getuigen door de Procureur, de burgerlijke partij en de verdediging in die
+            volgorde.</li>
+          <li>Strafvordering van de Procureur.</li>
+          <li>Pleidooien van de burgerlijke partij.</li>
+          <li>Pleidooien van de verdediging.</li>
+          <li>Het laatste woord van de beklaagde.</li>
+          <li>De eventuele repliek van de Procureur, burgerlijke partij en opnieuw het laatste woord van de beklaagde.
+          </li>
+          <li>De beraadslaging van het Tribunaal over de schuldvraag en straftoemeting.</li>
+          <li>De voorlezing van het arrest door het Tribunaal.</li>
+        </ol>
+        <h6 id="wetsvoorstellen/stafwetbroek/V-Strafvordering/:art-51">Art. 51</h6>
+        <p>Een beklaagde kan ervoor kiezen om gerechtelijk tweegevecht aan te gaan met ofwel de burgerlijke partij ofwel
+          de Linker.</p>
+        <p>Indien de beklaagde het tweegevecht verliest zal hem de dubbele straf worden opgelegd dan die normaal
+          gebruikelijk is.
+          Indien de beklaagde het tweegevecht wint, zal hij worden vrijgesproken.</p>
+        <p>Een Idioot kan maximaal 1 keer per maand een gerechtelijk tweegevecht aanvragen.</p>
+        <p>Een lijst met mogelijke omstandigheden zal worden aangelegd. Hieruit wordt per gevecht een willekeurige
+          omstandigheid gekozen die gebruikt zal worden.</p>
+        <p>De uitgedaagde partij kunnen een kampioen kiezen om het tweegevecht te voeren nadat het omstandigheden zijn
+          bepaald.</p>
+      </section>
+      <section class="md-typeset" data-url="/wetsvoorstellen/stafwetbroek/Wetsvoorstel/"
+        id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:">
+        <h3 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:wet-inzake-het-aannemen-van-een-stafwetbroek"><span
+            class="pdf-order">4.10.6 </span>Wet inzake het aannemen van een stafwetbroek</h3>
+        <p><em>Aan alle idioten, die zijn of nog zullen komen, TABÉ.</em></p>
+        <p><em>De Volkvergadering heeft beslist:</em></p>
+        <hr />
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-1">Art. 1</h6>
+        <p>Bijgevoegd document genaamd "I. Algemene bepalingen" in gebruik te nemen als titel 1 van het Stafwetbroek.
+        </p>
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-2">Art. 2</h6>
+        <p>Bijgevoegd document genaamd "II. Misdaden" in gebruik te nemen als titel 2 van het Stafwetbroek.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-3">Art. 3</h6>
+        <p>Bijgevoegd document genaamd "III. Wanbedrijven" in gebruik te nemen als titel 3 van het Stafwetbroek.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-4">Art. 4</h6>
+        <p>Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 van het Stafwetbroek.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-5">Art. 5</h6>
+        <p>Bijgevoegd document genaamd "V. Strafvordering" in gebruik te nemen als titel 5 van het Stafwetbroek.</p>
+        <h6 id="wetsvoorstellen/stafwetbroek/Wetsvoorstel/:art-6">Art. 6</h6>
+        <p>De afkorting van het Stafwetbroek zal "Nggr." zijn.</p>
+        <hr />
+        <p><em>Buriku Eerste Minister Cianci Baklava Feta</em></p>
+        <p><em>Op den <code>&lt;Datum&gt;</code></em></p>
+      </section>
+    </section>
+  </article>
+</body>
+
+</html>

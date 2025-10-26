@@ -75,7 +75,7 @@ Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een b
 #### {article} Geldboete
 De veroordeelde zal een boete betalen tussen 1 en 50 Eurodeals. De geïnde boetes worden bijgehouden door de Ministerie van Alles en worden op het einde van de huidige parlementaire zitting genuttigd door de leden van de Volksvergadering.
 
-10 percent van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
+10% van deze boete zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
 
 Een Eurodeal wordt gedefinieerd als 1 hamburger van McDonalds zonder extras.
 
@@ -87,7 +87,7 @@ In het geval dat een hoofdstraf wordt opgelegd, kan de geldboete ook als bijkome
 #### {article} Schadevergoeding
 De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
 
-Er zal bovendien een administratieve heffing geïnt worden van 10% op het bedrag van de schadevergoeding die gebruikt zal worden voor het functioneren van de Natie. De heffing kan het vastgelegde maximum overstijgen.
+10% van deze schadevergoeding zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
 
 De schadevergoeding is een bijkomende straf.
 

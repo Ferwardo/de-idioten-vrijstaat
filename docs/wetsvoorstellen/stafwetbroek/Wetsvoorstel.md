@@ -1,5 +1,5 @@
 {reset-law-code}
-# Wet inzake het aannemen van een strafwetboek
+# Wet inzake het aannemen van een stafwetbroek
 
 _Aan alle idioten, die zijn of nog zullen komen, TABÉ._
 
@@ -8,22 +8,22 @@ _De Volkvergadering heeft beslist:_
 --------------------------
 
 #### {article}
-Bijgevoegd document genaamd "I. Algemene bepalingen" in gebruik te nemen als titel 1 van het Strafwetboek.
+Bijgevoegd document genaamd "I. Algemene bepalingen" in gebruik te nemen als titel 1 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "II. Misdaden" in gebruik te nemen als titel 2 van het Strafwetboek.
+Bijgevoegd document genaamd "II. Misdaden" in gebruik te nemen als titel 2 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "III. Wanbedrijven" in gebruik te nemen als titel 3 van het Strafwetboek.
+Bijgevoegd document genaamd "III. Wanbedrijven" in gebruik te nemen als titel 3 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 van het Strafwetboek.
+Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "V. Strafvordering" in gebruik te nemen als titel 5 van het Strafwetboek.
+Bijgevoegd document genaamd "V. Strafvordering" in gebruik te nemen als titel 5 van het Stafwetbroek.
 
 #### {article}
-De afkorting van het Strafwetboek zal "Nggr." zijn.
+De afkorting van het Stafwetbroek zal "Nggr." zijn.
 
 --------------------------
 

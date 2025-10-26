@@ -21,7 +21,7 @@ Het Ministerie van Alles mag een verdachte of getuige verhoren. De verdachte moe
 Een huiszoeking vereist voorafgaande toestemming van de Linker, tenzij er sprake is van flagrante delicten.
 
 #### {article}
-Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is strafbaar als wanbedrijf.
+Het lopend strafonderzoek is vertrouwelijk. Ongeautoriseerde openbaarmaking is strafbaar als Da was nie zo goe.
 
 ## Vb Vervolging
 

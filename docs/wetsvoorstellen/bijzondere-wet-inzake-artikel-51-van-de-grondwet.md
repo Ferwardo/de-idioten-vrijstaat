@@ -25,17 +25,15 @@ De mandaat pin en eretekens worden op de linkerborst gedragen.
 Naast een hemd dragen sommige mandaathouders en dignitarissen nog extra regalia met hun nationale klederdracht.
 
 De Voorzitter van de Volksvergadering en de Voorzitter van de Andere Volksvergadering dragen elk de Stok der Sprekers om het lid aan te duiden die op dat moment het woord heeft.
-De Stok zal bestaan uit een eikenhouten cilinder. De uiteinden zullen verstevigd worden met gouden (of goudkleurige), voor de Voorzitter van de Volksvergadering, of messing, voor de Voorzitter van de Andere Volksvergadering, hulsen. Het hout zelf is vernist.
+<!-- De Stok zal bestaan uit een eikenhouten cilinder. De uiteinden zullen verstevigd worden met gouden (of goudkleurige), voor de Voorzitter van de Volksvergadering, of messing, voor de Voorzitter van de Andere Volksvergadering, hulsen. Het hout zelf is vernist. -->
 
 De Linker draagt het Wetboek der Idioten op papier.
 
 De Eerste Minister en de Minister van Alles dragen een wandelstok.
-De wandelstok van de Eerste Minister zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-teschio/) of een equivalent zijn.
-De wandelstok van de Minister van Alles zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-liberty-vuoto/) of een equivalent zijn.
+<!-- De wandelstok van de Eerste Minister zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-teschio/) of een equivalent zijn.
+De wandelstok van de Minister van Alles zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-liberty-vuoto/) of een equivalent zijn. -->
 
-De Pontifex Maximus zal een eikenhouten kruisstaf dragen. De staf zal ten minste 10 cm langer zijn dan de Pontifex Maximus.
-
-De kosten voor de regalia zullen gedragen worden door de Vrijstaat, indien nodig door vrijwillige heffingen.
+De Pontifex Maximus zal een eikenhouten kruisstaf dragen.
 
 #### Art. 55 _Goedgekeurd op 5/08_
 De nationale feestdagen zullen 1 april en 11 september zijn.
