@@ -1,6 +1,6 @@
 # IV. Oepsie Poepsies
 
-#### {article}
+#### {article} _Goedgekeurd op 12/08_
 Een overtreding zal bestraft worden met een geldboete van ten hoogste 10 Eurodeals.
 
 #### {article} Te laat of niet aanwezig zijn
