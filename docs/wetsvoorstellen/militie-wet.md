@@ -20,7 +20,7 @@ De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepin
 Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering en bestaat voor nu uit:
 
 * Geweld tegenover een Idioot of hun naaste familie.
-* Ter bescherming van de eer van een Idioot of de naaste familie van een Idioot tegenover niet-Idioten.
+* Ter bescherming van de eer van een Idioot of de naaste familie van een Idioot tegenover vreemdelingen.
 * Ter bescherming van het Grondgebied. 
 
 Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
