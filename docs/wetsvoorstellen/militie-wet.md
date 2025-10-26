@@ -19,8 +19,8 @@ Iedere milicien zal aan dit rappel gehoor geven, gegeven dat de organisator reke
 De Minister van Alles zal een lijst opstellen van situaties waarbij het oproepingsbevel "Send dudes" kan gebruikt worden.
 Deze lijst zal bij elke wijziging gestemd worden in de Volksvergadering en bestaat voor nu uit:
 
-* Homofoob geweld tegenover een familielid verwant tot in de tweede verwantschapsgraad van een lid van de Volksvergadering.
-* Ter bescherming van de eer van een vrouwelijk familielied verwant tot in de tweede verwantschapsgraad van een lid van de Volksvergadering.
+* Geweld tegenover een Idioot of hun naaste familie.
+* Ter bescherming van de eer van een Idioot of de naaste familie van een Idioot tegenover vreemdelingen.
 * Ter bescherming van het Grondgebied. 
 
 Wanneer het oproepingsbevel gebruikt wordt zal de Militie opgeroepen worden zoals beschreven in de Grondwet.
