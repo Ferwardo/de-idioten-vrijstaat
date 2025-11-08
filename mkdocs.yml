@@ -38,7 +38,7 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        'index.md': 'Wetboek-der-Idioten/index.md'
+        'index.md': 'De-Idiotengrondwet-van-de-Vrijstaat.md'
   - to-pdf:
       cover: true
       cover_title: Het Wetboek der Idioten
