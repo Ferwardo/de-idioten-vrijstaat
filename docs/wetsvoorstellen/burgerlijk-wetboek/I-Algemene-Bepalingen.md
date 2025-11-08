@@ -30,3 +30,7 @@ De dagvaarding zal ten minste bestaan uit:
 4. Het onderwerp en een korte samenvatting van de vordering.
 
 Om rechtsgeldig te zijn, moet de dagvaarding ondertekend zijn door de eisende partij.
+
+#### {article}
+De Procureur treedt op als hoeder van de openbare orde en behartigt het algemeen belang van de maatschappij bij een burgerlijke vordering.
+Hij treedt hierbij op als amicus curiae en adviseert de Linker over de uitvoering van de wetten.
