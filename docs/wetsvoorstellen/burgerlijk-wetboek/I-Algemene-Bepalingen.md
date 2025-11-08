@@ -7,7 +7,7 @@ De wet is maar van toepassing vanaf ze gepubliceerd is.
 
 ## Ia De Procedure
 
-#### {article}
+#### {article} _Goedgekeurd op 5/08_
 De burgerlijke procedure zal als volgt verlopen:
 
 1. De neerlegging van de dagvaarding bij de Linker en de Griffier door de eisende partij. De Griffier bezorgt de dagvaarding aan de verwerende partij.
@@ -18,10 +18,10 @@ De burgerlijke procedure zal als volgt verlopen:
 #### {article}
 Indien een partij ongewettigd afwezig is kan de Linker op vraag van de aanwezige partij een vonnis uitspreken ten voordele van de aanwezige partij.
 
-#### {article}
+#### {article} _Goedgekeurd op 5/08_
 Indien geen van beide partijen aanwezig is verwijst de Linker de zaak naar de rol en wordt de zaak niet meer behandeld tot een partij hier specifiek om vraagt.
 
-#### {article}
+#### {article} _Goedgekeurd op 5/08_
 De dagvaarding zal ten minste bestaan uit:
 
 1. De dag, uur en plaats van de zitting. Deze wordt ingevuld door de Griffier in samenspraak met de Linker.
