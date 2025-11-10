@@ -85,7 +85,7 @@ Een geldboete boven de 20 Eurodeals wordt aanzien als een criminele straf.
 In het geval dat een hoofdstraf wordt opgelegd, kan de geldboete ook als bijkomende straf opgelegd worden.
 
 #### {article} Schadevergoeding
-De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 100 Eurodeals.
+De veroordeelde zal een schadevergoeding betalen aan de burgerlijke partij van ten hoogste 25 Eurodeals.
 
 10% van deze schadevergoeding zal als administratieve heffing worden afgehouden van het bedrag om het functioneren van de Vrijstaat te bevorderen.
 
