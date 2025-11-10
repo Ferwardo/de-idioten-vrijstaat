@@ -11,13 +11,13 @@ _De Volkvergadering heeft beslist:_
 Bijgevoegd document genaamd "I. Algemene bepalingen" in gebruik te nemen als titel 1 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "II. Misdaden" in gebruik te nemen als titel 2 van het Stafwetbroek.
+Bijgevoegd document genaamd "II. Fuck it lets balls" in gebruik te nemen als titel 2 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "III. Wanbedrijven" in gebruik te nemen als titel 3 van het Stafwetbroek.
+Bijgevoegd document genaamd "III. Da was nie zo goes" in gebruik te nemen als titel 3 van het Stafwetbroek.
 
 #### {article}
-Bijgevoegd document genaamd "IV. Overtredingen" in gebruik te nemen als titel 4 van het Stafwetbroek.
+Bijgevoegd document genaamd "IV. oepsie poepsieen" in gebruik te nemen als titel 4 van het Stafwetbroek.
 
 #### {article}
 Bijgevoegd document genaamd "V. Strafvordering" in gebruik te nemen als titel 5 van het Stafwetbroek.

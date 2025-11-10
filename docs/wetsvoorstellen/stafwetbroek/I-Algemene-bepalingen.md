@@ -69,7 +69,7 @@ Een criminele of correctionele straf wordt aanzien als hoofdstraf. Indien een ho
 #### {article} _Goedgekeurd op 12/08_
 Een Idioot die hetzelfde misdrijf meerdere malen begaat kan op vraag van de Procureur strenger gestraft worden. 
 
-Voor een overtreding wordt het mogelijk een correctionele straf uit te spreken. Voor een wanbedrijf wordt het mogelijk een criminele straf uit te spreken.
+Voor een oepsie poepsie wordt het mogelijk een correctionele straf uit te spreken. Voor een da was nie zo goe wordt het mogelijk een criminele straf uit te spreken.
 Indien een hoofdstraf wordt uitgesproken zal het ook hier mogelijk zijn om een bijkomende straf op te leggen.
 
 #### {article} Geldboete
