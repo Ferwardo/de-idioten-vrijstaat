@@ -5,7 +5,7 @@ De Linker zet het precedent door een verduidelijking toe te voegen aan een vonni
 
 Een precedent mag enkel gezet worden voor wet die van toepassing is op de behandelde zaak.
 
-#### {article} _Goedgekeurd op 5/08_
+#### {article}
 Alle precedenten die de Linker in een vonnis maakt over de wet zijn maar van toepassing op toekomstige zaken na goedkeuring door de Volksvergadering.
 
 #### {article}

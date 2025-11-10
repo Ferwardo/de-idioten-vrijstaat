@@ -1,7 +1,7 @@
 import re
 
 
-DEBUG = False
+DEBUG = True
 
 LAW_CODES = {}
 

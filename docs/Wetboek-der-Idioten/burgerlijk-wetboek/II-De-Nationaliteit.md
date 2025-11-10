@@ -17,7 +17,7 @@ De nationaliteit van Idioot kan verkregen worden door elke vreemdeling die:
 
 Het examen, medische en fysieke proef worden jaarlijks door het Ministerie van Alles georganiseerd indien hiervoor inschrijvingen zijn.
 
-#### {article} _Goedgekeurd op 5/08_
+#### {article}
 Om deel uit te maken van één der Kamers is de nationaliteit van Idioot verplicht.
 
 Bij inwerkstreding van dit wetboek verkrijgen alle huidige leden van beide Kamers de nationaliteit van Idioot.

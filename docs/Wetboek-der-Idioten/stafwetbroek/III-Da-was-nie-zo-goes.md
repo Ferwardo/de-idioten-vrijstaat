@@ -1,6 +1,6 @@
 # III. Da was nie zo goes
 
-#### {article} _Goedgekeurd op 12/08_
+#### {article}
 Een da was nie zo goe kan bestraft worden met een correctionele straf.
 
 #### {article} Diefstal

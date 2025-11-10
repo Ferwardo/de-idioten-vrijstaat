@@ -41,4 +41,4 @@ Deze wordt bij elke oproeping of rappel willekeurig gekozen uit de leden van de 
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den ``<Datum>``_
+_Op den 10de Augustus 2025_
