@@ -16,4 +16,4 @@ Indien de Idioot echter iedere week een nieuwe video doorstuurt waarop te zien i
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den ``<Datum>``_
+_Op den 10de Augustus 2025_

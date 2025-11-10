@@ -8,30 +8,30 @@ _De Volkvergadering heeft beslist:_
 
 ## I. De Substituten en Ambtenaren
 
-### {article} _Goedgekeurd op 5/08_
+#### {article}
 De Minister van Alles mag Substituten aanstellen om een departement te leiden binnen het Ministerie.
 
-### {article} _Goedgekeurd op 5/08_
+#### {article}
 De Minister van Alles en Substituten mogen ambtenaren aanstellen om niet-leidinggevende taken binnen één of meerdere departementen op te nemen. Zij mogen enkel handelen op bevel van de Minister van Alles of hun leidinggevende Substituut.
 
-### {article}
+#### {article}
 Een Substituut zal maar voor ten hoogste 3 maanden worden aangesteld. De Volksvergadering mag een aangestelde Substituut benoemen tot het einde van de huidige parlementaire zitting op vraag van de Minister van Alles.
 
-### {article}
+#### {article}
 Een ambtenaar zal aangesteld worden door de Minister van Alles of de leidinggevende Substituut voor ten hoogste de resterende periode in de huidige parlementaire zitting.
 
-### {article}
+#### {article}
 De aangestelde Substituten en ambtenaren kunnen uit hun ambt ontzet worden door de Minister van Alles, zij het permanent of tijdelijk. Enkel de Volksvergadering kan benoemde Substituten permanent ontslaan.
 
 ## II. De Departementen
 
-### {article} _Goedgekeurd op 5/08_
+#### {article}
 Departementen, niet genoemd in deze wet, kunnen maar worden opgericht bij wet.
 
-### {article} _Goedgekeurd op 5/08_
+#### {article}
 Departementen kunnen maar worden afgeschaft bij wet.
 
-### {article}
+#### {article}
 Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
 
 * De Kanselarij van de Eerste Minister, verantwoordelijk voor de Eerste Minister
@@ -47,4 +47,4 @@ Het Ministerie van Alles zal ten minste bestaan uit volgende Departementen:
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den ``<Datum>``_
+_Op den 10de Augustus 2025_

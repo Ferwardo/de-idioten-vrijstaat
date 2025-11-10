@@ -5,19 +5,19 @@ _De volledige Volkvergadering heeft unaniem en met één stem besloten:_
 --------------------------
 Als titel V van de Grondwet worden volgende artikelen aangenomen.
 
-#### Art. 51
+#### Art. 51 _Goedgekeurd op 10/11_
 Een groet voor, tijdens of juist na een fysieke vergadering zal een handdruk zijn met de linkerhand op even dagen en met de rechterhand op oneven dagen. De Linker groet altijd met de linkerhand.
 
 #### Art. 52  _Goedgekeurd op 5/08_
 Het Rijkswapen zal de Opposum met een cowboyhoed zijn. De kenspreuk zal "Be rootin, be tootin, and by god be shooting but most of all be kind" zijn.
 
 #### Art. 53
-Het Volkslied zal [The Coconut Song](https://www.youtube.com/watch?v=PKQPey6L42M) zijn. Indien een Idioot het Volkslied meezingt zal hij met een prei moeten zwaaien.
+Het Volkslied zal "Bij de Preikswacht" zijn. Dit lied zal geschreven worden door Buriku Luigi Mussolini. Indien een Idioot het Volkslied meezingt tijdens een nationale feestdag zal hij met een prei moeten zwaaien.
 
 #### Art. 54
 De nationale klederdracht zal ten minste bestaan uit een Hawaii hemd.
 
-De leden der kamers voegen 4 gulden kwastjes toe aan elke mouw van hun hemd.
+De leden der kamers voegen 4 gulden kwastjes toe aan elke mouw van hun hemd. Buriku de heer Snetjes koopt deze aan voor iedereen. Buriku Luigi Mussolini zal deze aan de hemden naaien.
 
 De mandaat pin en eretekens worden op de linkerborst gedragen.
 
@@ -29,14 +29,17 @@ De Voorzitter van de Volksvergadering en de Voorzitter van de Andere Volksvergad
 
 De Linker draagt het Wetboek der Idioten op papier.
 
-De Eerste Minister en de Minister van Alles dragen elk een wandelstok.
+De Eerste Minister en de Minister van Alles dragen elk een zak met knikkers omdat ze toch al met onze ballen spelen.
 <!-- De wandelstok van de Eerste Minister zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-teschio/) of een equivalent zijn.
 De wandelstok van de Minister van Alles zal [deze](https://shop.cavagnini.com/en/prodotto/bastone-da-passeggio-liberty-vuoto/) of een equivalent zijn. -->
 
-De Pontifex Maximus zal een eikenhouten kruisstaf dragen.
+De Pontifex Maximus zal een eikenhouten kruis rond zijn nek dragen. Hoe groter het kruis hoe heiliger de Pontifex Maximus zal zijn.
 
 #### Art. 55 _Goedgekeurd op 5/08_
 De nationale feestdagen zullen 1 april en 11 september zijn.
+
+#### Art. 56
+Het nationale gerecht zal preischotel zonder prei zijn.
 
 --------------------------
 
