@@ -1,4 +1,4 @@
-Op den 13den November 2025 is
+Op den 13den November 2025 heeft
 
 _Buriku de Eerste Minister Cianci Baklava Feta_
 
