@@ -2,7 +2,7 @@
 
 Op den 16den November 2025 heeft
 
-_Buriku Boereke Travers_
+_Buriku de Linker Luigi Mussolini_
 
 volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
