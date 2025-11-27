@@ -7,4 +7,4 @@ klacht neergelegd tegen _Buriku de Linker Jokari_
 
 voor _§2 Hoogverraad (Hoes before Bros)_
 
-en legde een screenshot van de P-Squad neer met zijn reden tot afwezigheid als bewijs hiervoor.
+en legde een screenshot van de P-Squad met zijn reden tot afwezigheid neer als bewijs hiervoor.
