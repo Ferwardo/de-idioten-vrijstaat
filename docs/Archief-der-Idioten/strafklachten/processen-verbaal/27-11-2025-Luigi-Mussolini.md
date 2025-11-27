@@ -1,6 +1,6 @@
 ## P.2025.13
 
-Op den 16den November 2025 heeft
+Op den 27sten November 2025 heeft
 
 _Buriku de Linker Luigi Mussolini_
 

@@ -1,6 +1,6 @@
 ## P.2025.11
 
-Op den 20sten November 2025 heeft
+Op den 27sten November 2025 heeft
 
 _Buriku Abu-Bakr-al-Baghdadhi_
 
