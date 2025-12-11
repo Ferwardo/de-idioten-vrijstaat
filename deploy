@@ -8,14 +8,14 @@ fi
 
 gitbranch=$(git branch --show-current)
 
-git add .
-git commit -m "$1"
 
 if [[ "$gitbranch" == "main" ]]
 then
     echo "deploying to published track"
     mike deploy published
 else
+    git add .
+    git commit -m "$1"
     echo "deploying to $gitbranch track"
     mike deploy $gitbranch
     git push
