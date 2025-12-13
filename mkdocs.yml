@@ -1,4 +1,5 @@
 site_name: Het Wetboek der Idioten
+site_url: https://ferwardo.github.io/de-idioten-vrijstaat/
 extra_css:
   - css/style.css
 extra_javascript:
