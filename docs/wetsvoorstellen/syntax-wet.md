@@ -11,4 +11,4 @@ Idioten kunnen wetsvoorstellen indienen bij de Secretaris in de vorm van een Mes
 
 _Buriku Eerste Minister Cianci Baklava Feta_
 
-_Op den <Datum>_
+_Op den ``<Datum>``_

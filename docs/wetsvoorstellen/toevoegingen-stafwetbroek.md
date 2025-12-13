@@ -6,10 +6,7 @@ _De Volkvergadering heeft beslist:_
 
 --------------------------
 
-Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Da was nie zo goe:
-
-#### {article} Griefing
-Men zal worden veroordeeld tot griefing indien men een Idioot in een game onevenredig veel verlies laten lijden of zijn voortgang tenietdoen.
+Volgend misdrijf wordt toegevoegd aan het Stafwetbroek als Da was nie zo goe:
 
 #### {article} Oneervol gedrag
 Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:
