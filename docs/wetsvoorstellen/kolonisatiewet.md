@@ -19,7 +19,7 @@ De Substituut aan het hoofd van het Departement der Koloniën wordt de Proconsul
 #### {article}
 Een Kolonie wordt opgericht volgens de procedure beschreven artikel 5 van de wet van 10 december 2025 inzake de definiëring en bestuur van het Grondgebied.
 
-Om een Kreits als Kolonie op te richten moet er een proconsul worden aangesteld. Hiernaast zal de Minister van Alles of de Proconsul-Generaal de oprichtingswet ondertekenen met het woord "G E K O L O N I S E E R D".
+Om een Kreits als Kolonie op te richten moet er een proconsul worden benoemd. Hiernaast zal de Minister van Alles of de Proconsul-Generaal de oprichtingswet ondertekenen met het woord "G E K O L O N I S E E R D".
 
 #### {article}
 De Idioten waarvoor de Volksvergadering een nieuwe Kreits als Kolonie sticht, kiezen de naam van de Kolonie.
