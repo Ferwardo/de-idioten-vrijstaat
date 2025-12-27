@@ -5,7 +5,7 @@ Nummer: _F2025.1_
 Aan de Voorzitter van de Volksvergadering, TABÉ.
 
 ## Beklaagde
-Naam: _Buriku de Linker Jokari_
+Naam: _Buriku de Linker Luigi Mussolini_
 
 Adres: _Molenvest 74, 2200 Herentals_
 
