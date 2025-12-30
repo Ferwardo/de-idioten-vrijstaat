@@ -161,7 +161,7 @@ Nooddecreten kunnen enkel door de Kamers worden verlengd. Ofwel per normale verg
 Nooddecreten zijn geldig tot het begin van de tweede volgende zitting na hun uitroeping, waarop ze aan het begin van de zitting door de Voorzitter worden vernietigd. 
 
 #### {article-quater}
-Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering bijeengeroepen worden om het decreet te vernietigen bij normale 2/3de meerderheid. Deze stemming telt eveneens als een motie van wanvertrouwen, die indien aangenomen leidt tot de procedure zoals beschreven in Art. 10. 
+Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering bijeengeroepen worden om het decreet te vernietigen bij normale 2/3de meerderheid. Deze stemming telt eveneens als een motie van wanvertrouwen, die indien aangenomen leidt tot de procedure zoals beschreven in Art. 11. 
 
 ### IIc. De rechterlijke macht
 
