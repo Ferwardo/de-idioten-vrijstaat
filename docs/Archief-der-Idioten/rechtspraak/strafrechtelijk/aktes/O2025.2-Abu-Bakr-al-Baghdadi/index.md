@@ -13,8 +13,8 @@ Nationaliteit: _Idioot_
 
 ## Tenlastelegging
 
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog ervoor zorgen dat de hond moe was door met hem te spelen._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Bijscholing farmacie._
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog ervoor zorgen dat de hond moe was door met hem te spelen._ __Veroordeeld__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Bijscholing farmacie._ __Geseponeerd__
 
 ## Lijst van Bewijselementen
 

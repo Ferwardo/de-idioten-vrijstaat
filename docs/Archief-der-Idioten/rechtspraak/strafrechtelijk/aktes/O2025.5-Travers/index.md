@@ -13,9 +13,8 @@ Nationaliteit: _Idioot_
 
 ## Tenlastelegging
 
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog gaan lopen._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog alles opruimen voor hij van zijn kot in Leuven kon vertrekken._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Zijn eten was te laat._
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog gaan lopen._ __Veroordeeld__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog alles opruimen voor hij van zijn kot in Leuven kon vertrekken._ __Doorverwezen naar het Hof voor een hoorzitting__
 
 ## Lijst van Bewijselementen
 
@@ -23,7 +22,6 @@ Volgende processen-verbaal:
 
 * P.2025.5
 * P.2025.7
-* P.2025.14
 
 ## Verzwarende en verzachtende omstandigheden
 
