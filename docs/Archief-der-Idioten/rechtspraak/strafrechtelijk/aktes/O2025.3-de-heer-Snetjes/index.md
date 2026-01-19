@@ -13,7 +13,7 @@ Nationaliteit: _Idioot_
 
 ## Tenlastelegging
 
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog met de hond gaan wandelen na laat te eten ten gevolge van eten te gaan kopen voor het diner van zaterdag (15/11)._
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij moest nog met de hond gaan wandelen na laat te eten ten gevolge van eten te gaan kopen voor het diner van zaterdag (15/11)._ __Geseponeerd__
 
 ## Lijst van Bewijselementen
 
