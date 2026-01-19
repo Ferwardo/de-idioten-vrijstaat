@@ -8,6 +8,6 @@ volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
 
-Reden van te laat komen: Geen
+Reden van te laat komen: Zijn vriendin was te laat
 
 Aankomsttijd: 17:30

@@ -1,6 +1,6 @@
-## P.2025.19
+## P.2026.1
 
-Op den 11den December 2025 heeft
+Op den 15den Januari 2026 heeft
 
 _Buriku de Linker Luigi Mussolini_
 
@@ -8,6 +8,6 @@ volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
 
-Reden van te laat komen: Hij was bij een voetbal match van zijn vriendin.
+Reden van te laat komen: Uithuiszetting
 
 Aankomsttijd: Niet aanwezig
