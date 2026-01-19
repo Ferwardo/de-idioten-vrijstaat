@@ -1,12 +1,13 @@
-## P.2025.18
+## P.2025.16
 
 Op den 11den December 2025 heeft
 
-_Buriku de Voorzitter Jokari_
+_Buriku de Linker Luigi Mussolini_
 
 volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
-Reden van te laat komen: Geen (waarschijnlijk werk)
+
+Reden van te laat komen: Hij was bij een voetbal match van zijn vriendin.
 
 Aankomsttijd: Niet aanwezig
