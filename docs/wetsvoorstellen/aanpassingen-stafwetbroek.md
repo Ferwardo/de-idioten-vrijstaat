@@ -42,20 +42,6 @@ _De Linker zal een antwoord geven aan een akte van inbeschuldigingsstelling binn
 
 _Indien de Linker dit niet doet zal hij voor elke te laat beantwoorde akte een boete van twee Eurodeals moeten betalen._
 
-#### {article}
-Artikel 37 zal vanaf nu lezen:
-
-##### _Art. 38 Te laat of niet aanwezig zijn_
-_Men zal worden veroordeeld voor te laat of niet aanwezig zijn, indien een idioot te laat zonder gegronde reden of niet aanwezig is op eenderwelke vooraf afgesproken activiteit._
-
-_Men wordt aanzien als te laat indien de Idioot 15 minuten na het afgesproken uur arriveert. De reden voor te laat komen of afwezigheid wordt beoordeeld op gegrondheid door de Linker tijdens de hoorzitting. De volgende redenen zijn vooraf al aanzien als gewettigd en zullen niet lijden tot een vervolging:_
-
-* _Werk of school_
-* _Examens_
-* _Medische overmacht van de Idioot of zijn familie_
-* _Familiebijeenkomsten_
-* _Dates_
-
 --------------------------
 
 _Buriku Eerste Minister Cianci Baklava Feta_
