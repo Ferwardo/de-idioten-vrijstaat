@@ -13,10 +13,10 @@ Nationaliteit: _Idioot_
 
 ## Tenlastelegging
 
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen internet._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Werk._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Werk._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen (waarschijnlijk werk)._
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen internet._ __Geseponeerd__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Werk._ __Geseponeerd__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Werk._ __Geseponeerd__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen (waarschijnlijk werk)._ __Geseponeerd__
 
 ## Lijst van Bewijselementen
 
