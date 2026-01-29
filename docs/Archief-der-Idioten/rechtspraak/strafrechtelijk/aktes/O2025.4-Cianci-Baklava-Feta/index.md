@@ -13,9 +13,9 @@ Nationaliteit: _Idioot_
 
 ## Tenlastelegging
 
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen PC terwijl hij in België was._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen internet._
-1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij was nog aan het eten._
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen PC terwijl hij in België was._ __Geseponeerd__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Geen internet._ __Geseponeerd__
+1. Te laat of niet aanwezig zijn volgens art. 37 Nggr met als reden: _Hij was nog aan het eten._ __Veroordeeld__
 
 ## Lijst van Bewijselementen
 
@@ -23,7 +23,7 @@ Volgende processen-verbaal:
 
 * P.2025.2
 * P.2025.9
-* P.2025.15
+* P.2025.14
 
 ## Verzwarende en verzachtende omstandigheden
 

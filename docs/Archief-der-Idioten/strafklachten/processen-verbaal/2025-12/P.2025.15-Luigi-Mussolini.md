@@ -2,11 +2,12 @@
 
 Op den 4den December 2025 heeft
 
-_Buriku de Eerste Minister Cianci Baklava Feta_
+_Buriku de Linker Luigi Mussolini_
 
 volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
-Reden van te laat komen: Hij was nog aan het eten.
 
-Aankomsttijd: 20:39
+Reden van te laat komen: Geen
+
+Aankomsttijd: 17:30

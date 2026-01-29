@@ -1,12 +1,12 @@
-## P.2025.9
+## P.2025.14
 
-Op den 20sten November 2025 heeft
+Op den 4den December 2025 heeft
 
 _Buriku de Eerste Minister Cianci Baklava Feta_
 
 volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
-Reden van te laat komen: Geen internet
+Reden van te laat komen: Hij was nog aan het eten.
 
-Aankomsttijd: Niet aanwezig
+Aankomsttijd: 20:39

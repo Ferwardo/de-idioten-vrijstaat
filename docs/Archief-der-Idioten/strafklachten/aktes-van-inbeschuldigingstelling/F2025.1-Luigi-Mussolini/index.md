@@ -28,4 +28,4 @@ Gezien het voorgaande verzoeken wij over te gaan tot verwijzing van de zaak tege
 
 De Minister van Alles
 
-Opgemaakt te _Olen_ op den _<Datum>_
+Opgemaakt te _Olen_ op den _8sten Januari 2025_

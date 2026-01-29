@@ -1,12 +1,12 @@
-## P.2025.10
+## P.2026.06
 
-Op den 20sten November 2025 heeft
+Op den 17den Januari 2026 heeft
 
-_Buriku de Voorzitter Jokari_
+_Minco de Busser_
 
 volgende overtreding begaan: _Te laat of niet aanwezig zijn (art. 37 Nggr)_
 
 __Notities:__
-Reden van te laat komen: Geen internet
+Reden van te laat komen: Werk
 
 Aankomsttijd: Niet aanwezig
