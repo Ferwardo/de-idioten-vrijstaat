@@ -14,7 +14,7 @@ Voor kolonisatie doeleinden kan de Volksvergadering een motie goedkeuren om de v
 Er wordt een Departement der Koloniën opgericht om de Koloniën te besturen en de oprichting van nieuwe Koloniën te bevorderen.
 
 #### {article-bis}
-De Substituut aan het hoofd van het Departement der Koloniën wordt de Proconsul-Generaal genoemd.
+De Substituut aan het hoofd van het Departement der Koloniën is de Proconsul-Generaal.
 
 #### {article}
 Een Kolonie wordt opgericht volgens de procedure beschreven artikel 5 van de wet van 10 december 2025 inzake de definiëring en bestuur van het Grondgebied.
