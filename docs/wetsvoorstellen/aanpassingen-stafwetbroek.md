@@ -34,14 +34,6 @@ _Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met 
 * _Namaak van 's Lands zegel._
 * _Valsheid in geschrifte._
 
-#### {article}
-Volgende artikels wordt toegevoegd aan het Boek V van het Stafwetbroek:
-
-##### _Art. 48bis_
-_De Linker zal een antwoord geven aan een akte van inbeschuldigingsstelling binnen de twee weken na ontvangst van de akte._
-
-_Indien de Linker dit niet doet zal hij voor elke te laat beantwoorde akte een boete van twee Eurodeals moeten betalen._
-
 --------------------------
 
 _Buriku Eerste Minister Cianci Baklava Feta_
