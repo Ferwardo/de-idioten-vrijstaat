@@ -7,7 +7,7 @@ Aan de Linker, TABÉ.
 ## Beklaagde
 Naam: _Buriku de Voorzitter Jokari_
 
-Adres: _Haverstraat 4, 2200 Herentals_
+Adres: _Groot-België_
 
 Nationaliteit: _Idioot_
 

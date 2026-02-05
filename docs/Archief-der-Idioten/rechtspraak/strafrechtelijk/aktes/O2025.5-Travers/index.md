@@ -7,7 +7,7 @@ Aan de Linker, TABÉ.
 ## Beklaagde
 Naam: _Buriku Boereke Travers_
 
-Adres: _Herenthoutseweg 141, 2200 Herentals_
+Adres: _Groot-België_
 
 Nationaliteit: _Idioot_
 

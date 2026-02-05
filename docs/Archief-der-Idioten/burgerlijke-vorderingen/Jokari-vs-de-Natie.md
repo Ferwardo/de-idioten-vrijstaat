@@ -1,8 +1,8 @@
 Op den 4de September in het jaar des Herens 2025 klaagt:
 
-_Jorne Raeymaekers_ woonachtig te _Xantenstraat 9, 2440 Geel_,
+_Jorne Raeymaekers_ woonachtig te _Groot-België_,
 
-_De Regering en Ferre Snyers_ woonachtig te _Gestelstraat 21, 2250 Olen_ aan voor:
+_De Regering en Ferre Snyers_ woonachtig te _Groot-België_ aan voor:
 
 __Het onwettig aanmaken van een strafblad__
 
