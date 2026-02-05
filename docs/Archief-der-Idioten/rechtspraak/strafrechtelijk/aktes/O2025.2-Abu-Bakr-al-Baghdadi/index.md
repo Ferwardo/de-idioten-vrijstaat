@@ -7,7 +7,7 @@ Aan de Linker, TABÉ.
 ## Beklaagde
 Naam: _Buriku de Pontifex Maximus Abu Bakr al Baghdadi_
 
-Adres: _Bloemenplein 2, 2200 Herentals_
+Adres: _Groot-België_
 
 Nationaliteit: _Idioot_
 
