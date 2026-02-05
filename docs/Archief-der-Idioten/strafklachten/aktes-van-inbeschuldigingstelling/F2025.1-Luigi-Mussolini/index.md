@@ -7,7 +7,7 @@ Aan de Voorzitter van de Volksvergadering, TABÉ.
 ## Beklaagde
 Naam: _Buriku de Linker Luigi Mussolini_
 
-Adres: _Molenvest 74, 2200 Herentals_
+Adres: _Groot-België_
 
 Nationaliteit: _Idioot_
 
