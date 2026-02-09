@@ -1,15 +1,19 @@
-# Wet inzake de regeling van het Hof en het Gerecht in het algemeen als toevoeging op het Burgerlijk Wetboek
-_Aan alle idioten, die zijn of nog zullen komen, TABÉ._
-
-_De Volkvergadering heeft beslist:_
-
---------------------------
-
-Volgende tekst wordt toegevoegd aan het Burgerlijk Wetboek als titel "V. Gerechtelijk Recht":
-## Algemeen
+## Va. Algemeen
 #### {article}
-De Linker of de voorzitter van een Tribunaal kan ieder persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
+De Linker of eenieder ander persoon die optreedt als rechter in beroep of de voorzitter van een Tribunaal kan ieder persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
 
+## Vb. Beroep
+#### {article}
+In beroep zal een Oepsie poepsie worden berecht door een lid van de Volksvergadering hiervoor verkozen door de Volksvergadering.
+
+#### {article}
+In beroep zal een Da was nie zo goe worden door een lid van de Volksvergadering hiervoor verkozen door de Volksvergadering.
+
+#### {article}
+Er is geen beroep mogelijk tegen een arrest van een Tribunaal.
+
+## Vc. Aansprekingen en ambtskledij
+### Vc-1. Aansprekingen
 #### {article}
 De Linker wordt tijdens een hoorzitting aangesproken met Opperheer.
 
@@ -25,7 +29,7 @@ De eisende partij in burgelijke zaken of de burgelijke partij in strafzaken word
 #### {article}
 De verwerende partij in burgerlijke zaken of de verdediging in strafzaken wordt tijdens een hoorzitting aangesproken met Luigi.
 
-## Ambtskledij
+### Vc-2. Ambtskledij
 #### {article}
 De ambtskledij wordt gedragen bij elke fysieke hoorzitting door de Linker, de leden van een Tribunaal, de Procureur, de Griffier en de advocaten van de aanwezige partijen.
 
@@ -40,9 +44,3 @@ De Procureur en de advocaten van de aanwezige partijen dragen hierbij ook een pr
 
 #### {article}
 De advocaten van de aanwezige partijen dragen hierbij ook een opplaksnor om hun status als Mario en Luigi aan te duiden.
-
---------------------------
-
-_Buriku Eerste Minister Cianci Baklava Feta_
-
-_Op den ``<Datum>``_

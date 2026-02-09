@@ -7,8 +7,8 @@ _De Volkvergadering heeft beslist:_
 #### {article}
 Volgende artikelen worden toegevoegd aan het Burgerlijk wetboek:
 
-##### Art. 9bis
-Voor kolonisatie doeleinden kan de Volksvergadering een motie goedkeuren om de voorwaarden van bovenstaand artikel te laten vervallen en zo specifieke vreemdelingen te naturaliseren tot Idioot.
+##### _Art. 9bis_
+_Voor kolonisatie doeleinden kan de Volksvergadering een motie goedkeuren om de voorwaarden van bovenstaand artikel te laten vervallen en zo specifieke vreemdelingen te naturaliseren tot Idioot._
 
 #### {article}
 Er wordt een Departement der Koloniën opgericht om de Koloniën te besturen en de oprichting van nieuwe Koloniën te bevorderen.

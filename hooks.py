@@ -16,7 +16,7 @@ def on_page_markdown(markdown, *, page, config, files):
 
     if ("{reset-law-code}".lower() in markdown.lower()) or (
         ("{law-code}".lower() in markdown.lower())
-        and (file_path not in LAW_CODES.keys())
+        # and (file_path not in LAW_CODES.keys())
     ):
         LAW_CODES[file_path] = 1
 

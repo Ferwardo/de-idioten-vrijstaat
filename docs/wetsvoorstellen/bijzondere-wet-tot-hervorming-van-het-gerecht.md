@@ -9,13 +9,13 @@ Artikel 36 van de Grondwet zal vanaf nu lezen als volgt:
  
 _Er is één Hof voorgezeten door de Linker. Zij behandelt alle zaken in eerste aanleg met uitzondering deze vastgelegd bij wet._
 
-_Er is één niet-permanent Tribunaal,. Zij behandelt alle zaken waarvoor de wet dit voorschrijft, alle zaken in beroep met uitzondering deze vastgelegd bij wet en alle voorzieningen in cassatie._
+_Er is één niet-permanent Tribunaal,. Zij behandelt alle zaken waarvoor de wet dit voorschrijft en alle voorzieningen in cassatie._
 
 _Het Tribunaal is voorgezeten door de Linker, of een ander lid van de Volksvergadering zoals vastgelegd bij wet, en twee bijzitters gekozen door de voorzitter van het Tribunaal uit de leden van de Volksvergadering._
 
 _Het Tribunaal wordt voor elke zaak of voorziening opnieuw samengesteld._
 
-_Bij een beroep kan het Tribunaal niet worden voorgezeten door dezelfde persoon als diegene die de uitspraak heeft gedaan in eerste aanleg._
+_Bij beroep kan niemand die een uitspraak heeft gedaan in eerste aanleg de zaak opnieuw berechten, zij het als lid van een Tribunaal of alleen._
 
 #### {article}
 Volgend artikel wordt toegevoegd aan de Grondwet:

@@ -9,7 +9,7 @@ _De Volkvergadering heeft beslist:_
 #### {article}
 Volgende misdrijven worden toegevoegd aan het Stafwetbroek als Da was nie zo goe:
 
-##### _Art. 36 Oneervol gedrag_
+##### _Oneervol gedrag_
 _Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere van volgende handelingen stelt:_
 
 * _Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen._
@@ -26,7 +26,7 @@ _Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere va
 #### {article}
 Volgend misdrijf wordt toegevoegd aan het Stafwetbroek als Fuck it lets ball:
 
-##### _Art. 40 Verbreking van de Openbare Trouw_
+##### _Verbreking van de Openbare Trouw_
 _Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met één of meerdere van volgende handelingen stelt:_
 
 * _Wetens en willens valse of onvolledige verklaringen afleggen onder ede._
