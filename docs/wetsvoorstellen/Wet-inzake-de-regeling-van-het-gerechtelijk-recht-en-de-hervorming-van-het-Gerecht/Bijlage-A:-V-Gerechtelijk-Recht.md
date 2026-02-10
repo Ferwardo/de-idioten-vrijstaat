@@ -34,7 +34,7 @@ De verwerende partij in burgerlijke zaken of de verdediging in strafzaken wordt 
 De ambtskledij wordt gedragen bij elke fysieke hoorzitting door de Linker, de leden van een Tribunaal, de Procureur, de Griffier en de advocaten van de aanwezige partijen.
 
 #### {article}
-De basis van de ambtskledij bestaat voor iedereen uit de nationale klederdracht met daarover een veel te groot Hawaii hemd dat open gedragen wordt.
+De basis van de ambtskledij bestaat voor iedereen uit de nationale klederdracht. Het Hawaii hemd word opengedragen met daaronder ofwel een wit marcelleke of niks afhankelijk van de omgevingstemperatuur en voorkeur van de drager.
 
 #### {article}
 De Linker en de leden van een Tribunaal dragen hierbij ook een pruik met lang haar.
