@@ -17,7 +17,6 @@ _Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere va
 * _Wreedheid tegenover een persoon._
 * _Lafheid tegenover vijanden van de Vrijstaat._
 * _Schandaleus gedrag._
-* _Onrechtvaardigheid tegenover een Idioot._
 * _Aanranding van de eerbaarheid of verkrachting van een persoon._
 * _Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot._
 * _Graf- en lijkschennis._
