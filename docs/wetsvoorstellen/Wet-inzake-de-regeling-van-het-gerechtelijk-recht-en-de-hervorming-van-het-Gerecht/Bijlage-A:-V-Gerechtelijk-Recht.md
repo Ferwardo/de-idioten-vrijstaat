@@ -1,16 +1,22 @@
 ## Va. Algemeen
 #### {article}
-De Linker, eenieder ander persoon die optreedt als rechter in beroep of de voorzitter van een Tribunaal kan ieder persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
+De Linker, eenieder ander persoon die optreedt als rechter -zowel in eerste aanleg als in beroep- of de voorzitter van een Tribunaal kan iedere andere persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
 
 ## Vb. Beroep
 #### {article}
-In beroep zal een Oepsie poepsie worden berecht door een lid van de Volksvergadering hiervoor verkozen door de Volksvergadering.
+In beroep zal een Oepsie poepsie worden berecht door een lid van de Volksvergadering die voor die specifieke zaak verkozen is door de Volksvergadering.
 
 #### {article}
-In beroep zal een Da was nie zo goe worden door een lid van de Volksvergadering hiervoor verkozen door de Volksvergadering.
+In beroep zal een Da was nie zo goe worden berecht door een lid van de Volksvergadering die voor die specifieke zaak verkozen is door de Volksvergadering.
 
 #### {article}
 Er is geen beroep mogelijk tegen een arrest van een Tribunaal.
+
+#### {article}
+Bij een beroep of een voorziening in cassatie zal de Procureur dezelfde persoon zijn als de persoon die optrad als Procureur in eerste aanleg.
+
+#### {article}
+Tegen een vonnis uitgesproken in beroep kan men niet in beroep gaan.
 
 ## Vc. Aansprekingen en ambtskledij
 ### Vc-1. Aansprekingen

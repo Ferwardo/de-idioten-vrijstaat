@@ -8,11 +8,13 @@ _De Volkvergadering heeft beslist:_
 #### {article}
 De tekst van [Bijlage A](./Bijlage-A:-V-Gerechtelijk-Recht.md) wordt toegevoegd aan het Burgerlijk Wetboek als titel "V. Gerechtelijk Recht".
 
+Titel `Vb. Beroep` zal pas in werking treden van zodra de `Bijzondere wet tot hervorming van het gerecht` in werking treedt.
+
 #### {article}
 Artikel 51 van het Stafwetbroek zal vanaf nu lezen:
 
 #### _Art. 51_
-_Het proces voor een Fuck it lets ball van de Grondwet zal als volgt verlopen:_
+_Het proces voor een Fuck it lets ball zal als volgt verlopen:_
 
 1. _De samenstelling van het Tribunaal. De twee bijzitters worden gekozen door de voorzitter van het Tribunaal. Voor een Fuck it lets ball zal dit in alle gevallen de Linker zijn uitgezonderd diegene waar de Linker de beschuldigde is, dan zal de Voorzitter van de Volksvergadering het Tribunaal voorzitten._
 1. _De overdracht van het dossier aan het Tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij._
