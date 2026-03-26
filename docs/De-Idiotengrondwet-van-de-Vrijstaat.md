@@ -31,7 +31,10 @@ De Vrijstaat der Idioten zal hiermee op houden te bestaan.
 De wetgevende macht berust bij de Volksvergadering en de Andere Volksvergadering. 
 
 #### {article}
-De uitvoerende macht berust bij de Eerste Minister en de Minister van Alles. 
+De uitvoerende macht berust bij de Kontsuls.
+De ene heet de Linkerbil en de andere heet de Rechterbil.
+
+Zij moeten altijd overeenkomen voordat ze hun macht gebruiken.
 
 #### {article}
 De rechterlijke macht wordt uitgeoefend door de Linker. 
@@ -39,13 +42,6 @@ De rechterlijke macht wordt uitgeoefend door de Linker.
 De arresten en vonnissen worden in naam des Volks uitgevoerd. 
 
 #### {article}
-Men mag in geen van de volgende mandaten een bijkomend mandaat op zich nemen: 
-
-_Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de Minister van Alles, de Linker._
-
-Het mandaat van Secretaris kan wel gecombineerd worden met andere mandaten. 
-
-#### {article-bis}
 Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.
 
 Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
@@ -104,7 +100,7 @@ Elk lid van de Kamers heeft het recht om hun Kamer in buitengewone vergadering b
 De Voorzitters en de Eerste Minister hebben het recht om de Kamers in vergadering te verenigen. 
 
 #### {article}
-Men kan niet tegelijk lid zijn van beide Kamers. 
+Men kan niet tegelijk lid zijn van beide Kamers.
 
 #### {article}
 Bij iedere zitting benoemt elke Kamer haar Voorzitter.
@@ -137,22 +133,22 @@ De Volksvergadering stemt de wetten en kan indien nodig wetsvoorstellen terugstu
 ### IIb. De uitvoerende macht
 
 #### {article}
-Bij iedere zitting verkiest de Volksvergadering de Eerste Minister en de Minister van Alles. 
+Bij iedere zitting verkiest de Volksvergadering de twee Kontsuls.
 
 #### {article}
-De ministers zijn lid van één van de Kamers. 
+De Kontsuls zijn lid van één van de Kamers. 
 
 #### {article}
-De ministers zijn verantwoordelijk tegenover de Volksvergadering. 
+De Kontsuls zijn verantwoordelijk tegenover de Volksvergadering. 
 
 #### {article}
-De Eerste Minister bekrachtigt de wetten en kondigt ze af. 
+De Kontsuls bekrachtigen de wetten en kondigen ze af. 
 
 #### {article}
-De Minister van Alles staat in voor de uitvoering en opvolging van de wetten en nooddecreten. 
+De Kontsuls staan in voor de uitvoering en opvolging van de wetten en nooddecreten. 
 
 #### {article}
-De Eerste Minister kan in tijden van nood speciale decreten uitvaardigen. Deze zijn tien dagen geldig. 
+De Kontsuls kunnen in tijden van nood speciale decreten uitvaardigen. Deze zijn tien dagen geldig. 
 
 #### {article-bis}
 Nooddecreten kunnen enkel door de Kamers worden verlengd. Ofwel per normale vergadering ofwel per buitengewone vergadering kan een korte motie worden voorgesteld om nooddecreten te verlengen. Deze worden per twee derde meerderheid gestemd en moeten worden goedgekeurd door de Voorzitter van de Andere Volksvergadering. 

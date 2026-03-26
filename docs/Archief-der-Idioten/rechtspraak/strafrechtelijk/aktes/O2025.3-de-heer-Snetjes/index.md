@@ -7,7 +7,7 @@ Aan de Linker, TABÉ.
 ## Beklaagde
 Naam: _Buriku de Secretaris, de Corrupte Minister van Alles de heer Snetjes_
 
-Adres: _Gestelstraat 21, 2250 Olen_
+Adres: _Groot-België_
 
 Nationaliteit: _Idioot_
 

@@ -5,10 +5,10 @@ _De volledige Volkvergadering heeft unaniem en met één stem besloten:_
 --------------------------
 Als titel V van de Grondwet worden volgende artikelen aangenomen.
 
-#### Art. 51 _Goedgekeurd op 10/11_
+#### Art. 51 _Goedgekeurd op 10/11/2025_
 Een groet voor, tijdens of juist na een fysieke vergadering zal een handdruk zijn met de linkerhand op even dagen en met de rechterhand op oneven dagen. De Linker groet altijd met de linkerhand.
 
-#### Art. 52  _Goedgekeurd op 5/08_
+#### Art. 52  _Goedgekeurd op 5/08/2025_
 Het Rijkswapen zal de Opposum met een cowboyhoed zijn. De kenspreuk zal "Be rootin, be tootin, and by god be shooting but most of all be kind" zijn.
 
 #### Art. 53
