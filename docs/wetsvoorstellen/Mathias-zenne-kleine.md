@@ -5,7 +5,7 @@ _De Volkvergadering heeft beslist:_
 --------------------------
 
 #### {article}
-Idioten kunnen wetsvoorstellen indienen bij de Secretaris in de vorm van een Messenger tekst bericht. De Secretaris zal deze dan omzetten naar de juiste syntax en indienen.
+Mathias zenne eerste kleine moet Jericho Gravers heten in intieme kring.
 
 --------------------------
 

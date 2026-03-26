@@ -9,15 +9,9 @@ Artikel 36 van de Grondwet zal vanaf nu lezen als volgt:
  
 _Er is één Hof voorgezeten door de Linker. Zij behandelt alle zaken in eerste aanleg met uitzondering deze vastgelegd bij wet._
 
-<<<<<<< HEAD
-_Er is één niet-permanent Tribunaal,. Zij behandelt alle zaken waarvoor de wet dit voorschrijft en alle voorzieningen in cassatie._
-
-_Het Tribunaal is voorgezeten door de Linker, of een ander lid van de Volksvergadering zoals vastgelegd bij wet, en twee bijzitters gekozen door de voorzitter van het Tribunaal uit de leden van de Volksvergadering._
-=======
 _Er is één niet-permanent Tribunaal. Zij behandelt alle zaken waarvoor de wet dit voorschrijft en alle voorzieningen in cassatie._
 
 _Het Tribunaal is voorgezeten door de Linker, of een ander lid van de Volksvergadering zoals vastgelegd bij wet, en twee bijzitters aangeduid zoals vastgelegd bij wet._
->>>>>>> main
 
 _Het Tribunaal wordt voor elke zaak of voorziening opnieuw samengesteld._
 
@@ -43,6 +37,6 @@ _Dit Tribunaal spreekt zich niet uit over de inhoud van zaken._
 
 --------------------------
 
-_Buriku Eerste Minister Cianci Baklava Feta_
+_De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den ``<Datum>``_
+_Op den `<Datum>`_

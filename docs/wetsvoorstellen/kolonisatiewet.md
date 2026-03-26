@@ -26,6 +26,6 @@ De Idioten waarvoor de Volksvergadering een nieuwe Kreits als Kolonie sticht, ki
 
 --------------------------
 
-_Buriku Eerste Minister Cianci Baklava Feta_
+_De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den ``<Datum>``_
+_Op den `<Datum>`_

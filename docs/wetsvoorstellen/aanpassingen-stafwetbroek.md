@@ -35,6 +35,6 @@ _Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met 
 
 --------------------------
 
-_Buriku Eerste Minister Cianci Baklava Feta_
+_De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den ``<Datum>``_
+_Op den `<Datum>`_
