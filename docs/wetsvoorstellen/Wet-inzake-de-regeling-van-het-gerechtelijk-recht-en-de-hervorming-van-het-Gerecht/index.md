@@ -41,7 +41,7 @@ _Voor een voorziening in cassatie of voor de processen bedoeld in artikelen 11 e
 _Het Tribunaal wordt echter volledig samengesteld door de Volksvergadering met een normale 2/3de meerderheid._
 
 #### {article}
-Het gebruik van een Volksjury wordt opgeschort tot nader order.
+Het gebruik van een Volksjury wordt opgeschort tot nader order vanwege het te lage aantal Idioten.
 
 --------------------------
 
