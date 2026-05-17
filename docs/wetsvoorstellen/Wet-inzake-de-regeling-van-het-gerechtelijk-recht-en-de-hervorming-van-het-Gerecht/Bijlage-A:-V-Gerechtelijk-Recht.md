@@ -1,6 +1,6 @@
 ## Va. Algemeen
 #### {article}
-De Linker, eenieder ander persoon die optreedt als rechter -zowel in eerste aanleg als in beroep- of de voorzitter van een Tribunaal kan iedere andere persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
+De Linker, eenieder ander persoon die optreedt als rechter -zowel in eerste aanleg als in beroep- of de voorzitter van een Tribunaal kan iedere andere persoon laten verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
 
 ## Vb. Beroep
 #### {article}

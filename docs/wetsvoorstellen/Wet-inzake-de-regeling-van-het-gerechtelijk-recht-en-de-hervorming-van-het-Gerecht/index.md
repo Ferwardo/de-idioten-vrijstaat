@@ -16,7 +16,7 @@ Artikel 51 van het Stafwetbroek zal vanaf nu lezen:
 #### _Art. 51_
 _Het proces voor een Fuck it lets ball zal als volgt verlopen:_
 
-1. _De samenstelling van het Tribunaal. De twee bijzitters worden gekozen door de voorzitter van het Tribunaal. Voor een Fuck it lets ball zal dit in alle gevallen de Linker zijn uitgezonderd diegene waar de Linker de beschuldigde is, dan zal de Voorzitter van de Volksvergadering het Tribunaal voorzitten._
+1. _De samenstelling van het Tribunaal. De twee bijzitters worden gekozen door de voorzitter van het Tribunaal. Voor een Fuck it lets ball zal dit in alle gevallen de Linker zijn uitgezonderd voor zaken waar de Linker de beschuldigde is, dan zal de Voorzitter van de Volksvergadering het Tribunaal voorzitten._
 1. _De overdracht van het dossier aan het Tribunaal, de Procureur, de beklaagde, en indien aanwezig de burgerlijke partij._
 1. _De neerlegging van de lijst van getuigen bij de Griffier._
 1. _De voorlezing van de akte van inbeschuldigingstelling door de Griffier, indien van toepassing._

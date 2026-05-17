@@ -14,12 +14,9 @@ _Men zal worden veroordeeld voor oneervol gedrag indien men één of meerdere va
 
 * _Het vernietigen van bewijslast en belemmering van de rechtsgang in het algemeen._
 * _Fraude tegenover de Vrijstaat of een andere Idioot._
-* _Wreedheid tegenover een persoon._
 * _Lafheid tegenover vijanden van de Vrijstaat._
-* _Schandaleus gedrag._
 * _Aanranding van de eerbaarheid of verkrachting van een persoon._
 * _Aanranding van de eer en goede naam van Idioten, deze handeling wordt enkel vervolgd na neerlegging van een klacht door de benadeelde Idioot._
-* _Graf- en lijkschennis._
 * _Wetens en willens valse aangifte doen van een misdrijf._
 
 #### {article}
@@ -32,6 +29,15 @@ _Men zal worden veroordeeld voor het verbreken van de Openbare Trouw indien met 
 * _Valsmunterij._
 * _Namaak van 's Lands zegel._
 * _Valsheid in geschrifte._
+
+#### {article}
+Volgende zin wordt geschrapt uit het artikel i.v.m. de Oepsie Poepsie "Te laat of niet aanwezig zijn":
+
+_De reden voor te laat komen of afwezigheid wordt beoordeeld op gegrondheid door de Linker tijdens de hoorzitting._
+
+Volgende zin wordt toegevoegd aan de Oepsie Poepsie "Te laat of niet aanwezig zijn":
+
+_Een gegronde reden is elke reden die wordt gecommuniceerd voor het afgesproken uur._
 
 --------------------------
 
