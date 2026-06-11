@@ -1,5 +1,5 @@
 import re
-
+import os
 
 DEBUG = False
 
@@ -88,6 +88,10 @@ def on_page_markdown(markdown, *, page, config, files):
         .replace("{law-code}", "")
         .replace("{reset-law-code}", "")
     )
+
+    os.makedirs(f".temp/{file_path}", exist_ok=True)
+    with open(f".temp/{file_path}/{page.file.name}.md", mode="w") as file:
+        file.write(markdown)
 
     # Replace all occurrences of {article} or derivatives
     return markdown
