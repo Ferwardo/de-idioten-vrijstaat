@@ -1,6 +1,6 @@
 ## Va. Algemeen
 #### {article}
-De Linker, eenieder ander persoon die optreedt als rechter -zowel in eerste aanleg als in beroep- of de voorzitter van een Tribunaal kan iedere andere persoon verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
+De Linker, eenieder ander persoon die optreedt als rechter -zowel in eerste aanleg als in beroep- of de voorzitter van een Tribunaal kan iedere andere persoon laten verwijderen uit de zitting indien deze onrust veroorzaken tijdens een hoorzitting.
 
 ## Vb. Beroep
 #### {article}
@@ -40,7 +40,7 @@ De verwerende partij in burgerlijke zaken of de verdediging in strafzaken wordt 
 De ambtskledij wordt gedragen bij elke fysieke hoorzitting door de Linker, de leden van een Tribunaal, de Procureur, de Griffier en de advocaten van de aanwezige partijen.
 
 #### {article}
-De basis van de ambtskledij bestaat voor iedereen uit de nationale klederdracht. Het Hawaii hemd word opengedragen met daaronder ofwel een wit marcelleke of niks afhankelijk van de omgevingstemperatuur en voorkeur van de drager.
+De basis van de ambtskledij bestaat voor iedereen uit een regenponcho van den Decathlon. Met voorkeur zal deze poncho zwart zijn.
 
 #### {article}
 De Linker en de leden van een Tribunaal dragen hierbij ook een pruik met lang haar.

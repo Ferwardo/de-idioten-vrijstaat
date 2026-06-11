@@ -37,6 +37,6 @@ _Dit Tribunaal spreekt zich niet uit over de inhoud van zaken._
 
 --------------------------
 
-_Buriku Eerste Minister Cianci Baklava Feta_
+_De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den ``<Datum>``_
+_Op den `<Datum>`_
