@@ -9,6 +9,6 @@ Indien een idioot hoest zullen alle idioten die zich in eenzelfde kamer bevinden
 
 --------------------------
 
-_Buriku Eerste Minister Cianci Baklava Feta_
+_De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den ``<Datum>``_
+_Op den `<Datum>`_
