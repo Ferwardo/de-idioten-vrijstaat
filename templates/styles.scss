@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Quattrocento:wght@400;700&display=swap');
+
+html,
+body {
+    font-family: 'Quattrocento' !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Cinzel' !important;
+    border: none !important;
+}
+
+hr {
+    display: none;
+}
+
+.pdf-order {
+    display: none;
+}
+
+.cover {
+    text-align: center;
+}

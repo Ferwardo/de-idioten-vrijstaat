@@ -22,11 +22,19 @@ De Grondwet kan noch geheel, noch ten dele worden geschorst.
 #### {article}
 Alle machten gaan uit van de Vrijstaat. Zij worden uitgeoefend op de bij Grondwet bepaalde wijze. 
 
+#### {article-bis}
+Enkel indien er onoverkomelijke meningsverschillen ontstaan tussen meer dan de helft van de leden onderling zal de Grondwet na unanieme beslissing worden ontbonden. In geen enkel ander geval kan dit gebeuren.
+
+De Vrijstaat der Idioten zal hiermee op houden te bestaan.
+
 #### {article}
 De wetgevende macht berust bij de Volksvergadering en de Andere Volksvergadering. 
 
 #### {article}
-De uitvoerende macht berust bij de Eerste Minister en de Minister van Alles. 
+De uitvoerende macht berust bij de Kontsuls.
+De ene heet de Linkerbil en de andere heet de Rechterbil.
+
+Zij moeten altijd overeenkomen voordat ze hun macht gebruiken.
 
 #### {article}
 De rechterlijke macht wordt uitgeoefend door de Linker. 
@@ -34,11 +42,9 @@ De rechterlijke macht wordt uitgeoefend door de Linker.
 De arresten en vonnissen worden in naam des Volks uitgevoerd. 
 
 #### {article}
-Men mag in geen van de volgende mandaten een bijkomend mandaat op zich nemen: 
+Men mag geen mandaat meer dragen na het bereiken van de pensioenleeftijd. Elk ander recht blijft behouden.
 
-_Voorzitter van de Volksvergadering, Voorzitter van de Andere Volksvergadering, de Eerste Minister, de Minister van Alles, de Linker._
-
-Het mandaat van Secretaris kan wel gecombineerd worden met andere mandaten. 
+Indien een Idioot op de dag dat hij op pensioen gaan, mandaathouder is, zal hij automatisch uit zijn mandaat ontzet worden. Een nieuwe mandaathouder zal worden benoemd of verkozen om het mandaat in te vullen.
 
 #### {article}
 Na een motie van wantrouwen gestemd bij normale 2/3de meerderheid door de Volksvergadering tegen een mandaathouder zal een tribunaal worden opgericht bestaande uit de Linker of de Voorzitter van de Volksvergadering en twee leden van de Kamers. 
@@ -94,7 +100,7 @@ Elk lid van de Kamers heeft het recht om hun Kamer in buitengewone vergadering b
 De Voorzitters en de Eerste Minister hebben het recht om de Kamers in vergadering te verenigen. 
 
 #### {article}
-Men kan niet tegelijk lid zijn van beide Kamers. 
+Men kan niet tegelijk lid zijn van beide Kamers.
 
 #### {article}
 Bij iedere zitting benoemt elke Kamer haar Voorzitter.
@@ -127,22 +133,22 @@ De Volksvergadering stemt de wetten en kan indien nodig wetsvoorstellen terugstu
 ### IIb. De uitvoerende macht
 
 #### {article}
-Bij iedere zitting verkiest de Volksvergadering de Eerste Minister en de Minister van Alles. 
+Bij iedere zitting verkiest de Volksvergadering de twee Kontsuls.
 
 #### {article}
-De ministers zijn lid van één van de Kamers. 
+De Kontsuls zijn lid van één van de Kamers. 
 
 #### {article}
-De ministers zijn verantwoordelijk tegenover de Volksvergadering. 
+De Kontsuls zijn verantwoordelijk tegenover de Volksvergadering. 
 
 #### {article}
-De Eerste Minister bekrachtigt de wetten en kondigt ze af. 
+De Kontsuls bekrachtigen de wetten en kondigen ze af. 
 
 #### {article}
-De Minister van Alles staat in voor de uitvoering en opvolging van de wetten en nooddecreten. 
+De Kontsuls staan in voor de uitvoering en opvolging van de wetten en nooddecreten. 
 
 #### {article}
-De Eerste Minister kan in tijden van nood speciale decreten uitvaardigen. Deze zijn tien dagen geldig. 
+De Kontsuls kunnen in tijden van nood speciale decreten uitvaardigen. Deze zijn tien dagen geldig. 
 
 #### {article-bis}
 Nooddecreten kunnen enkel door de Kamers worden verlengd. Ofwel per normale vergadering ofwel per buitengewone vergadering kan een korte motie worden voorgesteld om nooddecreten te verlengen. Deze worden per twee derde meerderheid gestemd en moeten worden goedgekeurd door de Voorzitter van de Andere Volksvergadering. 
@@ -151,7 +157,7 @@ Nooddecreten kunnen enkel door de Kamers worden verlengd. Ofwel per normale verg
 Nooddecreten zijn geldig tot het begin van de tweede volgende zitting na hun uitroeping, waarop ze aan het begin van de zitting door de Voorzitter worden vernietigd. 
 
 #### {article-quater}
-Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering bijeengeroepen worden om het decreet te vernietigen bij normale 2/3de meerderheid. Deze stemming telt eveneens als een motie van wanvertrouwen, die indien aangenomen leidt tot de procedure zoals beschreven in Art. 10. 
+Op verzoek van een lid van de Volksvergadering kan een buitengewone vergadering bijeengeroepen worden om het decreet te vernietigen bij normale 2/3de meerderheid. Deze stemming telt eveneens als een motie van wanvertrouwen, die indien aangenomen leidt tot de procedure zoals beschreven in Art. 11. 
 
 ### IIc. De rechterlijke macht
 

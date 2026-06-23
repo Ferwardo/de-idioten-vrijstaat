@@ -11,4 +11,4 @@ Mathias zenne eerste kleine moet Jericho Gravers heten in intieme kring.
 
 _De Kontsuls van het Jaar des Herens Tweeduizendzesentwintig_
 
-_Op den `<Datum>`_
+_Op den 17de Juni 2026_
