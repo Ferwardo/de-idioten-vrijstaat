@@ -34,3 +34,6 @@ Aan het einde van de zegening, in herhaling van de Pontifex Maximus, zullen de a
 #### {article}
 De leden van de Volksvergadering worden persoonlijk en tesamen aangesproken met "Buriku".
 De Voorzitter van de Volksvergadering wordt aangesproken met "Buriku de Voorzitter".
+
+#### {article}
+Een plenaire vergadering zal ten hoogste 42 minuten en 69 seconden in beslag nemen.
