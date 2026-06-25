@@ -1,0 +1,20 @@
+.provider {
+    counter-reset: article var(--article-start);
+}
+
+.header::before {
+    counter-increment: article;
+    content: "Art. " counter(article);
+}
+
+.headerBis::before {
+    content: "Art. " counter(article) "bis";
+}
+
+.headerTer::before {
+    content: "Art. " counter(article) "ter";
+}
+
+.headerQuater::before {
+    content: "Art. " counter(article) "quater";
+}
