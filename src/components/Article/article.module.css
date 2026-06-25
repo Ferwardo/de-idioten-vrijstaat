@@ -18,3 +18,10 @@
 .headerQuater::before {
     content: "Art. " counter(article) "quater";
 }
+
+.header span,
+.headerBis span,
+.headerTer span,
+.headerQuater span {
+    margin-left: 0.4em;
+}

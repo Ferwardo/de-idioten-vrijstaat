@@ -81,6 +81,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'wetboek',
+          position: 'left',
+          label: 'Wetboek der Idioten',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'archief',
           position: 'left',
           label: 'Archief der Idioten',

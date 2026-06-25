@@ -1,12 +1,19 @@
 import React from 'react';
 import styles from './article.module.css';
+import { books } from './books';
 
 interface ArticleProviderProps {
     children: React.ReactNode;
-    start?: number;
+    book: string;
+    page: string;
 }
 
-export function ArticleProvider({ children, start = 0 }: ArticleProviderProps) {
+interface ArticleProps {
+    children?: React.ReactNode;
+}
+
+export function ArticleProvider({ children, book, page }: ArticleProviderProps) {
+    const start = books[book]?.pages[page] ?? 0;
     return (
         <div
             className={styles.provider}
@@ -17,16 +24,32 @@ export function ArticleProvider({ children, start = 0 }: ArticleProviderProps) {
     );
 }
 
-export function Article() {
-    return <h4 className={styles.header} />;
+export function Article({ children }: ArticleProps) {
+    return (
+        <h4 className={styles.header}>
+            {children && <span>{children}</span>}
+        </h4>
+    );
 }
 
-export function ArticleBis() {
-    return <h4 className={styles.headerBis} />;
+export function ArticleBis({ children }: ArticleProps) {
+    return (
+        <h4 className={styles.headerBis}>
+            {children && <span>{children}</span>}
+        </h4>
+    );
 }
-export function ArticleTer() {
-    return <h4 className={styles.headerTer} />;
+export function ArticleTer({ children }: ArticleProps) {
+    return (
+        <h4 className={styles.headerTer}>
+            {children && <span>{children}</span>}
+        </h4>
+    );
 }
-export function ArticleQuater() {
-    return <h4 className={styles.headerQuater} />;
+export function ArticleQuater({ children }: ArticleProps) {
+    return (
+        <h4 className={styles.headerQuater}>
+            {children && <span>{children}</span>}
+        </h4>
+    );
 }
