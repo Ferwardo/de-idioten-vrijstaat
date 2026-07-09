@@ -5,3 +5,5 @@ site*/
 .docusaurus
 node_modules
 old
+backup/
+.temp/
