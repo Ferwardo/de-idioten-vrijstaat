@@ -1,3 +1,4 @@
+# Bijzondere wet met betrekking tot de pensioenleeftijd
 _Aan alle idioten, die zijn of nog zullen komen, TABÉ._
 
 _De volledige Volkvergadering heeft unaniem en met één stem besloten:_
