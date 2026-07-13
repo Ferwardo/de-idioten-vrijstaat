@@ -25,3 +25,7 @@ node_modules
 old
 backup/
 .temp/
+
+
+# Compiled files
+**/__pycache__/
