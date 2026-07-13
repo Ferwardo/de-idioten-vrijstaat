@@ -20,5 +20,8 @@ yarn-debug.log*
 yarn-error.log*
 
 site*/
+.docusaurus
+node_modules
+old
 backup/
 .temp/
