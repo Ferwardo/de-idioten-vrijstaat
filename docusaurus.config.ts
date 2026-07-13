@@ -91,12 +91,18 @@ const config: Config = {
           position: 'left',
           label: 'Archief der Idioten',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'wetsvoorstellen',
+          position: 'left',
+          label: 'Wetsvoorstellen',
+        },
       ],
     },
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} De Vrijstaat der Idioten.`,
     },
     prism: {
       theme: prismThemes.github,

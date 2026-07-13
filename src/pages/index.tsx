@@ -31,7 +31,7 @@ export default function Home(): ReactNode {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        Hier komt nog iets
+        Hier komt nog iets, suggesties in te sturen via Roost. Ook voor een logo moogt ge hier suggesties naar versturen.
       </main>
     </Layout>
   );

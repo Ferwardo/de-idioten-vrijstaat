@@ -15,7 +15,7 @@
   --ifm-color-primary-light: #25231A;
   --ifm-color-primary-lighter: #3D3B33;
   --ifm-color-primary-lightest: #56544D;
-  --ifm-font-family-base: "Cinzel";
+  --ifm-font-family-base: "Quattrocento";
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -32,4 +32,19 @@
   --ifm-link-color: var(--ifm-color-primary-lightest);
   --ifm-link-hover-color: var(--ifm-color-primary-lightest);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Cinzel';
+}
+
+ol ol {
+  list-style-type: upper-alpha;
+}
+
+ol ol ol {
+  list-style-type: upper-roman;
 }
